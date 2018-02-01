@@ -1,0 +1,32 @@
+\t (00:00:02) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Wed Jan 31 12:49:15 2018
+\t (00:00:02)         Host=DESKTOP-HO2OLGD User=dwadmin Pid=5124 CPUs=4
+\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Cadence\Walking Aid Device\PCB Lib\PowerConn\350759-4.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:09) fillin yes 
+\d (00:00:09) Design opened: C:/Cadence/Walking Aid Device/PCB Lib/PowerConn/350759-4.dra
+\i (00:00:09) trapsize 6045
+\i (00:00:09) trapsize 6208
+\i (00:00:09) trapsize 6208
+\i (00:00:11) delete 
+\i (00:00:12) pick grid -0.3342 4.4189
+\t (00:00:12) last pick:  0.0000 5.0800
+\t (00:00:12) Text "Dev"
+\i (00:00:12) pick grid dbl -0.3342 4.4189
+\t (00:00:12) last pick:  0.0000 5.0800
+\t (00:00:12) Line "Package Geometry/Silkscreen_Top"
+\i (00:00:19) dlib 
+\i (00:00:20) setwindow form.dlib
+\i (00:00:20) FORM dlib browse_export  
+\i (00:00:22) fillin "C:/Cadence/Walking Aid Device/PCB Lib/PowerConn"
+\i (00:00:24) FORM dlib execute  
+\t (00:00:24) Starting Cadence export libraries...
+\i (00:00:27) FORM dlib cancel  
+\i (00:00:30) setwindow pcb
+\i (00:00:30) save 
+\i (00:00:31) fillin yes 
+\t (00:00:31) Symbol '350759-4.psm' created.
+\i (00:00:33) exit 
+\t (00:00:33)     Journal end - Wed Jan 31 12:49:46 2018

@@ -1,0 +1,194 @@
+
+(EDIF
+  (rename &350759_45_4 "350759-4")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2018 01 31 12 20 24)
+      (dataOrigin "SnapEDA snapeda.comCopyright - This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0")
+      (program "SnapEDA Converter")
+    )
+  )
+  (library
+    (rename &350759_45_4 "350759-4")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition
+        (scale 1 (e 254 -9) (unit DISTANCE))
+        (gridMap 1 1)
+      )
+      (figureGroup PINNAME
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (pathWidth 0)
+        (textHeight 4811)
+      )
+      (figureGroup PINNUMBER
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (textHeight 9000)
+        (pathWidth 0)
+      )
+      (figureGroup PORT
+        (pathWidth 1000)
+        (textHeight 9000)
+      )
+      (figureGroup PARTBODY
+        (pathWidth 1000)
+        (borderWidth 1000)
+        (textHeight 6000)
+      )
+    )
+    (cell
+      (rename MTA_45_1_2 "MTA-1_2")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "J")
+          (property (rename VALUE "Value") (string "MTA-1_2"))
+          (port
+            (rename &1 "1")
+            (designator "1")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 0)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename &2 "2")
+            (designator "2")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 1)
+              (owner "OrCAD")
+            )
+          )
+          (symbol
+            (boundingBox (rectangle (pt -5000 -10000) (pt 15000 5000)))
+            (portImplementation
+              (name &1)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 0 -10000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 0 -10000)
+                    (pt 0 0)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name &2)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 10000 -10000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 10000 -10000)
+                    (pt 10000 0)
+                  )
+                )
+              )
+            )
+            (figure PARTBODY
+              (path (pointList (pt -5000 5000) (pt -5000 -7500)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 15000 -7500) (pt -5000 -7500)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 15000 -7500) (pt 15000 5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -5000 5000) (pt 15000 5000)))
+            )
+            (figure PARTBODY
+              (circle (pt -2500 0) (pt 2500 0))
+            )
+            (figure PARTBODY
+              (circle (pt 7500 0) (pt 12500 0))
+            )
+            (keywordDisplay DESIGNATOR
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt 20033 0))
+              )
+            )
+            (propertyDisplay VALUE
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt 20047 -15035))
+              )
+            )
+            (annotate
+              (stringDisplay "1"
+                (display PARTBODY
+                  (justify LOWERLEFT)
+                  (orientation R0)
+                  (origin (pt -10031 -5015))
+                )
+              )
+            )
+            (property (rename PCB_Footprint "PCB Footprint") (string "350759-4"))
+            (property
+              (rename MP "MP")
+              (string
+              (stringDisplay "&350759_45_4"))
+            )
+            (property
+              (rename PACKAGE "PACKAGE")
+              (string
+              (stringDisplay "NONE"))
+            )
+            (property
+              (rename PRICE "PRICE")
+              (string
+              (stringDisplay "&0_46_35_32_USD"))
+            )
+            (property
+              (rename DESCRIPTION "DESCRIPTION")
+              (string
+              (stringDisplay "CONN_32_HEADER_32_2POS_32_VERT_32__46_250_32_TIN"))
+            )
+            (property
+              (rename MF "MF")
+              (string
+              (stringDisplay "TE"))
+            )
+            (property
+              (rename AVAILABILITY "AVAILABILITY")
+              (string
+              (stringDisplay "GOOD"))
+            )
+          )
+        )
+      )
+    )
+  )
+)

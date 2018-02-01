@@ -1,0 +1,8 @@
+#Allegro PCB Router v17-2-50 made 2016/03/28 at 15:56:36
+#Host 
+#ROUTING STATUS <<< C:/Cadence/Walking Aid Device/PCB\WalkingAidDevice.dsn >>>
+Start  Time: Report Time: Thu Feb 01 11:48:24 2018
+
+Nets         =       69   Connections         =      155
+Current Wire =        0   Reroute wires       =      104
+Completion   =   46.45%   Unconnections       =       83

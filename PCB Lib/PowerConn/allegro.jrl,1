@@ -1,0 +1,59 @@
+\t (00:00:02) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Wed Jan 31 12:18:41 2018
+\t (00:00:02)         Host=DESKTOP-HO2OLGD User=dwadmin Pid=948 CPUs=4
+\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\dwadmin\Downloads\350759-4\350759-4.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:06) fillin yes 
+\d (00:00:06) Design opened: C:/Users/dwadmin/Downloads/350759-4/350759-4.dra
+\i (00:00:06) trapsize 6045
+\i (00:00:06) trapsize 6208
+\i (00:00:06) trapsize 6208
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -6.7910 2.5563
+\i (00:00:07) trapsize 3104
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -6.7910 2.5563
+\i (00:00:07) trapsize 1552
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -6.7910 2.5563
+\i (00:00:07) trapsize 776
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in -6.7909 2.5564
+\i (00:00:08) trapsize 388
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out -6.7909 2.5564
+\i (00:00:08) trapsize 776
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out -6.7908 2.5564
+\i (00:00:08) trapsize 1552
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out -6.7909 2.5563
+\i (00:00:18) trapsize 3104
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in 4.1361 0.1971
+\i (00:00:23) trapsize 1552
+\i (00:00:24) show measure 
+\i (00:00:26) pick grid -3.6245 0.4144
+\t (00:00:26) last pick:  -3.8100 0.6350
+\i (00:00:27) pick grid 3.2980 -0.1444
+\t (00:00:27) last pick:  3.1750 0.0000
+\i (00:00:29) setwindow text
+\i (00:00:29) close 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) prmed 
+\i (00:00:34) setwindow form.prmedit
+\i (00:00:34) FORM prmedit design  
+\i (00:00:36) FORM prmedit cancel  
+\i (00:12:02) setwindow pcb
+\i (00:12:02) exit 
+\t (00:12:02)     Journal end - Wed Jan 31 12:30:41 2018
