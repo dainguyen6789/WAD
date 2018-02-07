@@ -8974,4 +8974,5405 @@ save
 \i (27:01:02) zoom in 1 
 \i (27:01:02) setwindow pcb
 \i (27:01:02) zoom in 318.0891 249.2604
-\t (27:01:02) Grids are drawn 0.4000, 0.4000 apart for enhanced
+\t (27:01:02) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (27:01:02) trapsize 3723
+\i (27:01:02) roam y -96 
+\i (27:01:02) roam y -96
+\i (27:01:03) roam y -96 
+\i (27:01:03) roam y -96
+\i (27:01:05) zoom out 1 
+\i (27:01:05) setwindow pcb
+\i (27:01:05) zoom out 318.3869 263.6292
+\t (27:01:05) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (27:01:05) trapsize 7445
+\i (27:01:06) zoom in 1 
+\i (27:01:06) setwindow pcb
+\i (27:01:06) zoom in 318.3869 263.6292
+\t (27:01:06) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (27:01:06) trapsize 3723
+\i (27:01:07) roam y 96 
+\i (27:01:07) roam y 96
+\i (27:12:24) pick grid 301.0399 263.4058
+\t (27:12:24) last pick:  301.0000 263.4000
+\i (27:12:26) roam y 96 
+\i (27:12:26) roam y 96
+\i (27:12:28) roam y -96 
+\i (27:12:28) roam y -96
+\i (27:12:29) roam y -96 
+\i (27:12:29) roam y -96
+\i (27:12:29) roam y -96 
+\i (27:12:29) roam y -96
+\i (27:12:29) roam y -96 
+\i (27:12:29) roam y -96
+\i (27:12:29) roam y 96 
+\i (27:12:29) roam y 96
+\i (27:12:30) roam y 96 
+\i (27:12:30) roam y 96
+\i (27:20:44) zoom out 1 
+\i (27:20:44) setwindow pcb
+\i (27:20:44) zoom out 306.8471 273.9034
+\t (27:20:44) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (27:20:44) trapsize 7445
+\i (27:20:45) pick grid 302.3800 273.9034
+\t (27:20:45) last pick:  302.4000 273.9000
+\i (27:20:45) roam x -96 
+\i (27:20:45) roam x -96
+\i (27:20:47) pick grid 293.6327 255.1419
+\t (27:20:47) last pick:  293.6000 255.1000
+\i (27:23:58) zoom in 1 
+\i (27:23:58) setwindow pcb
+\i (27:23:58) zoom in 328.6245 262.8847
+\t (27:23:58) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (27:23:58) trapsize 3723
+\i (27:31:24) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (27:31:25) pick grid 348.0561 275.3924
+\t (27:31:25) last pick:  348.1000 275.4000
+\i (27:31:25) zoom in 1 
+\i (27:31:25) setwindow pcb
+\i (27:31:25) zoom in 326.7633 270.3298
+\t (27:31:25) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (27:31:25) trapsize 1861
+\i (27:31:26) zoom in 1 
+\i (27:31:26) setwindow pcb
+\i (27:31:26) zoom in 326.7633 270.3299
+\i (27:31:26) trapsize 931
+\i (27:31:26) roam y -96 
+\i (27:31:26) roam y -96
+\i (27:31:26) roam y -96 
+\i (27:31:26) roam y -96
+\i (27:31:30) roam y -96 
+\i (27:31:30) roam y -96
+\i (27:31:30) roam y -96 
+\i (27:31:30) roam y -96
+\i (27:31:31) roam y -96 
+\i (27:31:31) roam y -96
+\i (27:31:31) roam y -96 
+\i (27:31:31) roam y -96
+\i (27:31:31) roam y -96 
+\i (27:31:31) roam y -96
+\i (27:31:31) roam y -96 
+\i (27:31:31) roam y -96
+\i (27:31:31) roam y -96 
+\i (27:31:31) roam y -96
+\i (27:31:31) roam y -96 
+\i (27:31:31) roam y -96
+\i (27:31:32) roam y -96 
+\i (27:31:32) roam y -96
+\i (27:31:32) roam y -96 
+\i (27:31:32) roam y -96
+\i (27:31:32) roam y -96 
+\i (27:31:32) roam y -96
+\i (27:31:32) roam x -96 
+\i (27:31:32) roam x -96
+\i (27:31:32) roam x -96 
+\i (27:31:32) roam x -96
+\i (27:31:33) zoom out 1 
+\i (27:31:33) setwindow pcb
+\i (27:31:33) zoom out 320.8996 293.0552
+\i (27:31:33) trapsize 1861
+\i (27:31:34) roam y 96 
+\i (27:31:34) roam y 96
+\i (27:31:42) roam y 96 
+\i (27:31:42) roam y 96
+\i (27:31:58) roam y -96 
+\i (27:31:58) roam y -96
+\i (27:31:58) roam y -96 
+\i (27:31:58) roam y -96
+\i (27:32:03) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (27:32:11) zoom in 1 
+\i (27:32:11) setwindow pcb
+\i (27:32:11) zoom in 320.7879 294.1912
+\i (27:32:11) trapsize 931
+\i (27:32:12) zoom out 1 
+\i (27:32:12) setwindow pcb
+\i (27:32:12) zoom out 320.8065 294.2098
+\i (27:32:12) trapsize 1861
+\i (27:32:16) move 
+\t (27:32:16) Select element(s) to move.
+\i (27:32:17) pick grid 321.1414 293.3536
+\t (27:32:17) last pick:  321.1000 293.4000
+\t (27:32:17) last pick:  325.0000 292.7000
+\t (27:32:17) Moving P1 / POWER CONNECTOR_350759-4_POWER / 350759-4.
+\t (27:32:17) Pick new location for the element(s).
+\i (27:32:25) pick grid 325.5712 293.5025
+\t (27:32:25) last pick:  325.6000 293.5000
+\i (27:32:26) zoom in 1 
+\i (27:32:26) setwindow pcb
+\i (27:32:26) zoom in 324.1939 291.1201
+\i (27:32:26) trapsize 931
+\i (27:32:29) add connect 
+\t (27:32:30) Pick first element.
+\i (27:32:30) pick grid 320.9926 291.8088
+\t (27:32:30) last pick:  321.0000 291.8000
+\t (27:32:30) last pick:  321.0000 291.8000
+\i (27:32:30) mouse_pos 320.9926 291.8088
+\i (27:32:31) mouse_pos 324.8454 292.4230
+\i (27:32:32) mouse_pos 323.5983 294.6937
+\i (27:32:32) mouse_pos 320.0061 295.9780
+\i (27:32:33) delete 
+\i (27:32:35) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (27:32:36) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (27:32:37) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (27:32:39) pick grid 320.4342 291.3435
+\t (27:32:39) last pick:  320.4000 291.3000
+\i (27:32:41) zoom out 1 
+\i (27:32:41) setwindow pcb
+\i (27:32:41) zoom out 320.1178 295.1777
+\i (27:32:41) trapsize 1861
+\i (27:32:42) pick grid 308.8384 294.3960
+\t (27:32:42) last pick:  308.8000 294.4000
+\i (27:32:45) add connect 
+\t (27:32:45) Pick first element.
+\i (27:32:46) pick grid 329.7962 291.0829
+\t (27:32:46) last pick:  329.8000 291.1000
+\t (27:32:46) last pick:  329.7877 291.0873
+\t (27:32:46) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (27:32:46) last pick:  329.7877 291.0873
+\i (27:32:46) mouse_pos 329.4240 291.6785
+\i (27:32:46) mouse_pos 329.3867 291.7530
+\i (27:32:46) pick grid 328.8656 293.0559
+\t (27:32:46) last pick:  328.9000 293.1000
+\t (27:32:47) No DRC errors detected.
+\t (27:32:47) Pick first element.
+\i (27:32:48) pick grid 320.7133 291.5296
+\t (27:32:48) last pick:  320.7000 291.5000
+\t (27:32:48) Pick first element.
+\t (27:32:48) last pick:  320.6625 291.5375
+\t (27:32:48) Target Odd-angle Line Segment is defined on TOP.
+\t (27:32:48) last pick:  320.6625 291.5375
+\i (27:32:48) mouse_pos 320.7133 291.5296
+\i (27:32:48) mouse_pos 320.9738 291.9019
+\i (27:32:48) mouse_pos 320.9738 291.9763
+\i (27:32:48) mouse_pos 321.0855 292.0508
+\i (27:32:48) mouse_pos 321.1227 292.1624
+\i (27:32:49) pick grid 322.1650 293.3909
+\t (27:32:49) last pick:  322.2000 293.4000
+\t (27:32:49) No DRC errors detected.
+\t (27:32:49) Pick first element.
+\i (27:32:50) zoom in 1 
+\i (27:32:50) setwindow pcb
+\i (27:32:50) zoom in 320.9366 292.0880
+\i (27:32:50) trapsize 931
+\i (27:32:50) zoom in 1 
+\i (27:32:50) setwindow pcb
+\i (27:32:50) zoom in 320.9366 292.0880
+\i (27:32:50) trapsize 465
+\i (27:32:51) pick grid 320.2480 291.1295
+\t (27:32:51) last pick:  320.2000 291.1000
+\t (27:32:51) Pick first element.
+\t (27:32:51) last pick:  320.2123 291.0873
+\t (27:32:51) Target Odd-angle Line Segment is defined on TOP.
+\t (27:32:51) last pick:  320.2123 291.0873
+\i (27:32:51) mouse_pos 320.2480 291.1295
+\i (27:32:51) mouse_pos 320.6761 291.4459
+\i (27:32:51) mouse_pos 321.0949 291.8553
+\i (27:32:51) mouse_pos 321.1507 291.9019
+\i (27:32:51) mouse_pos 321.2438 291.9856
+\i (27:32:51) mouse_pos 321.2810 292.0135
+\i (27:32:52) pick grid 322.3698 293.2885
+\t (27:32:52) last pick:  322.4000 293.3000
+\t (27:32:52) No DRC errors detected.
+\t (27:32:52) Pick first element.
+\i (27:32:53) zoom out 1 
+\i (27:32:53) setwindow pcb
+\i (27:32:53) zoom out 320.7971 291.7716
+\i (27:32:53) trapsize 931
+\i (27:32:56) slide 
+\t (27:32:56) Pick element to slide.
+\i (27:32:57) pick grid 320.7411 291.6413
+\t (27:32:57) last pick:  320.7000 291.6000
+\t (27:32:57) last pick:  320.7535 291.6285
+\t (27:32:57) Waiting for the destination pick.
+\i (27:33:00) pick grid 320.3316 291.2877
+\t (27:33:00) last pick:  320.3000 291.3000
+\t (27:33:00) No DRC errors detected.
+\t (27:33:00) Pick another element to slide.
+\i (27:33:01) zoom in 1 
+\i (27:33:01) setwindow pcb
+\i (27:33:01) zoom in 320.6294 290.9154
+\i (27:33:01) trapsize 465
+\i (27:33:01) zoom in 1 
+\i (27:33:01) setwindow pcb
+\i (27:33:01) zoom in 320.6294 290.9154
+\i (27:33:01) trapsize 233
+\i (27:33:02) pick grid 320.4200 290.8177
+\t (27:33:02) last pick:  320.4000 290.8000
+\t (27:33:02) last pick:  320.4304 290.7601
+\t (27:33:02) Waiting for the destination pick.
+\i (27:33:03) pick grid 320.3781 291.4505
+\t (27:33:03) last pick:  320.4000 291.5000
+\t (27:33:03) No DRC errors detected.
+\t (27:33:03) Pick another element to slide.
+\i (27:33:03) zoom out 1 
+\i (27:33:03) setwindow pcb
+\i (27:33:03) zoom out 320.4433 291.5436
+\i (27:33:03) trapsize 465
+\i (27:33:03) zoom out 1 
+\i (27:33:03) setwindow pcb
+\i (27:33:03) zoom out 320.4433 291.5435
+\i (27:33:03) trapsize 931
+\i (27:33:05) pick grid 330.0100 290.7061
+\t (27:33:05) last pick:  330.0000 290.7000
+\t (27:33:05) last pick:  330.0892 290.7858
+\t (27:33:05) Waiting for the destination pick.
+\i (27:33:06) pick grid 330.4567 291.2830
+\t (27:33:06) last pick:  330.5000 291.3000
+\t (27:33:06) No DRC errors detected.
+\t (27:33:06) Pick another element to slide.
+\i (27:33:07) zoom in 1 
+\i (27:33:07) setwindow pcb
+\i (27:33:07) zoom in 320.6293 291.5064
+\i (27:33:07) trapsize 465
+\i (27:33:08) pick grid 321.2435 291.1621
+\t (27:33:08) last pick:  321.2000 291.2000
+\t (27:33:08) last pick:  321.1380 291.2675
+\t (27:33:08) Waiting for the destination pick.
+\i (27:33:09) pick grid 320.6945 292.0555
+\t (27:33:09) last pick:  320.7000 292.1000
+\t (27:33:09) No DRC errors detected.
+\t (27:33:09) Pick another element to slide.
+\i (27:33:10) add connect 
+\t (27:33:11) Pick first element.
+\i (27:33:11) pick grid 321.6809 292.6697
+\t (27:33:11) last pick:  321.7000 292.7000
+\t (27:33:11) last pick:  321.8250 292.7000
+\t (27:33:11) Target Odd-angle Line Segment is defined on TOP.
+\t (27:33:11) last pick:  321.8250 292.7000
+\i (27:33:11) mouse_pos 321.6809 292.6697
+\i (27:33:12) pick grid 322.0532 293.0047
+\t (27:33:12) last pick:  322.1000 293.0000
+\t (27:33:12) No DRC errors detected.
+\t (27:33:12) Pick first element.
+\i (27:33:13) roam y -96 
+\i (27:33:13) roam y -96
+\i (27:33:16) slide 
+\t (27:33:16) Pick element to slide.
+\i (27:33:16) pick grid 321.1691 292.8678
+\t (27:33:16) last pick:  321.2000 292.9000
+\t (27:33:16) last pick:  321.2082 292.8285
+\t (27:33:16) Waiting for the destination pick.
+\i (27:33:17) pick grid 321.5879 292.5421
+\t (27:33:17) last pick:  321.6000 292.5000
+\t (27:33:17) No DRC errors detected.
+\t (27:33:17) Pick another element to slide.
+\i (27:33:18) pick grid 320.6479 292.1699
+\t (27:33:18) last pick:  320.6000 292.2000
+\t (27:33:18) last pick:  320.6625 292.2828
+\t (27:33:18) Waiting for the destination pick.
+\i (27:33:19) pick grid 320.7968 291.9465
+\t (27:33:19) last pick:  320.8000 291.9000
+\t (27:33:19) No DRC errors detected.
+\t (27:33:19) Pick another element to slide.
+\i (27:33:20) pick grid 320.6200 291.6022
+\t (27:33:20) last pick:  320.6000 291.6000
+\t (27:33:20) last pick:  320.6625 291.6022
+\t (27:33:20) Waiting for the destination pick.
+\i (27:33:21) pick grid 320.5269 290.9880
+\t (27:33:21) last pick:  320.5000 291.0000
+\t (27:33:21) No DRC errors detected.
+\t (27:33:21) Pick another element to slide.
+\i (27:33:22) pick grid 320.5828 290.9694
+\t (27:33:22) last pick:  320.6000 291.0000
+\t (27:33:22) last pick:  320.7113 290.8408
+\t (27:33:22) Waiting for the destination pick.
+\i (27:33:25) pick grid 319.2334 291.5557
+\t (27:33:25) last pick:  319.2000 291.6000
+\t (27:33:25) No DRC errors detected.
+\t (27:33:25) Pick another element to slide.
+\i (27:33:26) pick grid 320.7131 290.7832
+\t (27:33:26) last pick:  320.7000 290.8000
+\t (27:33:26) last pick:  320.6834 290.8129
+\t (27:33:26) Waiting for the destination pick.
+\i (27:33:27) pick grid 320.9271 290.8112
+\t (27:33:27) last pick:  320.9000 290.8000
+\t (27:33:27) No DRC errors detected.
+\t (27:33:27) Pick another element to slide.
+\i (27:33:31) move 
+\t (27:33:31) Select element(s) to move.
+\i (27:33:32) pick grid 320.4060 291.7046
+\t (27:33:32) last pick:  320.4000 291.7000
+\t (27:33:32) last pick:  320.4000 291.7000
+\t (27:33:32) Element has no origin, using pick.
+\t (27:33:32) Pick new location for the element(s).
+\i (27:33:32) zoom out 1 
+\i (27:33:32) setwindow pcb
+\i (27:33:32) zoom out 320.4432 291.9744
+\i (27:33:32) trapsize 931
+\i (27:33:32) zoom out 1 
+\i (27:33:32) setwindow pcb
+\i (27:33:32) zoom out 320.4431 291.9745
+\i (27:33:32) trapsize 1861
+\i (27:33:32) zoom out 1 
+\i (27:33:32) setwindow pcb
+\i (27:33:32) zoom out 320.4430 292.0490
+\t (27:33:32) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (27:33:32) trapsize 3723
+\i (27:33:33) pick grid 306.8186 294.2826
+\t (27:33:33) last pick:  306.8000 294.3000
+\i (27:33:34) pick grid 320.8153 292.0491
+\t (27:33:34) last pick:  320.8000 292.0000
+\t (27:33:34) last pick:  320.8000 292.0000
+\t (27:33:34) Element has no origin, using pick.
+\t (27:33:34) Pick new location for the element(s).
+\i (27:33:35) zoom in 1 
+\i (27:33:35) setwindow pcb
+\i (27:33:35) zoom in 308.2332 293.4637
+\t (27:33:35) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (27:33:35) trapsize 1861
+\i (27:33:35) zoom in 1 
+\i (27:33:35) setwindow pcb
+\i (27:33:35) zoom in 308.2332 293.4637
+\i (27:33:35) trapsize 931
+\i (27:33:36) pick grid 308.2705 293.7615
+\t (27:33:36) last pick:  308.3000 293.8000
+\i (27:33:37) pick grid 320.5362 292.1608
+\t (27:33:37) last pick:  320.5000 292.2000
+\t (27:33:37) last pick:  320.5000 292.2000
+\t (27:33:37) Element has no origin, using pick.
+\t (27:33:37) Pick new location for the element(s).
+\i (27:33:38) pick grid 309.0336 293.9104
+\t (27:33:38) last pick:  309.0000 293.9000
+\i (27:33:38) pick grid 320.5920 291.6769
+\t (27:33:38) last pick:  320.6000 291.7000
+\t (27:33:38) last pick:  320.6000 291.7000
+\t (27:33:38) Element has no origin, using pick.
+\t (27:33:38) Pick new location for the element(s).
+\i (27:33:39) pick grid 310.0200 293.5195
+\t (27:33:39) last pick:  310.0000 293.5000
+\i (27:33:39) pick grid 321.0573 292.2539
+\t (27:33:39) last pick:  321.1000 292.3000
+\t (27:33:39) last pick:  325.6000 293.5000
+\t (27:33:39) Moving P1 / POWER CONNECTOR_350759-4_POWER / 350759-4.
+\t (27:33:40) Pick new location for the element(s).
+\i (27:33:42) move 
+\t (27:33:42) Select element(s) to move.
+\i (27:33:44) pick grid 320.7223 292.0864
+\t (27:33:44) last pick:  320.7000 292.1000
+\t (27:33:44) last pick:  320.7000 292.1000
+\t (27:33:44) Element has no origin, using pick.
+\t (27:33:44) Pick new location for the element(s).
+\i (27:33:45) pick grid 308.8475 293.7615
+\t (27:33:45) last pick:  308.8000 293.8000
+\i (27:33:47) delete 
+\i (27:33:48) pick grid 309.7409 294.2640
+\t (27:33:48) last pick:  309.7000 294.3000
+\t (27:33:48) Connect Line "Not On A Net, Etch/Top"
+\i (27:33:49) pick grid dbl 309.7409 294.2640
+\t (27:33:49) last pick:  309.7000 294.3000
+\i (27:33:49) pick grid 310.0387 293.3334
+\t (27:33:49) last pick:  310.0000 293.3000
+\t (27:33:49) Connect Line "Not On A Net, Etch/Top"
+\i (27:33:50) pick grid dbl 310.0387 293.3334
+\t (27:33:50) last pick:  310.0000 293.3000
+\i (27:33:50) pick grid 309.3686 293.6870
+\t (27:33:50) last pick:  309.4000 293.7000
+\t (27:33:50) Connect Line "Not On A Net, Etch/Top"
+\i (27:33:51) pick grid dbl 309.3686 293.6870
+\t (27:33:51) last pick:  309.4000 293.7000
+\i (27:33:52) pick grid 308.3635 294.1710
+\t (27:33:52) last pick:  308.4000 294.2000
+\t (27:33:52) Connect Line "Not On A Net, Etch/Top"
+\i (27:33:52) pick grid dbl 308.3635 294.1710
+\t (27:33:52) last pick:  308.4000 294.2000
+\i (27:33:52) pick grid 306.9862 294.2826
+\t (27:33:52) last pick:  307.0000 294.3000
+\t (27:33:52) Connect Line "Not On A Net, Etch/Top"
+\i (27:33:52) pick grid dbl 306.9862 294.2826
+\t (27:33:52) last pick:  307.0000 294.3000
+\i (27:33:54) slide 
+\t (27:33:55) Pick element to slide.
+\i (27:33:56) pick grid 320.9456 290.8579
+\t (27:33:56) last pick:  320.9000 290.9000
+\t (27:33:56) last pick:  320.9519 290.8518
+\t (27:33:56) Waiting for the destination pick.
+\i (27:33:57) pick grid 320.5175 291.5652
+\t (27:33:57) last pick:  320.5000 291.6000
+\t (27:33:57) No DRC errors detected.
+\t (27:33:57) Pick another element to slide.
+\i (27:33:57) pick grid 321.2434 291.5280
+\t (27:33:57) last pick:  321.2000 291.5000
+\t (27:33:57) last pick:  321.1895 291.5192
+\t (27:33:57) Waiting for the destination pick.
+\i (27:33:58) pick grid 321.0759 291.6583
+\t (27:33:58) last pick:  321.1000 291.7000
+\t (27:33:58) No DRC errors detected.
+\t (27:33:58) Pick another element to slide.
+\i (27:33:59) zoom in 1 
+\i (27:33:59) setwindow pcb
+\i (27:33:59) zoom in 321.4296 291.0441
+\i (27:33:59) trapsize 465
+\i (27:33:59) zoom in 1 
+\i (27:33:59) setwindow pcb
+\i (27:33:59) zoom in 321.4296 291.0441
+\i (27:33:59) trapsize 233
+\i (27:33:59) zoom in 1 
+\i (27:33:59) setwindow pcb
+\i (27:33:59) zoom in 321.4296 291.0534
+\i (27:33:59) trapsize 116
+\i (27:33:59) pick grid 321.2574 291.4396
+\t (27:33:59) last pick:  321.3000 291.4000
+\t (27:33:59) last pick:  321.1895 291.5192
+\t (27:33:59) Waiting for the destination pick.
+\i (27:34:00) pick grid 320.9759 291.5490
+\t (27:34:00) last pick:  321.0000 291.5000
+\t (27:34:00) No DRC errors detected.
+\t (27:34:00) Pick another element to slide.
+\i (27:34:01) pick grid 319.9662 290.4392
+\t (27:34:01) last pick:  320.0000 290.4000
+\t (27:34:01) last pick:  319.9938 290.5603
+\t (27:34:01) Waiting for the destination pick.
+\i (27:34:02) pick grid 319.7498 290.6276
+\t (27:34:02) last pick:  319.7000 290.6000
+\t (27:34:02) No DRC errors detected.
+\t (27:34:02) Pick another element to slide.
+\i (27:34:02) zoom out 1 
+\i (27:34:02) setwindow pcb
+\i (27:34:02) zoom out 319.9824 290.5811
+\i (27:34:02) trapsize 233
+\i (27:34:02) zoom out 1 
+\i (27:34:02) setwindow pcb
+\i (27:34:02) zoom out 319.9825 290.5811
+\i (27:34:02) trapsize 465
+\i (27:34:02) zoom out 1 
+\i (27:34:02) setwindow pcb
+\i (27:34:02) zoom out 319.9824 290.5812
+\i (27:34:02) trapsize 931
+\i (27:34:03) pick grid 319.9824 290.5812
+\t (27:34:03) last pick:  320.0000 290.6000
+\t (27:34:03) last pick:  319.9824 290.5665
+\t (27:34:03) Waiting for the destination pick.
+\i (27:34:04) zoom in 1 
+\i (27:34:04) setwindow pcb
+\i (27:34:04) zoom in 319.8335 290.4509
+\i (27:34:04) trapsize 465
+\i (27:34:04) zoom in 1 
+\i (27:34:04) setwindow pcb
+\i (27:34:04) zoom in 319.8336 290.4509
+\i (27:34:04) trapsize 233
+\i (27:34:05) pick grid 319.9452 290.5439
+\t (27:34:05) last pick:  319.9000 290.5000
+\t (27:34:05) No DRC errors detected.
+\t (27:34:05) Pick another element to slide.
+\i (27:34:08) add connect 
+\t (27:34:08) Pick first element.
+\i (27:34:09) pick grid 319.5218 290.6138
+\t (27:34:09) last pick:  319.5000 290.6000
+\t (27:34:09) last pick:  319.4668 290.5533
+\t (27:34:09) Target Odd-angle Line Segment is defined on TOP.
+\t (27:34:09) last pick:  319.4668 290.5533
+\i (27:34:09) mouse_pos 319.5218 290.6138
+\i (27:34:09) mouse_pos 319.6660 290.6976
+\i (27:34:09) mouse_pos 319.7405 290.7720
+\i (27:34:09) mouse_pos 319.8475 290.9628
+\i (27:34:10) pick grid 319.9546 291.0745
+\t (27:34:10) last pick:  320.0000 291.1000
+\t (27:34:10) No DRC errors detected.
+\t (27:34:10) Pick first element.
+\i (27:34:12) pick grid 320.2431 291.4188
+\t (27:34:12) last pick:  320.2000 291.4000
+\t (27:34:12) Pick first element.
+\t (27:34:12) last pick:  320.4193 291.5192
+\t (27:34:12) Target Odd-angle Line Segment is defined on TOP.
+\t (27:34:12) last pick:  320.4193 291.5192
+\i (27:34:12) mouse_pos 320.2431 291.4188
+\i (27:34:12) mouse_pos 320.6851 291.7073
+\i (27:34:12) mouse_pos 320.7689 291.7353
+\i (27:34:12) mouse_pos 321.0341 291.8562
+\i (27:34:12) mouse_pos 321.0527 291.9121
+\i (27:34:12) mouse_pos 321.0620 291.9586
+\i (27:34:12) mouse_pos 321.1225 292.0517
+\i (27:34:12) mouse_pos 321.1598 292.0750
+\i (27:34:12) mouse_pos 321.1970 292.1541
+\i (27:34:13) pick grid 321.1970 292.1541
+\t (27:34:13) last pick:  321.2000 292.2000
+\t (27:34:13) No DRC errors detected.
+\t (27:34:13) Pick first element.
+\i (27:34:14) zoom out 1 
+\i (27:34:14) setwindow pcb
+\i (27:34:14) zoom out 321.2389 292.1913
+\i (27:34:14) trapsize 465
+\i (27:34:14) zoom out 1 
+\i (27:34:14) setwindow pcb
+\i (27:34:14) zoom out 321.2388 292.1913
+\i (27:34:14) trapsize 931
+\i (27:34:14) zoom out 1 
+\i (27:34:14) setwindow pcb
+\i (27:34:14) zoom out 321.2387 292.1913
+\i (27:34:14) trapsize 1861
+\i (27:34:15) zoom in 1 
+\i (27:34:15) setwindow pcb
+\i (27:34:15) zoom in 321.2387 292.1914
+\i (27:34:15) trapsize 931
+\i (27:34:15) zoom in 1 
+\i (27:34:15) setwindow pcb
+\i (27:34:15) zoom in 321.2387 292.1914
+\i (27:34:15) trapsize 465
+\i (27:34:15) roam y -96 
+\i (27:34:15) roam y -96
+\i (27:34:16) zoom out 1 
+\i (27:34:16) setwindow pcb
+\i (27:34:16) zoom out 318.4375 294.0991
+\i (27:34:16) trapsize 931
+\i (27:34:16) zoom out 1 
+\i (27:34:16) setwindow pcb
+\i (27:34:16) zoom out 318.4374 294.0992
+\i (27:34:16) trapsize 1861
+\i (27:34:17) move 
+\t (27:34:18) Select element(s) to move.
+\i (27:34:18) zoom in 1 
+\i (27:34:18) setwindow pcb
+\i (27:34:18) zoom in 320.6710 291.2327
+\i (27:34:18) trapsize 931
+\i (27:34:19) roam x -96 
+\i (27:34:19) roam x -96
+\i (27:34:19) roam x -96 
+\i (27:34:19) roam x -96
+\i (27:34:19) roam x -96 
+\i (27:34:19) roam x -96
+\i (27:34:19) roam x -96 
+\i (27:34:19) roam x -96
+\i (27:34:21) pick grid 319.9995 290.5068
+\t (27:34:21) last pick:  320.0000 290.5000
+\t (27:34:21) last pick:  320.0000 290.5000
+\t (27:34:21) Element has no origin, using pick.
+\t (27:34:21) Pick new location for the element(s).
+\i (27:34:21) pick grid 311.1768 291.4561
+\t (27:34:21) last pick:  311.2000 291.5000
+\i (27:34:22) pick grid 320.9302 291.4747
+\t (27:34:22) last pick:  320.9000 291.5000
+\t (27:34:22) last pick:  320.9000 291.5000
+\t (27:34:22) Element has no origin, using pick.
+\t (27:34:22) Pick new location for the element(s).
+\i (27:34:23) pick grid 311.3258 292.1634
+\t (27:34:23) last pick:  311.3000 292.2000
+\i (27:34:24) pick grid 321.2280 291.6422
+\t (27:34:24) last pick:  321.2000 291.6000
+\t (27:34:24) last pick:  321.2000 291.6000
+\t (27:34:24) Element has no origin, using pick.
+\t (27:34:24) Pick new location for the element(s).
+\i (27:34:25) pick grid 310.3951 291.2328
+\t (27:34:25) last pick:  310.4000 291.2000
+\i (27:34:26) delete 
+\i (27:34:26) pick grid 311.0093 292.2193
+\t (27:34:26) last pick:  311.0000 292.2000
+\t (27:34:26) Connect Line "Not On A Net, Etch/Top"
+\i (27:34:27) pick grid dbl 311.0093 292.2193
+\t (27:34:27) last pick:  311.0000 292.2000
+\t (27:34:27) Connect Line "Not On A Net, Etch/Top"
+\i (27:34:27) pick grid 311.2327 292.1820
+\t (27:34:27) last pick:  311.2000 292.2000
+\i (27:34:27) pick grid dbl 311.2327 292.1820
+\t (27:34:27) last pick:  311.2000 292.2000
+\i (27:34:28) pick grid 311.1024 291.4933
+\t (27:34:28) last pick:  311.1000 291.5000
+\t (27:34:28) Connect Line "Not On A Net, Etch/Top"
+\i (27:34:28) pick grid dbl 311.1024 291.4933
+\t (27:34:28) last pick:  311.1000 291.5000
+\i (27:34:30) pick grid 321.1908 291.4747
+\t (27:34:30) last pick:  321.2000 291.5000
+\i (27:34:31) zoom out 1 
+\i (27:34:31) setwindow pcb
+\i (27:34:31) zoom out 314.5645 290.4882
+\i (27:34:31) trapsize 1861
+\i (27:34:31) zoom out 1 
+\i (27:34:31) setwindow pcb
+\i (27:34:31) zoom out 314.5644 290.4883
+\t (27:34:31) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (27:34:31) trapsize 3723
+\i (27:34:32) zoom in 1 
+\i (27:34:32) setwindow pcb
+\i (27:34:32) zoom in 327.8170 293.7642
+\t (27:34:32) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (27:34:32) trapsize 1861
+\i (27:34:34) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (27:34:35) zoom out 1 
+\i (27:34:35) setwindow pcb
+\i (27:34:35) zoom out 342.3726 288.5897
+\t (27:34:35) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (27:34:35) trapsize 3723
+\i (27:34:37) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (27:34:38) zoom in 1 
+\i (27:34:38) setwindow pcb
+\i (27:34:38) zoom in 316.6862 294.0249
+\t (27:34:38) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (27:34:38) trapsize 1861
+\i (27:34:39) zoom in 1 
+\i (27:34:39) setwindow pcb
+\i (27:34:39) zoom in 318.7709 291.3818
+\i (27:34:39) trapsize 931
+\i (27:34:40) roam y -96 
+\i (27:34:40) roam y -96
+\i (27:34:40) roam y -96 
+\i (27:34:40) roam y -96
+\i (27:34:40) zoom out 1 
+\i (27:34:40) setwindow pcb
+\i (27:34:40) zoom out 318.7709 294.9461
+\i (27:34:40) trapsize 1861
+\i (27:34:41) roam y 96 
+\i (27:34:41) roam y 96
+\i (27:34:42) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (27:34:43) roam y 96 
+\i (27:34:43) roam y 96
+\i (27:34:43) roam y 96 
+\i (27:34:43) roam y 96
+\i (27:34:43) roam y 96 
+\i (27:34:43) roam y 96
+\i (27:34:44) roam y 96 
+\i (27:34:44) roam y 96
+\i (27:34:44) roam y 96 
+\i (27:34:44) roam y 96
+\i (27:34:44) roam y 96 
+\i (27:34:44) roam y 96
+\i (27:34:44) roam y 96 
+\i (27:34:44) roam y 96
+\i (27:34:44) roam y 96 
+\i (27:34:44) roam y 96
+\i (27:34:45) roam y 96 
+\i (27:34:45) roam y 96
+\i (27:34:45) roam y 96 
+\i (27:34:45) roam y 96
+\i (27:34:45) roam y -96 
+\i (27:34:45) roam y -96
+\i (27:34:45) roam y -96 
+\i (27:34:45) roam y -96
+\i (27:34:45) roam y -96 
+\i (27:34:45) roam y -96
+\i (27:34:45) roam y -96 
+\i (27:34:45) roam y -96
+\i (27:34:46) save 
+\i (27:34:47) fillin yes 
+\i (27:34:47) shapeedit 
+\i (27:34:48) roam y -96 
+\i (27:34:48) roam y -96
+\i (27:34:48) roam y -96 
+\i (27:34:48) roam y -96
+\i (27:34:48) roam y -96 
+\i (27:34:48) roam y -96
+\i (27:34:48) roam y -96 
+\i (27:34:48) roam y -96
+\i (27:34:48) roam y -96 
+\i (27:34:48) roam y -96
+\i (27:34:49) roam y -96 
+\i (27:34:49) roam y -96
+\i (27:34:49) roam y -96 
+\i (27:34:49) roam y -96
+\i (27:34:50) add connect 
+\t (27:34:50) Pick first element.
+\i (27:34:55) define grid 
+\t (27:34:55) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (27:34:57) setwindow form.grid
+\i (27:34:57) FORM grid non_etch non_etch_x_grids 1 
+\i (27:34:59) FORM grid non_etch non_etch_y_grids 1 
+\i (27:35:00) FORM grid top subclass_x_grids 1 
+\i (27:35:01) FORM grid top subclass_y_grids 1 
+\i (27:35:02) FORM grid bottom subclass_x_grids 1 
+\i (27:35:03) FORM grid bottom subclass_y_grids 1 
+\i (27:35:03) FORM grid done  
+\i (27:35:05) setwindow pcb
+\i (27:35:05) roam x 96 
+\i (27:35:05) roam x 96
+\i (27:35:06) roam x 96 
+\i (27:35:06) roam x 96
+\i (27:35:06) roam y 96 
+\i (27:35:06) roam y 96
+\i (27:35:10) add connect 
+\t (27:35:10) Pick first element.
+\i (27:35:11) pick grid 316.0542 296.1007
+\t (27:35:11) last pick:  316.0000 296.0000
+\t (27:35:11) Target Odd-angle Line Segment is defined on TOP.
+\t (27:35:11) last pick:  316.0000 296.0000
+\i (27:35:11) pick grid dbl 316.0542 296.1007
+\t (27:35:11) last pick:  316.0000 296.0000
+\t (27:35:11) VIA used for drill.
+\t (27:35:11) No DRC errors detected.
+\t (27:35:11) Pick first element.
+\i (27:35:13) pick grid 315.9053 292.1175
+\t (27:35:13) last pick:  316.0000 292.0000
+\t (27:35:13) Pick first element.
+\t (27:35:13) Target Odd-angle Line Segment is defined on TOP.
+\t (27:35:13) last pick:  316.0000 292.0000
+\i (27:35:13) pick grid dbl 315.9053 292.1175
+\t (27:35:13) last pick:  316.0000 292.0000
+\t (27:35:13) VIA used for drill.
+\t (27:35:13) No DRC errors detected.
+\t (27:35:13) Pick first element.
+\i (27:35:14) pick grid 315.9797 287.8736
+\t (27:35:14) last pick:  316.0000 288.0000
+\t (27:35:14) Pick first element.
+\t (27:35:14) Target Odd-angle Line Segment is defined on TOP.
+\t (27:35:14) last pick:  316.0000 288.0000
+\i (27:35:14) pick grid dbl 315.9797 287.8736
+\t (27:35:14) last pick:  316.0000 288.0000
+\t (27:35:14) VIA used for drill.
+\t (27:35:14) No DRC errors detected.
+\t (27:35:14) Pick first element.
+\i (27:35:16) pick grid 316.0170 283.8159
+\t (27:35:16) last pick:  316.0000 284.0000
+\t (27:35:16) Pick first element.
+\t (27:35:16) Target Odd-angle Line Segment is defined on TOP.
+\t (27:35:16) last pick:  316.0000 284.0000
+\i (27:35:16) pick grid dbl 316.0170 283.8159
+\t (27:35:16) last pick:  316.0000 284.0000
+\t (27:35:16) VIA used for drill.
+\t (27:35:16) No DRC errors detected.
+\t (27:35:16) Pick first element.
+\i (27:35:18) pick grid 315.9797 279.9816
+\t (27:35:18) last pick:  316.0000 280.0000
+\t (27:35:18) Pick first element.
+\t (27:35:18) Target Odd-angle Line Segment is defined on TOP.
+\t (27:35:18) last pick:  316.0000 280.0000
+\i (27:35:18) pick grid dbl 315.9797 279.9816
+\t (27:35:18) last pick:  316.0000 280.0000
+\t (27:35:18) VIA used for drill.
+\t (27:35:18) No DRC errors detected.
+\t (27:35:18) Pick first element.
+\i (27:35:19) roam y 96 
+\i (27:35:19) roam y 96
+\i (27:35:19) roam y 96 
+\i (27:35:19) roam y 96
+\i (27:35:19) roam y 96 
+\i (27:35:19) roam y 96
+\i (27:35:20) pick grid 316.0170 276.1100
+\t (27:35:20) last pick:  316.0000 276.0000
+\t (27:35:20) Pick first element.
+\t (27:35:20) Target Odd-angle Line Segment is defined on TOP.
+\t (27:35:20) last pick:  316.0000 276.0000
+\i (27:35:20) pick grid dbl 316.0170 276.1100
+\t (27:35:20) last pick:  316.0000 276.0000
+\t (27:35:20) VIA used for drill.
+\t (27:35:20) No DRC errors detected.
+\t (27:35:20) Pick first element.
+\i (27:35:21) pick grid 315.8680 272.1267
+\t (27:35:21) last pick:  316.0000 272.0000
+\t (27:35:21) Pick first element.
+\t (27:35:21) Target Odd-angle Line Segment is defined on TOP.
+\t (27:35:21) last pick:  316.0000 272.0000
+\i (27:35:21) pick grid dbl 315.8680 272.1267
+\t (27:35:21) last pick:  316.0000 272.0000
+\t (27:35:21) VIA used for drill.
+\t (27:35:21) No DRC errors detected.
+\t (27:35:21) Pick first element.
+\i (27:35:22) roam y -96 
+\i (27:35:22) roam y -96
+\i (27:35:22) roam y -96 
+\i (27:35:22) roam y -96
+\i (27:35:22) roam y -96 
+\i (27:35:22) roam y -96
+\i (27:35:22) roam y -96 
+\i (27:35:22) roam y -96
+\i (27:35:25) pick grid 335.1887 295.9145
+\t (27:35:25) last pick:  335.0000 296.0000
+\t (27:35:25) Pick first element.
+\t (27:35:25) Target Odd-angle Line Segment is defined on TOP.
+\t (27:35:25) last pick:  335.0000 296.0000
+\i (27:35:25) pick grid dbl 335.1887 295.9145
+\t (27:35:25) last pick:  335.0000 296.0000
+\t (27:35:25) VIA used for drill.
+\t (27:35:25) No DRC errors detected.
+\t (27:35:25) Pick first element.
+\i (27:35:27) pick grid 335.0398 291.8196
+\t (27:35:27) last pick:  335.0000 292.0000
+\t (27:35:27) Pick first element.
+\t (27:35:27) Target Odd-angle Line Segment is defined on TOP.
+\t (27:35:27) last pick:  335.0000 292.0000
+\i (27:35:27) pick grid dbl 335.0398 291.8196
+\t (27:35:27) last pick:  335.0000 292.0000
+\t (27:35:27) VIA used for drill.
+\t (27:35:28) No DRC errors detected.
+\t (27:35:28) Pick first element.
+\i (27:35:29) pick grid 335.1142 287.7991
+\t (27:35:29) last pick:  335.0000 288.0000
+\t (27:35:29) Pick first element.
+\t (27:35:29) Target Odd-angle Line Segment is defined on TOP.
+\t (27:35:29) last pick:  335.0000 288.0000
+\i (27:35:29) pick grid dbl 335.1142 287.7991
+\t (27:35:29) last pick:  335.0000 288.0000
+\t (27:35:29) VIA used for drill.
+\t (27:35:29) No DRC errors detected.
+\t (27:35:29) Pick first element.
+\i (27:35:29) roam y 96 
+\i (27:35:29) roam y 96
+\i (27:35:31) pick grid 336.1566 284.0765
+\t (27:35:31) last pick:  336.0000 284.0000
+\t (27:35:31) Pick first element.
+\t (27:35:31) Target Odd-angle Line Segment is defined on TOP.
+\t (27:35:31) last pick:  336.0000 284.0000
+\i (27:35:31) pick grid dbl 336.1566 284.0765
+\t (27:35:31) last pick:  336.0000 284.0000
+\t (27:35:31) VIA used for drill.
+\t (27:35:31) No DRC errors detected.
+\t (27:35:31) Pick first element.
+\i (27:35:31) roam y 96 
+\i (27:35:31) roam y 96
+\i (27:35:31) roam y 96 
+\i (27:35:31) roam y 96
+\i (27:35:33) pick grid 337.0500 280.9495
+\t (27:35:33) last pick:  337.0000 281.0000
+\t (27:35:33) Pick first element.
+\t (27:35:33) Target Odd-angle Line Segment is defined on TOP.
+\t (27:35:33) last pick:  337.0000 281.0000
+\i (27:35:35) delete 
+\i (27:35:39) add connect 
+\t (27:35:39) Pick first element.
+\i (27:35:41) pick grid 337.0128 280.0188
+\t (27:35:41) last pick:  337.0000 280.0000
+\t (27:35:41) Target Odd-angle Line Segment is defined on TOP.
+\t (27:35:41) last pick:  337.0000 280.0000
+\i (27:35:41) pick grid dbl 337.0128 280.0188
+\t (27:35:41) last pick:  337.0000 280.0000
+\t (27:35:41) VIA used for drill.
+\t (27:35:41) No DRC errors detected.
+\t (27:35:41) Pick first element.
+\i (27:35:44) pick grid 337.0872 275.9983
+\t (27:35:44) last pick:  337.0000 276.0000
+\t (27:35:44) Pick first element.
+\t (27:35:44) Target Odd-angle Line Segment is defined on TOP.
+\t (27:35:44) last pick:  337.0000 276.0000
+\i (27:35:44) pick grid dbl 337.0872 275.9983
+\t (27:35:44) last pick:  337.0000 276.0000
+\t (27:35:44) VIA used for drill.
+\t (27:35:44) No DRC errors detected.
+\t (27:35:44) Pick first element.
+\i (27:35:46) roam y -96 
+\i (27:35:46) roam y -96
+\i (27:35:46) roam y -96 
+\i (27:35:46) roam y -96
+\i (27:35:46) roam y -96 
+\i (27:35:46) roam y -96
+\i (27:35:48) pick grid 325.9192 296.1007
+\t (27:35:48) last pick:  326.0000 296.0000
+\t (27:35:48) Pick first element.
+\t (27:35:48) Target Odd-angle Line Segment is defined on TOP.
+\t (27:35:48) last pick:  326.0000 296.0000
+\i (27:35:48) pick grid dbl 325.9192 296.1007
+\t (27:35:48) last pick:  326.0000 296.0000
+\t (27:35:48) VIA used for drill.
+\t (27:35:48) No DRC errors detected.
+\t (27:35:48) Pick first element.
+\i (27:35:50) pick grid 325.9565 292.0057
+\t (27:35:50) last pick:  326.0000 292.0000
+\t (27:35:50) Pick first element.
+\t (27:35:50) Target Odd-angle Line Segment is defined on TOP.
+\t (27:35:50) last pick:  326.0000 292.0000
+\i (27:35:50) pick grid dbl 325.9565 292.0057
+\t (27:35:50) last pick:  326.0000 292.0000
+\t (27:35:50) VIA used for drill.
+\t (27:35:50) No DRC errors detected.
+\t (27:35:50) Pick first element.
+\i (27:35:55) roam y 96 
+\i (27:35:55) roam y 96
+\i (27:35:55) zoom out 1 
+\i (27:35:55) setwindow pcb
+\i (27:35:55) zoom out 324.9141 287.7619
+\i (27:35:55) trapsize 3723
+\i (27:35:56) roam y 96 
+\i (27:35:56) roam y 96
+\i (27:35:56) roam y 96 
+\i (27:35:56) roam y 96
+\i (27:35:58) save 
+\i (27:35:59) fillin yes 
+\i (27:35:59) shapeedit 
+\i (27:36:00) zoom in 1 
+\i (27:36:00) setwindow pcb
+\i (27:36:00) zoom in 332.7317 282.7735
+\i (27:36:00) trapsize 1861
+\i (27:36:00) roam y -96 
+\i (27:36:00) roam y -96
+\i (27:36:00) roam y -96 
+\i (27:36:00) roam y -96
+\i (27:36:00) roam y -96 
+\i (27:36:00) roam y -96
+\i (27:36:02) roam x -96 
+\i (27:36:02) roam x -96
+\i (27:36:02) roam y 96 
+\i (27:36:02) roam y 96
+\i (27:36:08) roam y 96 
+\i (27:36:08) roam y 96
+\i (27:36:15) roam y -96 
+\i (27:36:15) roam y -96
+\i (27:36:15) roam y -96 
+\i (27:36:15) roam y -96
+\i (27:36:16) roam y 96 
+\i (27:36:16) roam y 96
+\i (27:36:18) roam y 96 
+\i (27:36:18) roam y 96
+\i (27:36:18) roam y 96 
+\i (27:36:18) roam y 96
+\i (27:36:19) roam y 96 
+\i (27:36:19) roam y 96
+\i (27:36:19) roam y 96 
+\i (27:36:19) roam y 96
+\i (27:36:19) roam y 96 
+\i (27:36:19) roam y 96
+\i (27:36:19) roam y 96 
+\i (27:36:19) roam y 96
+\i (27:36:19) roam y 96 
+\i (27:36:19) roam y 96
+\i (27:36:20) roam y 96 
+\i (27:36:20) roam y 96
+\i (27:36:20) roam y 96 
+\i (27:36:20) roam y 96
+\i (27:36:20) roam y 96 
+\i (27:36:20) roam y 96
+\i (27:36:20) roam y 96 
+\i (27:36:20) roam y 96
+\i (27:36:24) add connect 
+\t (27:36:24) Pick first element.
+\i (27:36:29) zoom in 1 
+\i (27:36:29) setwindow pcb
+\i (27:36:29) zoom in 328.0784 251.9127
+\i (27:36:29) trapsize 931
+\i (27:36:29) zoom in 1 
+\i (27:36:29) setwindow pcb
+\i (27:36:29) zoom in 328.0784 251.9127
+\i (27:36:29) trapsize 465
+\i (27:36:30) pick grid 328.9439 251.0379
+\t (27:36:30) last pick:  329.0000 251.0000
+\t (27:36:30) Target Odd-angle Line Segment is defined on TOP.
+\t (27:36:30) last pick:  329.0000 251.0000
+\i (27:36:30) pick grid dbl 328.9439 251.0379
+\t (27:36:30) last pick:  329.0000 251.0000
+\t (27:36:30) VIA used for drill.
+\t (27:36:30) No DRC errors detected.
+\t (27:36:30) Pick first element.
+\i (27:36:31) zoom out 1 
+\i (27:36:31) setwindow pcb
+\i (27:36:31) zoom out 327.6503 250.2748
+\i (27:36:31) trapsize 931
+\i (27:36:32) zoom out 1 
+\i (27:36:32) setwindow pcb
+\i (27:36:32) zoom out 327.6503 250.2748
+\i (27:36:32) trapsize 1861
+\i (27:36:33) pick grid 327.2781 256.9756
+\t (27:36:33) last pick:  327.0000 257.0000
+\t (27:36:33) Pick first element.
+\t (27:36:33) Target Odd-angle Line Segment is defined on TOP.
+\t (27:36:33) last pick:  327.0000 257.0000
+\i (27:36:33) pick grid dbl 327.2781 256.9756
+\t (27:36:33) last pick:  327.0000 257.0000
+\t (27:36:33) VIA used for drill.
+\t (27:36:33) No DRC errors detected.
+\t (27:36:33) Pick first element.
+\i (27:36:34) pick grid 327.9854 257.0128
+\t (27:36:34) last pick:  328.0000 257.0000
+\t (27:36:34) Pick first element.
+\t (27:36:34) Target Odd-angle Line Segment is defined on TOP.
+\t (27:36:34) last pick:  328.0000 257.0000
+\i (27:36:34) pick grid dbl 327.9854 257.0128
+\t (27:36:34) last pick:  328.0000 257.0000
+\t (27:36:34) VIA used for drill.
+\t (27:36:34) No DRC errors detected.
+\t (27:36:34) Pick first element.
+\i (27:36:35) pick grid 334.0161 254.9281
+\t (27:36:35) last pick:  334.0000 255.0000
+\t (27:36:35) Pick first element.
+\t (27:36:35) Target Odd-angle Line Segment is defined on TOP.
+\t (27:36:35) last pick:  334.0000 255.0000
+\i (27:36:35) pick grid dbl 334.0161 254.9281
+\t (27:36:35) last pick:  334.0000 255.0000
+\t (27:36:35) VIA used for drill.
+\t (27:36:35) No DRC errors detected.
+\t (27:36:35) Pick first element.
+\i (27:36:37) roam y -96 
+\i (27:36:37) roam y -96
+\i (27:36:37) roam y -96 
+\i (27:36:37) roam y -96
+\i (27:36:38) pick grid 325.0817 257.9806
+\t (27:36:38) last pick:  325.0000 258.0000
+\t (27:36:38) Pick first element.
+\t (27:36:38) Target Odd-angle Line Segment is defined on TOP.
+\t (27:36:38) last pick:  325.0000 258.0000
+\i (27:36:38) pick grid dbl 325.0817 257.9806
+\t (27:36:38) last pick:  325.0000 258.0000
+\t (27:36:38) VIA used for drill.
+\t (27:36:38) No DRC errors detected.
+\t (27:36:38) Pick first element.
+\i (27:36:40) pick grid 327.1664 256.0448
+\t (27:36:40) last pick:  327.0000 256.0000
+\t (27:36:40) Pick first element.
+\t (27:36:40) Target Odd-angle Line Segment is defined on TOP.
+\t (27:36:40) last pick:  327.0000 256.0000
+\i (27:36:40) pick grid dbl 327.1664 256.0448
+\t (27:36:40) last pick:  327.0000 256.0000
+\t (27:36:40) VIA used for drill.
+\t (27:36:40) No DRC errors detected.
+\t (27:36:40) Pick first element.
+\i (27:36:41) roam y -96 
+\i (27:36:41) roam y -96
+\i (27:36:42) pick grid 321.0240 266.9895
+\t (27:36:42) last pick:  321.0000 267.0000
+\t (27:36:42) Pick first element.
+\t (27:36:42) Target Horizontal Line Segment is defined on TOP.
+\t (27:36:42) last pick:  321.0000 267.0000
+\i (27:36:42) pick grid dbl 321.0240 266.9895
+\t (27:36:42) last pick:  321.0000 267.0000
+\t (27:36:42) VIA used for drill.
+\t (27:36:42) No DRC errors detected.
+\t (27:36:42) Pick first element.
+\i (27:36:45) roam y 96 
+\i (27:36:45) roam y 96
+\i (27:36:45) roam y 96 
+\i (27:36:45) roam y 96
+\i (27:36:45) roam y 96 
+\i (27:36:45) roam y 96
+\i (27:36:48) pick grid 328.9533 250.0141
+\t (27:36:48) last pick:  329.0000 250.0000
+\t (27:36:48) Pick first element.
+\t (27:36:48) Target Vertical Line Segment is defined on TOP.
+\t (27:36:48) last pick:  329.0000 250.0000
+\i (27:36:48) pick grid dbl 328.9533 250.0141
+\t (27:36:48) last pick:  329.0000 250.0000
+\t (27:36:48) VIA used for drill.
+\t (27:36:48) No DRC errors detected.
+\t (27:36:48) Pick first element.
+\i (27:36:49) roam y 96 
+\i (27:36:49) roam y 96
+\i (27:36:50) pick grid 334.0161 241.8615
+\t (27:36:50) last pick:  334.0000 242.0000
+\t (27:36:50) Pick first element.
+\t (27:36:50) Target Odd-angle Line Segment is defined on TOP.
+\t (27:36:50) last pick:  334.0000 242.0000
+\i (27:36:50) pick grid dbl 334.0161 241.8615
+\t (27:36:50) last pick:  334.0000 242.0000
+\t (27:36:50) VIA used for drill.
+\t (27:36:50) No DRC errors detected.
+\t (27:36:50) Pick first element.
+\i (27:36:53) pick grid 319.8327 240.9308
+\t (27:36:53) last pick:  320.0000 241.0000
+\t (27:36:53) Pick first element.
+\t (27:36:53) Target Vertical Line Segment is defined on TOP.
+\t (27:36:53) last pick:  320.0000 241.0000
+\i (27:36:53) pick grid dbl 319.8327 240.9308
+\t (27:36:53) last pick:  320.0000 241.0000
+\t (27:36:53) VIA used for drill.
+\t (27:36:53) No DRC errors detected.
+\t (27:36:53) Pick first element.
+\i (27:36:57) pick grid 322.9970 241.8615
+\t (27:36:57) last pick:  323.0000 242.0000
+\t (27:36:57) Pick first element.
+\t (27:36:57) Target Vertical Line Segment is defined on TOP.
+\t (27:36:57) last pick:  323.0000 242.0000
+\i (27:36:57) pick grid dbl 322.9970 241.8615
+\t (27:36:57) last pick:  323.0000 242.0000
+\t (27:36:57) VIA used for drill.
+\t (27:36:57) No DRC errors detected.
+\t (27:36:57) Pick first element.
+\i (27:36:58) zoom in 1 
+\i (27:36:58) setwindow pcb
+\i (27:36:58) zoom in 322.8481 241.4520
+\i (27:36:58) trapsize 931
+\i (27:36:58) zoom in 1 
+\i (27:36:58) setwindow pcb
+\i (27:36:58) zoom in 322.9040 241.5451
+\i (27:36:58) trapsize 465
+\i (27:37:00) undo 
+\i (27:37:00) trapsize 1861
+\i (27:37:00) shapeedit 
+\i (27:37:02) roam y -96 
+\i (27:37:02) roam y -96
+\i (27:37:02) roam y -96 
+\i (27:37:02) roam y -96
+\i (27:37:02) roam y -96 
+\i (27:37:02) roam y -96
+\i (27:37:04) roam y 96 
+\i (27:37:04) roam y 96
+\i (27:37:04) roam y 96 
+\i (27:37:04) roam y 96
+\i (27:37:04) roam y 96 
+\i (27:37:04) roam y 96
+\i (27:37:05) zoom in 1 
+\i (27:37:05) setwindow pcb
+\i (27:37:05) zoom in 321.1357 247.6688
+\i (27:37:05) trapsize 931
+\i (27:37:08) roam y -96 
+\i (27:37:08) roam y -96
+\i (27:37:08) roam y -96 
+\i (27:37:08) roam y -96
+\i (27:37:08) roam y -96 
+\i (27:37:08) roam y -96
+\i (27:37:08) roam y -96 
+\i (27:37:08) roam y -96
+\i (27:37:08) roam y -96 
+\i (27:37:08) roam y -96
+\i (27:37:09) roam y -96 
+\i (27:37:09) roam y -96
+\i (27:37:10) roam y -96 
+\i (27:37:10) roam y -96
+\i (27:37:11) roam y -96 
+\i (27:37:11) roam y -96
+\i (27:37:11) roam y -96 
+\i (27:37:11) roam y -96
+\i (27:37:11) roam y -96 
+\i (27:37:11) roam y -96
+\i (27:37:13) pick grid 321.0427 267.9940
+\t (27:37:13) last pick:  321.0000 268.0000
+\i (27:37:13) pick grid dbl 321.0427 267.9940
+\t (27:37:13) last pick:  321.0000 268.0000
+\i (27:37:14) pick grid 320.9868 267.9196
+\t (27:37:14) last pick:  321.0000 268.0000
+\i (27:37:14) pick grid dbl 320.9868 267.9196
+\t (27:37:14) last pick:  321.0000 268.0000
+\i (27:37:16) add connect 
+\t (27:37:16) Selected item not valid for current operation, ignored: Net "Gnd"
+\t (27:37:16) No valid items selected for the current operation, exiting.
+\i (27:37:16) shapeedit 
+\i (27:37:17) pick grid 321.0240 267.9754
+\t (27:37:17) last pick:  321.0000 268.0000
+\i (27:37:17) pick grid dbl 321.0240 267.9754
+\t (27:37:17) last pick:  321.0000 268.0000
+\i (27:37:18) zoom out 1 
+\i (27:37:18) setwindow pcb
+\i (27:37:18) zoom out 321.0240 267.9754
+\i (27:37:18) trapsize 1861
+\i (27:37:18) zoom out 1 
+\i (27:37:18) setwindow pcb
+\i (27:37:18) zoom out 321.0240 267.9754
+\i (27:37:18) trapsize 3723
+\i (27:37:18) zoom out 1 
+\i (27:37:18) setwindow pcb
+\i (27:37:18) zoom out 321.0240 267.9755
+\i (27:37:18) trapsize 7445
+\i (27:37:18) pick grid 295.4121 267.9754
+\t (27:37:18) last pick:  295.0000 268.0000
+\i (27:37:19) zoom in 1 
+\i (27:37:19) setwindow pcb
+\i (27:37:19) zoom in 324.4489 266.1886
+\i (27:37:19) trapsize 3723
+\i (27:37:19) zoom in 1 
+\i (27:37:19) setwindow pcb
+\i (27:37:19) zoom in 324.4489 266.1886
+\i (27:37:19) trapsize 1861
+\i (27:37:19) zoom in 1 
+\i (27:37:19) setwindow pcb
+\i (27:37:19) zoom in 324.4489 266.1886
+\i (27:37:19) trapsize 931
+\i (27:37:21) add connect 
+\t (27:37:21) Pick first element.
+\i (27:37:22) pick grid 320.9869 268.0127
+\t (27:37:22) last pick:  321.0000 268.0000
+\t (27:37:22) Target Horizontal Line Segment is defined on TOP.
+\t (27:37:22) last pick:  321.0000 268.0000
+\i (27:37:23) pick grid dbl 320.9869 268.0127
+\t (27:37:23) last pick:  321.0000 268.0000
+\t (27:37:23) VIA used for drill.
+\t (27:37:23) No DRC errors detected.
+\t (27:37:23) Pick first element.
+\i (27:37:25) zoom out 1 
+\i (27:37:25) setwindow pcb
+\i (27:37:25) zoom out 326.0683 267.9383
+\i (27:37:25) trapsize 1861
+\i (27:37:27) roam y -96 
+\i (27:37:27) roam y -96
+\i (27:37:27) roam y -96 
+\i (27:37:27) roam y -96
+\i (27:37:28) roam y -96 
+\i (27:37:28) roam y -96
+\i (27:37:28) roam y -96 
+\i (27:37:28) roam y -96
+\i (27:37:28) roam y -96 
+\i (27:37:28) roam y -96
+\i (27:37:28) roam y -96 
+\i (27:37:28) roam y -96
+\i (27:37:28) roam y -96 
+\i (27:37:28) roam y -96
+\i (27:37:31) roam y 96 
+\i (27:37:31) roam y 96
+\i (27:37:31) roam y 96 
+\i (27:37:31) roam y 96
+\i (27:37:31) roam y 96 
+\i (27:37:31) roam y 96
+\i (27:37:31) roam y 96 
+\i (27:37:31) roam y 96
+\i (27:37:31) roam y 96 
+\i (27:37:31) roam y 96
+\i (27:37:32) roam y 96 
+\i (27:37:32) roam y 96
+\i (27:37:32) roam y 96 
+\i (27:37:32) roam y 96
+\i (27:37:33) roam y 96 
+\i (27:37:33) roam y 96
+\i (27:37:35) pick grid 334.1092 254.0346
+\t (27:37:35) last pick:  334.0000 254.0000
+\t (27:37:35) Pick first element.
+\t (27:37:35) Target Vertical Line Segment is defined on TOP.
+\t (27:37:35) last pick:  334.0000 254.0000
+\i (27:37:35) pick grid dbl 334.1092 254.0346
+\t (27:37:35) last pick:  334.0000 254.0000
+\t (27:37:35) VIA used for drill.
+\t (27:37:35) No DRC errors detected.
+\t (27:37:35) Pick first element.
+\i (27:37:36) roam y 96 
+\i (27:37:36) roam y 96
+\i (27:37:38) pick grid 328.9347 252.0244
+\t (27:37:38) last pick:  329.0000 252.0000
+\t (27:37:38) Pick first element.
+\t (27:37:38) Target Vertical Line Segment is defined on TOP.
+\t (27:37:38) last pick:  329.0000 252.0000
+\i (27:37:38) pick grid dbl 328.9347 252.0244
+\t (27:37:38) last pick:  329.0000 252.0000
+\t (27:37:38) VIA used for drill.
+\t (27:37:38) No DRC errors detected.
+\t (27:37:38) Pick first element.
+\i (27:37:39) roam x -96 
+\i (27:37:39) roam x -96
+\i (27:37:43) save 
+\i (27:37:43) fillin yes 
+\i (27:37:44) shapeedit 
+\i (27:37:45) roam y -96 
+\i (27:37:45) roam y -96
+\i (27:37:45) roam y -96 
+\i (27:37:45) roam y -96
+\i (27:37:45) roam y -96 
+\i (27:37:45) roam y -96
+\i (27:37:45) roam y -96 
+\i (27:37:45) roam y -96
+\i (27:37:47) zoom in 1 
+\i (27:37:47) setwindow pcb
+\i (27:37:47) zoom in 322.4199 271.1588
+\i (27:37:47) trapsize 931
+\i (27:37:47) zoom in 1 
+\i (27:37:47) setwindow pcb
+\i (27:37:47) zoom in 322.4199 271.1588
+\i (27:37:47) trapsize 465
+\i (27:37:47) zoom in 1 
+\i (27:37:47) setwindow pcb
+\i (27:37:47) zoom in 322.4199 271.1588
+\i (27:37:47) trapsize 233
+\i (27:37:49) zoom out 1 
+\i (27:37:49) setwindow pcb
+\i (27:37:49) zoom out 320.9960 271.0239
+\i (27:37:49) trapsize 465
+\i (27:37:49) zoom out 1 
+\i (27:37:49) setwindow pcb
+\i (27:37:49) zoom out 320.9959 271.0239
+\i (27:37:49) trapsize 931
+\i (27:37:51) pick grid 320.9773 271.0239
+\t (27:37:51) last pick:  321.0000 271.0000
+\i (27:37:51) pick grid dbl 320.9773 271.0239
+\t (27:37:51) last pick:  321.0000 271.0000
+\i (27:37:52) zoom out 1 
+\i (27:37:52) setwindow pcb
+\i (27:37:52) zoom out 320.0094 273.2017
+\i (27:37:52) trapsize 1861
+\i (27:37:52) zoom out 1 
+\i (27:37:52) setwindow pcb
+\i (27:37:52) zoom out 320.0093 273.2017
+\i (27:37:52) trapsize 3723
+\i (27:37:53) pick grid 306.7567 269.4790
+\t (27:37:53) last pick:  307.0000 269.0000
+\i (27:37:56) add connect 
+\t (27:37:56) Pick first element.
+\i (27:37:57) zoom in 1 
+\i (27:37:57) setwindow pcb
+\i (27:37:57) zoom in 322.9130 273.9462
+\i (27:37:57) trapsize 1861
+\i (27:37:57) zoom in 1 
+\i (27:37:57) setwindow pcb
+\i (27:37:57) zoom in 322.9131 273.9462
+\i (27:37:57) trapsize 931
+\i (27:37:58) roam x -96 
+\i (27:37:58) roam x -96
+\i (27:38:02) pick grid 320.9674 270.9867
+\t (27:38:02) last pick:  321.0000 271.0000
+\t (27:38:02) Target Horizontal Line Segment is defined on TOP.
+\t (27:38:02) last pick:  321.0000 271.0000
+\i (27:38:02) pick grid dbl 320.9674 270.9867
+\t (27:38:02) last pick:  321.0000 271.0000
+\t (27:38:02) VIA used for drill.
+\t (27:38:02) No DRC errors detected.
+\t (27:38:02) Pick first element.
+\i (27:38:03) zoom out 1 
+\i (27:38:03) setwindow pcb
+\i (27:38:03) zoom out 321.3769 270.5586
+\i (27:38:03) trapsize 1861
+\i (27:38:04) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (27:38:06) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (27:38:07) zoom out 1 
+\i (27:38:07) setwindow pcb
+\i (27:38:07) zoom out 332.8799 274.9141
+\i (27:38:07) trapsize 3723
+\i (27:38:09) roam y -96 
+\i (27:38:09) roam y -96
+\i (27:38:10) roam y -96 
+\i (27:38:10) roam y -96
+\i (27:38:12) zoom in 1 
+\i (27:38:12) setwindow pcb
+\i (27:38:12) zoom in 319.4783 295.6540
+\i (27:38:12) trapsize 1861
+\i (27:38:12) zoom in 1 
+\i (27:38:12) setwindow pcb
+\i (27:38:12) zoom in 319.4783 295.6540
+\i (27:38:12) trapsize 931
+\i (27:38:13) pick grid 321.1349 296.0821
+\t (27:38:14) last pick:  321.0000 296.0000
+\t (27:38:14) Pick first element.
+\t (27:38:14) Target Horizontal Line Segment is defined on TOP.
+\t (27:38:14) last pick:  321.0000 296.0000
+\i (27:38:14) pick grid dbl 321.1349 296.0821
+\t (27:38:14) last pick:  321.0000 296.0000
+\t (27:38:14) VIA used for drill.
+\t (27:38:14) No DRC errors detected.
+\t (27:38:14) Pick first element.
+\i (27:38:16) pick grid 332.0423 296.0449
+\t (27:38:16) last pick:  332.0000 296.0000
+\t (27:38:16) Pick first element.
+\t (27:38:16) Target Horizontal Line Segment is defined on TOP.
+\t (27:38:16) last pick:  332.0000 296.0000
+\i (27:38:16) pick grid dbl 332.0423 296.0449
+\t (27:38:16) last pick:  332.0000 296.0000
+\t (27:38:16) VIA used for drill.
+\t (27:38:16) No DRC errors detected.
+\t (27:38:16) Pick first element.
+\i (27:38:17) pick grid 332.0423 292.0616
+\t (27:38:17) last pick:  332.0000 292.0000
+\t (27:38:17) Pick first element.
+\t (27:38:17) Target Horizontal Line Segment is defined on TOP.
+\t (27:38:17) last pick:  332.0000 292.0000
+\i (27:38:17) pick grid dbl 332.0423 292.0616
+\t (27:38:17) last pick:  332.0000 292.0000
+\t (27:38:17) VIA used for drill.
+\t (27:38:17) No DRC errors detected.
+\t (27:38:17) Pick first element.
+\i (27:38:20) roam y 96 
+\i (27:38:20) roam y 96
+\i (27:38:21) pick grid 326.0860 289.9949
+\t (27:38:21) last pick:  326.0000 290.0000
+\t (27:38:21) Pick first element.
+\t (27:38:21) Target Horizontal Line Segment is defined on TOP.
+\t (27:38:21) last pick:  326.0000 290.0000
+\i (27:38:21) pick grid dbl 326.0860 289.9949
+\t (27:38:21) last pick:  326.0000 290.0000
+\t (27:38:21) VIA used for drill.
+\t (27:38:21) No DRC errors detected.
+\t (27:38:21) Pick first element.
+\i (27:38:22) zoom out 1 
+\i (27:38:22) setwindow pcb
+\i (27:38:22) zoom out 325.3043 290.5161
+\i (27:38:22) trapsize 1861
+\i (27:38:23) save 
+\i (27:38:24) fillin yes 
+\i (27:38:24) shapeedit 
+\i (27:38:25) zoom out 1 
+\i (27:38:25) setwindow pcb
+\i (27:38:25) zoom out 307.2493 295.8023
+\i (27:38:25) trapsize 3723
+\i (27:38:25) roam y 96 
+\i (27:38:25) roam y 96
+\i (27:38:25) roam y 96 
+\i (27:38:25) roam y 96
+\i (27:38:26) roam y 96 
+\i (27:38:26) roam y 96
+\i (27:38:26) roam y 96 
+\i (27:38:26) roam y 96
+\i (27:38:26) roam y 96 
+\i (27:38:26) roam y 96
+\i (27:38:26) roam y -96 
+\i (27:38:26) roam y -96
+\i (27:38:26) roam y -96 
+\i (27:38:26) roam y -96
+\i (27:38:26) roam y -96 
+\i (27:38:26) roam y -96
+\i (27:44:26) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (27:44:27) roam y 96 
+\i (27:44:27) roam y 96
+\i (27:44:35) setwindow form.find
+\i (27:44:35) FORM find name_type Net 
+\i (27:44:39) setwindow pcb
+\i (27:44:39) show element 
+\i (27:44:42) setwindow form.find
+\i (27:44:42) FORM find find_name r12 
+\i (27:44:42) setwindow pcb
+\i (27:44:42) trapsize 370
+\i (27:44:43) setwindow text
+\i (27:44:43) close 
+\i (27:44:49) setwindow form.find
+\i (27:44:49) FORM find find_name r21 
+\i (27:44:49) setwindow pcb
+\i (27:44:49) trapsize 370
+\i (27:44:50) setwindow text
+\i (27:44:50) close 
+\i (27:44:53) setwindow pcb
+\i (27:44:53) zoom out 1 
+\i (27:44:53) setwindow pcb
+\i (27:44:53) zoom out 328.7319 264.2519
+\i (27:44:53) trapsize 740
+\i (27:44:53) zoom out 1 
+\i (27:44:53) setwindow pcb
+\i (27:44:53) zoom out 327.8733 264.2075
+\i (27:44:53) trapsize 1480
+\i (27:44:53) zoom out 1 
+\i (27:44:53) setwindow pcb
+\i (27:44:53) zoom out 327.1332 263.9410
+\i (27:44:53) trapsize 2961
+\i (27:44:53) zoom in 1 
+\i (27:44:53) setwindow pcb
+\i (27:44:53) zoom in 327.1331 263.9410
+\i (27:44:53) trapsize 1480
+\i (27:44:53) zoom in 1 
+\i (27:44:53) setwindow pcb
+\i (27:44:53) zoom in 327.1332 263.9410
+\i (27:44:53) trapsize 740
+\i (27:44:53) zoom in 1 
+\i (27:44:53) setwindow pcb
+\i (27:44:53) zoom in 327.1332 263.9410
+\i (27:44:53) trapsize 370
+\i (27:44:54) zoom out 1 
+\i (27:44:54) setwindow pcb
+\i (27:44:54) zoom out 327.1333 263.9411
+\i (27:44:54) trapsize 740
+\i (27:44:54) zoom out 1 
+\i (27:44:54) setwindow pcb
+\i (27:44:54) zoom out 327.1332 263.9410
+\i (27:44:54) trapsize 1480
+\i (27:44:57) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (27:44:58) roam x -96 
+\i (27:44:58) roam x -96
+\i (27:44:58) roam x -96 
+\i (27:44:58) roam x -96
+\i (27:44:58) roam x -96 
+\i (27:44:58) roam x -96
+\i (27:45:00) add connect 
+\t (27:45:00) Pick first element.
+\i (27:45:00) roam y -96 
+\i (27:45:00) roam y -96
+\i (27:45:00) roam y -96 
+\i (27:45:00) roam y -96
+\i (27:45:01) roam y -96 
+\i (27:45:01) roam y -96
+\i (27:45:01) roam y -96 
+\i (27:45:01) roam y -96
+\i (27:45:01) roam y -96 
+\i (27:45:01) roam y -96
+\i (27:45:01) roam y -96 
+\i (27:45:01) roam y -96
+\i (27:45:02) zoom out 1 
+\i (27:45:02) setwindow pcb
+\i (27:45:02) zoom out 311.0717 287.2957
+\i (27:45:02) trapsize 2961
+\i (27:45:02) roam y 96 
+\i (27:45:02) roam y 96
+\i (27:45:02) roam y 96 
+\i (27:45:02) roam y 96
+\i (27:45:03) roam y 96 
+\i (27:45:03) roam y 96
+\i (27:45:03) roam y 96 
+\i (27:45:03) roam y 96
+\i (27:45:04) zoom in 1 
+\i (27:45:04) setwindow pcb
+\i (27:45:04) zoom in 331.4426 246.2873
+\i (27:45:04) trapsize 1480
+\i (27:45:06) roam y -96 
+\i (27:45:06) roam y -96
+\i (27:45:06) roam y 96 
+\i (27:45:06) roam y 96
+\i (27:45:07) roam y 96 
+\i (27:45:07) roam y 96
+\i (27:45:07) roam y 96 
+\i (27:45:07) roam y 96
+\i (27:45:07) roam y 96 
+\i (27:45:07) roam y 96
+\i (27:45:09) roam x -96 
+\i (27:45:09) roam x -96
+\i (27:45:09) roam x -96 
+\i (27:45:09) roam x -96
+\i (27:45:09) roam x -96 
+\i (27:45:09) roam x -96
+\i (27:45:11) pick grid 317.0231 241.0169
+\t (27:45:11) last pick:  317.0000 241.0000
+\t (27:45:11) Target Vertical Line Segment is defined on TOP.
+\t (27:45:11) last pick:  317.0000 241.0000
+\i (27:45:12) pick grid dbl 317.0231 241.0169
+\t (27:45:12) last pick:  317.0000 241.0000
+\t (27:45:12) VIA used for drill.
+\t (27:45:12) No DRC errors detected.
+\t (27:45:12) Pick first element.
+\i (27:45:13) roam x -96 
+\i (27:45:13) roam x -96
+\i (27:45:16) zoom in 1 
+\i (27:45:16) setwindow pcb
+\i (27:45:16) zoom in 323.3891 240.2471
+\i (27:45:16) trapsize 740
+\i (27:45:16) zoom in 1 
+\i (27:45:16) setwindow pcb
+\i (27:45:16) zoom in 323.3891 240.2471
+\i (27:45:16) trapsize 370
+\i (27:45:18) roam y -96 
+\i (27:45:18) roam y -96
+\i (27:45:19) roam y -96 
+\i (27:45:19) roam y -96
+\i (27:45:19) roam y -96 
+\i (27:45:19) roam y -96
+\i (27:45:19) roam y -96 
+\i (27:45:19) roam y -96
+\i (27:45:19) roam y -96 
+\i (27:45:19) roam y -96
+\i (27:45:20) roam x -96 
+\i (27:45:20) roam x -96
+\i (27:45:20) roam x -96 
+\i (27:45:20) roam x -96
+\i (27:45:20) roam x -96 
+\i (27:45:20) roam x -96
+\i (27:45:21) zoom out 1 
+\i (27:45:21) setwindow pcb
+\i (27:45:21) zoom out 321.2572 243.8001
+\i (27:45:21) trapsize 740
+\i (27:45:21) roam y -96 
+\i (27:45:21) roam y -96
+\i (27:45:21) roam y -96 
+\i (27:45:21) roam y -96
+\i (27:45:22) roam y -96 
+\i (27:45:22) roam y -96
+\i (27:45:25) roam y -96 
+\i (27:45:25) roam y -96
+\i (27:45:25) roam y -96 
+\i (27:45:25) roam y -96
+\i (27:45:25) roam y -96 
+\i (27:45:25) roam y -96
+\i (27:45:26) roam y -96 
+\i (27:45:26) roam y -96
+\i (27:45:26) roam y -96 
+\i (27:45:26) roam y -96
+\i (27:45:28) roam x 96 
+\i (27:45:28) roam x 96
+\i (27:45:28) roam x 96 
+\i (27:45:28) roam x 96
+\i (27:45:28) roam x 96 
+\i (27:45:28) roam x 96
+\i (27:45:30) roam y -96 
+\i (27:45:30) roam y -96
+\i (27:45:32) pick grid 327.0013 257.9828
+\t (27:45:32) last pick:  327.0000 258.0000
+\t (27:45:32) Pick first element.
+\t (27:45:32) Target Odd-angle Line Segment is defined on TOP.
+\t (27:45:32) last pick:  327.0000 258.0000
+\i (27:45:32) pick grid dbl 327.0013 257.9828
+\t (27:45:32) last pick:  327.0000 258.0000
+\t (27:45:32) VIA used for drill.
+\t (27:45:32) No DRC errors detected.
+\t (27:45:32) Pick first element.
+\i (27:45:33) roam y -96 
+\i (27:45:33) roam y -96
+\i (27:45:34) roam y -96 
+\i (27:45:34) roam y -96
+\i (27:45:34) roam y -96 
+\i (27:45:34) roam y -96
+\i (27:45:35) roam y -96 
+\i (27:45:35) roam y -96
+\i (27:45:36) roam y -96 
+\i (27:45:36) roam y -96
+\i (27:45:36) roam y -96 
+\i (27:45:36) roam y -96
+\i (27:45:36) roam y -96 
+\i (27:45:36) roam y -96
+\i (27:45:39) pick grid 318.9773 269.0121
+\t (27:45:39) last pick:  319.0000 269.0000
+\t (27:45:39) Pick first element.
+\t (27:45:39) Target Horizontal Line Segment is defined on TOP.
+\t (27:45:39) last pick:  319.0000 269.0000
+\i (27:45:39) pick grid dbl 318.9773 269.0121
+\t (27:45:39) last pick:  319.0000 269.0000
+\t (27:45:39) VIA used for drill.
+\t (27:45:39) No DRC errors detected.
+\t (27:45:39) Pick first element.
+\i (27:45:39) pick grid 318.9773 269.0121
+\t (27:45:39) last pick:  319.0000 269.0000
+\t (27:45:39) Pick first element.
+\t (27:45:39) Target Horizontal Line Segment is defined on TOP.
+\t (27:45:39) last pick:  319.0000 269.0000
+\i (27:45:40) mouse_pos 319.2585 268.4792
+\i (27:45:41) mouse_pos 320.5021 267.9166
+\i (27:45:41) mouse_pos 320.0580 268.5088
+\i (27:45:41) mouse_pos 318.9180 269.5895
+\i (27:45:41) mouse_pos 318.4147 270.0040
+\i (27:45:41) mouse_pos 317.6745 270.5074
+\i (27:45:41) mouse_pos 317.3784 270.7443
+\i (27:45:42) delete 
+\i (27:45:43) roam y -96 
+\i (27:45:43) roam y -96
+\i (27:45:44) roam y -96 
+\i (27:45:44) roam y -96
+\i (27:45:44) roam y -96 
+\i (27:45:44) roam y -96
+\i (27:45:46) pick grid 323.0337 270.9959
+\t (27:45:46) last pick:  323.0000 271.0000
+\i (27:45:46) pick grid dbl 323.0337 270.9959
+\t (27:45:46) last pick:  323.0000 271.0000
+\i (27:45:48) undo 
+\i (27:45:49) trapsize 740
+\i (27:45:49) shapeedit 
+\i (27:45:49) roam y -96 
+\i (27:45:49) roam y -96
+\i (27:45:50) roam y -96 
+\i (27:45:50) roam y -96
+\i (27:45:50) roam y -96 
+\i (27:45:50) roam y -96
+\i (27:45:50) zoom out 1 
+\i (27:45:50) setwindow pcb
+\i (27:45:50) zoom out 317.1119 273.7052
+\i (27:45:50) trapsize 1480
+\i (27:45:51) pick grid 311.9599 272.6392
+\t (27:45:51) last pick:  312.0000 273.0000
+\i (27:45:56) add connect 
+\t (27:45:56) Pick first element.
+\i (27:45:57) zoom in 1 
+\i (27:45:57) setwindow pcb
+\i (27:45:57) zoom in 322.5303 274.1493
+\i (27:45:57) trapsize 740
+\i (27:46:00) pick grid 323.0337 270.9960
+\t (27:46:00) last pick:  323.0000 271.0000
+\t (27:46:00) Target Horizontal Line Segment is defined on TOP.
+\t (27:46:00) last pick:  323.0000 271.0000
+\i (27:46:00) pick grid dbl 323.0337 270.9960
+\t (27:46:00) last pick:  323.0000 271.0000
+\t (27:46:00) VIA used for drill.
+\t (27:46:00) No DRC errors detected.
+\t (27:46:00) Pick first element.
+\i (27:46:01) roam y -96 
+\i (27:46:01) roam y -96
+\i (27:46:01) roam y -96 
+\i (27:46:01) roam y -96
+\i (27:46:01) roam y -96 
+\i (27:46:01) roam y -96
+\i (27:46:02) zoom out 1 
+\i (27:46:02) setwindow pcb
+\i (27:46:02) zoom out 324.9731 276.8438
+\i (27:46:02) trapsize 1480
+\i (27:46:03) roam y -96 
+\i (27:46:03) roam y -96
+\i (27:46:03) roam y -96 
+\i (27:46:03) roam y -96
+\i (27:46:03) roam y -96 
+\i (27:46:03) roam y -96
+\i (27:46:04) roam y 96 
+\i (27:46:04) roam y 96
+\i (27:46:04) roam y 96 
+\i (27:46:04) roam y 96
+\i (27:46:06) pick grid 323.9959 276.9326
+\t (27:46:06) last pick:  324.0000 277.0000
+\t (27:46:06) Pick first element.
+\t (27:46:06) Target Horizontal Line Segment is defined on TOP.
+\t (27:46:06) last pick:  324.0000 277.0000
+\i (27:46:06) pick grid dbl 323.9959 276.9326
+\t (27:46:06) last pick:  324.0000 277.0000
+\t (27:46:06) VIA used for drill.
+\t (27:46:06) No DRC errors detected.
+\t (27:46:06) Pick first element.
+\i (27:46:07) pick grid 326.0685 277.0214
+\t (27:46:07) last pick:  326.0000 277.0000
+\t (27:46:07) Pick first element.
+\t (27:46:07) Target Horizontal Line Segment is defined on TOP.
+\t (27:46:07) last pick:  326.0000 277.0000
+\i (27:46:07) pick grid dbl 326.0685 277.0214
+\t (27:46:07) last pick:  326.0000 277.0000
+\t (27:46:07) VIA used for drill.
+\t (27:46:07) No DRC errors detected.
+\t (27:46:07) Pick first element.
+\i (27:46:09) pick grid 329.9769 277.0214
+\t (27:46:09) last pick:  330.0000 277.0000
+\t (27:46:09) Pick first element.
+\t (27:46:09) Target Horizontal Line Segment is defined on TOP.
+\t (27:46:09) last pick:  330.0000 277.0000
+\i (27:46:09) pick grid dbl 329.9769 277.0214
+\t (27:46:09) last pick:  330.0000 277.0000
+\t (27:46:09) VIA used for drill.
+\t (27:46:09) No DRC errors detected.
+\t (27:46:09) Pick first element.
+\i (27:46:09) pick grid 331.0428 276.9030
+\t (27:46:09) last pick:  331.0000 277.0000
+\t (27:46:09) Pick first element.
+\t (27:46:09) Target Horizontal Line Segment is defined on TOP.
+\t (27:46:09) last pick:  331.0000 277.0000
+\i (27:46:10) pick grid dbl 331.0428 276.9030
+\t (27:46:10) last pick:  331.0000 277.0000
+\t (27:46:10) VIA used for drill.
+\t (27:46:10) No DRC errors detected.
+\t (27:46:10) Pick first element.
+\i (27:46:11) pick grid 331.0428 279.1237
+\t (27:46:11) last pick:  331.0000 279.0000
+\t (27:46:11) Pick first element.
+\t (27:46:11) Target Horizontal Line Segment is defined on TOP.
+\t (27:46:11) last pick:  331.0000 279.0000
+\i (27:46:11) pick grid dbl 331.0428 279.1237
+\t (27:46:11) last pick:  331.0000 279.0000
+\t (27:46:11) VIA used for drill.
+\t (27:46:11) No DRC errors detected.
+\t (27:46:11) Pick first element.
+\i (27:46:13) pick grid 325.0026 278.0577
+\t (27:46:13) last pick:  325.0000 278.0000
+\t (27:46:13) Pick first element.
+\t (27:46:13) Target Horizontal Line Segment is defined on TOP.
+\t (27:46:13) last pick:  325.0000 278.0000
+\i (27:46:13) pick grid dbl 325.0026 278.0577
+\t (27:46:13) last pick:  325.0000 278.0000
+\t (27:46:13) VIA used for drill.
+\t (27:46:13) No DRC errors detected.
+\t (27:46:13) Pick first element.
+\i (27:46:15) pick grid 325.0914 276.0147
+\t (27:46:15) last pick:  325.0000 276.0000
+\t (27:46:15) Pick first element.
+\t (27:46:15) Target Horizontal Line Segment is defined on TOP.
+\t (27:46:15) last pick:  325.0000 276.0000
+\i (27:46:15) pick grid dbl 325.0914 276.0147
+\t (27:46:15) last pick:  325.0000 276.0000
+\t (27:46:15) VIA used for drill.
+\t (27:46:15) No DRC errors detected.
+\t (27:46:15) Pick first element.
+\i (27:46:16) roam x -96 
+\i (27:46:16) roam x -96
+\i (27:46:18) pick grid 327.0605 275.8963
+\t (27:46:18) last pick:  327.0000 276.0000
+\t (27:46:18) Pick first element.
+\t (27:46:18) Target Horizontal Line Segment is defined on TOP.
+\t (27:46:18) last pick:  327.0000 276.0000
+\i (27:46:18) pick grid dbl 327.0605 275.8963
+\t (27:46:18) last pick:  327.0000 276.0000
+\t (27:46:18) VIA used for drill.
+\t (27:46:18) No DRC errors detected.
+\t (27:46:18) Pick first element.
+\i (27:46:19) pick grid 330.9985 276.0739
+\t (27:46:19) last pick:  331.0000 276.0000
+\t (27:46:19) Pick first element.
+\t (27:46:19) Target Horizontal Line Segment is defined on TOP.
+\t (27:46:19) last pick:  331.0000 276.0000
+\i (27:46:19) pick grid dbl 330.9985 276.0739
+\t (27:46:19) last pick:  331.0000 276.0000
+\t (27:46:19) VIA used for drill.
+\t (27:46:19) No DRC errors detected.
+\t (27:46:19) Pick first element.
+\i (27:46:22) roam x -96 
+\i (27:46:22) roam x -96
+\i (27:46:22) roam x -96 
+\i (27:46:22) roam x -96
+\i (27:46:23) roam y 96 
+\i (27:46:23) roam y 96
+\i (27:46:25) save 
+\i (27:46:26) fillin yes 
+\i (27:46:26) shapeedit 
+\i (27:46:26) zoom out 1 
+\i (27:46:26) setwindow pcb
+\i (27:46:26) zoom out 307.7259 280.1007
+\i (27:46:26) trapsize 2961
+\i (27:46:29) roam y -96 
+\i (27:46:29) roam y -96
+\i (27:46:29) roam y -96 
+\i (27:46:29) roam y -96
+\i (27:46:29) roam y -96 
+\i (27:46:29) roam y -96
+\i (27:46:30) roam y 96 
+\i (27:46:30) roam y 96
+\i (27:46:32) roam y 96 
+\i (27:46:32) roam y 96
+\i (27:46:32) roam y 96 
+\i (27:46:32) roam y 96
+\i (27:46:32) roam y 96 
+\i (27:46:32) roam y 96
+\i (27:46:32) roam y 96 
+\i (27:46:32) roam y 96
+\i (27:46:32) roam y 96 
+\i (27:46:32) roam y 96
+\i (27:46:33) roam y 96 
+\i (27:46:33) roam y 96
+\i (27:46:33) zoom in 1 
+\i (27:46:33) setwindow pcb
+\i (27:46:33) zoom in 313.7068 251.7946
+\i (27:46:33) trapsize 1480
+\i (27:46:33) zoom in 1 
+\i (27:46:33) setwindow pcb
+\i (27:46:33) zoom in 313.7069 251.7946
+\i (27:46:33) trapsize 740
+\i (27:46:34) roam y -96 
+\i (27:46:34) roam y -96
+\i (27:46:34) roam y -96 
+\i (27:46:34) roam y -96
+\i (27:46:34) roam x 96 
+\i (27:46:34) roam x 96
+\i (27:46:34) roam x 96 
+\i (27:46:34) roam x 96
+\i (27:46:35) roam x 96 
+\i (27:46:35) roam x 96
+\i (27:46:35) roam x 96 
+\i (27:46:35) roam x 96
+\i (27:46:35) roam x 96 
+\i (27:46:35) roam x 96
+\i (27:46:35) roam x 96 
+\i (27:46:35) roam x 96
+\i (27:46:35) roam y -96 
+\i (27:46:35) roam y -96
+\i (27:46:39) roam x 96 
+\i (27:46:39) roam x 96
+\i (27:46:40) roam y 96 
+\i (27:46:40) roam y 96
+\i (27:46:41) roam y 96 
+\i (27:46:41) roam y 96
+\i (27:46:41) roam y 96 
+\i (27:46:41) roam y 96
+\i (27:46:43) roam y 96 
+\i (27:46:43) roam y 96
+\i (27:46:44) roam y 96 
+\i (27:46:44) roam y 96
+\i (27:46:44) roam x -96 
+\i (27:46:44) roam x -96
+\i (27:46:45) roam x -96 
+\i (27:46:45) roam x -96
+\i (27:46:45) roam x -96 
+\i (27:46:45) roam x -96
+\i (27:46:45) roam y 96 
+\i (27:46:45) roam y 96
+\i (27:46:46) roam y 96 
+\i (27:46:46) roam y 96
+\i (27:46:46) roam y 96 
+\i (27:46:46) roam y 96
+\i (27:46:46) roam y 96 
+\i (27:46:46) roam y 96
+\i (27:46:47) roam x 96 
+\i (27:46:47) roam x 96
+\i (27:46:47) roam x 96 
+\i (27:46:47) roam x 96
+\i (27:46:48) roam x 96 
+\i (27:46:48) roam x 96
+\i (27:46:48) roam x 96 
+\i (27:46:48) roam x 96
+\i (27:46:49) zoom out 1 
+\i (27:46:49) setwindow pcb
+\i (27:46:49) zoom out 329.7846 243.3857
+\i (27:46:49) trapsize 1480
+\i (27:46:50) roam y -96 
+\i (27:46:50) roam y -96
+\i (27:46:50) roam y -96 
+\i (27:46:50) roam y -96
+\i (27:46:50) roam y -96 
+\i (27:46:50) roam y -96
+\i (27:46:50) roam y -96 
+\i (27:46:50) roam y -96
+\i (27:46:50) roam y -96 
+\i (27:46:50) roam y -96
+\i (27:46:50) roam y -96 
+\i (27:46:50) roam y -96
+\i (27:46:52) roam y -96 
+\i (27:46:52) roam y -96
+\i (27:46:52) roam y -96 
+\i (27:46:52) roam y -96
+\i (27:46:52) roam y -96 
+\i (27:46:52) roam y -96
+\i (27:46:53) roam y -96 
+\i (27:46:53) roam y -96
+\i (27:46:53) roam y -96 
+\i (27:46:53) roam y -96
+\i (27:46:53) roam y -96 
+\i (27:46:53) roam y -96
+\i (27:46:53) roam y -96 
+\i (27:46:53) roam y -96
+\i (27:46:58) add connect 
+\t (27:46:58) Pick first element.
+\i (27:46:59) pick grid 315.9572 270.9516
+\t (27:46:59) last pick:  316.0000 271.0000
+\t (27:46:59) Target Horizontal Line Segment is defined on TOP.
+\t (27:47:00) last pick:  316.0000 271.0000
+\i (27:47:00) pick grid dbl 315.9572 270.9516
+\t (27:47:00) last pick:  316.0000 271.0000
+\t (27:47:00) VIA used for drill.
+\t (27:47:00) No DRC errors detected.
+\t (27:47:00) Pick first element.
+\i (27:47:03) pick grid 337.0388 271.0997
+\t (27:47:03) last pick:  337.0000 271.0000
+\t (27:47:03) Pick first element.
+\t (27:47:03) Target Horizontal Line Segment is defined on TOP.
+\t (27:47:03) last pick:  337.0000 271.0000
+\i (27:47:03) pick grid dbl 337.0388 271.0997
+\t (27:47:03) last pick:  337.0000 271.0000
+\t (27:47:03) VIA used for drill.
+\t (27:47:03) No DRC errors detected.
+\t (27:47:03) Pick first element.
+\i (27:47:04) roam y 96 
+\i (27:47:04) roam y 96
+\i (27:47:05) roam y 96 
+\i (27:47:05) roam y 96
+\i (27:47:07) save 
+\i (27:47:08) fillin yes 
+\i (27:47:08) shapeedit 
+\i (27:47:08) roam y -96 
+\i (27:47:08) roam y -96
+\i (27:47:09) roam y -96 
+\i (27:47:09) roam y -96
+\i (27:47:09) roam y -96 
+\i (27:47:09) roam y -96
+\i (27:47:09) roam y -96 
+\i (27:47:09) roam y -96
+\i (27:47:09) roam y -96 
+\i (27:47:09) roam y -96
+\i (27:47:09) roam y -96 
+\i (27:47:09) roam y -96
+\i (27:47:20) zoom in 1 
+\i (27:47:20) setwindow pcb
+\i (27:47:20) zoom in 319.0070 291.3818
+\i (27:47:20) trapsize 740
+\i (27:47:20) zoom in 1 
+\i (27:47:20) setwindow pcb
+\i (27:47:20) zoom in 319.1994 291.3670
+\i (27:47:20) trapsize 370
+\i (27:47:24) slide 
+\t (27:47:24) Pick element to slide.
+\i (27:47:24) pick grid 320.1765 291.2560
+\t (27:47:24) last pick:  320.0000 291.0000
+\t (27:47:24) last pick:  320.1662 291.2661
+\t (27:47:24) Waiting for the destination pick.
+\i (27:47:27) pick grid 320.1839 291.4706
+\t (27:47:27) last pick:  320.0000 291.0000
+\t (27:47:27) No DRC errors detected.
+\t (27:47:27) Pick another element to slide.
+\i (27:47:28) pick grid 320.7169 291.7815
+\t (27:47:28) last pick:  321.0000 292.0000
+\t (27:47:28) last pick:  320.7115 291.7865
+\t (27:47:28) Waiting for the destination pick.
+\i (27:47:30) zoom out 1 
+\i (27:47:30) setwindow pcb
+\i (27:47:30) zoom out 319.8508 291.9592
+\i (27:47:30) trapsize 740
+\i (27:47:30) zoom out 1 
+\i (27:47:30) setwindow pcb
+\i (27:47:30) zoom out 319.8508 291.9148
+\i (27:47:30) trapsize 1480
+\i (27:47:31) pick grid 316.7715 291.1449
+\t (27:47:31) last pick:  317.0000 291.0000
+\t (27:47:31) No DRC errors detected.
+\t (27:47:31) Pick another element to slide.
+\i (27:47:34) slide 
+\t (27:47:34) Pick element to slide.
+\i (27:47:34) zoom in 1 
+\i (27:47:34) setwindow pcb
+\i (27:47:34) zoom in 321.5682 288.9538
+\i (27:47:34) trapsize 740
+\i (27:47:34) zoom in 1 
+\i (27:47:34) setwindow pcb
+\i (27:47:34) zoom in 321.5682 288.9538
+\i (27:47:34) trapsize 370
+\i (27:47:34) zoom in 1 
+\i (27:47:34) setwindow pcb
+\i (27:47:34) zoom in 321.5682 288.9539
+\i (27:47:34) trapsize 185
+\i (27:47:34) zoom in 1 
+\i (27:47:34) setwindow pcb
+\i (27:47:34) zoom in 321.5683 289.0094
+\i (27:47:34) trapsize 93
+\i (27:47:35) zoom out 1 
+\i (27:47:35) setwindow pcb
+\i (27:47:35) zoom out 321.2482 289.2389
+\i (27:47:35) trapsize 185
+\i (27:47:35) zoom out 1 
+\i (27:47:35) setwindow pcb
+\i (27:47:35) zoom out 321.2481 289.2389
+\i (27:47:35) trapsize 370
+\i (27:47:35) zoom out 1 
+\i (27:47:35) setwindow pcb
+\i (27:47:35) zoom out 321.2481 289.2389
+\i (27:47:35) trapsize 740
+\i (27:47:35) roam y -96 
+\i (27:47:35) roam y -96
+\i (27:47:36) roam y -96 
+\i (27:47:36) roam y -96
+\i (27:47:36) zoom in 1 
+\i (27:47:36) setwindow pcb
+\i (27:47:36) zoom in 319.1459 290.0433
+\i (27:47:36) trapsize 370
+\i (27:47:36) zoom in 1 
+\i (27:47:36) setwindow pcb
+\i (27:47:36) zoom in 319.1459 290.0433
+\i (27:47:36) trapsize 185
+\i (27:47:37) pick grid 319.2236 290.0692
+\t (27:47:37) last pick:  319.0000 290.0000
+\t (27:47:37) last pick:  319.2000 290.0750
+\t (27:47:37) Waiting for the destination pick.
+\i (27:47:38) pick grid 319.2236 290.0692
+\t (27:47:38) last pick:  319.0000 290.0000
+\t (27:47:38) No DRC errors detected.
+\t (27:47:38) Pick another element to slide.
+\i (27:47:39) pick grid 319.3902 290.5319
+\t (27:47:39) last pick:  319.0000 291.0000
+\t (27:47:39) last pick:  319.4178 290.5043
+\t (27:47:39) Waiting for the destination pick.
+\i (27:47:40) pick grid 319.5160 290.7465
+\t (27:47:40) last pick:  320.0000 291.0000
+\t (27:47:40) No DRC errors detected.
+\t (27:47:40) Pick another element to slide.
+\i (27:47:40) roam y -96 
+\i (27:47:40) roam y -96
+\i (27:47:42) pick grid 319.7973 290.9211
+\t (27:47:42) last pick:  320.0000 291.0000
+\t (27:47:42) last pick:  319.8092 290.9091
+\t (27:47:42) Waiting for the destination pick.
+\i (27:47:43) pick grid 320.1489 291.2468
+\t (27:47:43) last pick:  320.0000 291.0000
+\t (27:47:43) No DRC errors detected.
+\t (27:47:43) Pick another element to slide.
+\i (27:47:44) pick grid 319.9083 290.9914
+\t (27:47:44) last pick:  320.0000 291.0000
+\t (27:47:44) last pick:  319.8998 290.9997
+\t (27:47:44) Waiting for the destination pick.
+\i (27:47:45) pick grid 320.1563 291.2505
+\t (27:47:45) last pick:  320.0000 291.0000
+\t (27:47:45) No DRC errors detected.
+\t (27:47:45) Pick another element to slide.
+\i (27:47:46) pick grid 319.3828 290.5140
+\t (27:47:46) last pick:  319.0000 291.0000
+\t (27:47:46) last pick:  319.4668 290.5667
+\t (27:47:46) Waiting for the destination pick.
+\i (27:47:47) pick grid 319.5530 290.6472
+\t (27:47:47) last pick:  320.0000 291.0000
+\t (27:47:47) No DRC errors detected.
+\t (27:47:47) Pick another element to slide.
+\i (27:47:48) pick grid 319.1866 290.5066
+\t (27:47:48) last pick:  319.0000 291.0000
+\t (27:47:48) last pick:  319.3034 290.3899
+\t (27:47:48) Waiting for the destination pick.
+\i (27:47:49) pick grid 319.6825 290.7360
+\t (27:47:49) last pick:  320.0000 291.0000
+\t (27:47:49) No DRC errors detected.
+\t (27:47:49) Pick another element to slide.
+\i (27:47:50) zoom out 1 
+\i (27:47:50) setwindow pcb
+\i (27:47:50) zoom out 320.0637 290.9359
+\i (27:47:50) trapsize 370
+\i (27:47:50) zoom out 1 
+\i (27:47:50) setwindow pcb
+\i (27:47:50) zoom out 320.0637 290.9285
+\i (27:47:50) trapsize 740
+\i (27:47:51) zoom out 1 
+\i (27:47:51) setwindow pcb
+\i (27:47:51) zoom out 314.6010 291.2246
+\i (27:47:51) trapsize 1480
+\i (27:47:52) roam x -96 
+\i (27:47:52) roam x -96
+\i (27:47:52) roam x -96 
+\i (27:47:52) roam x -96
+\i (27:47:53) roam x -96 
+\i (27:47:53) roam x -96
+\i (27:47:53) pick grid 307.2162 289.3889
+\t (27:47:53) last pick:  307.0000 289.0000
+\t (27:47:53) Pick element to slide.
+\i (27:47:54) save 
+\i (27:47:55) fillin yes 
+\i (27:47:55) shapeedit 
+\i (27:47:55) roam y -96 
+\i (27:47:55) roam y -96
+\i (27:47:55) roam y -96 
+\i (27:47:55) roam y -96
+\i (27:47:56) roam y -96 
+\i (27:47:56) roam y -96
+\i (27:47:56) roam y 96 
+\i (27:47:56) roam y 96
+\i (27:47:59) roam y 96 
+\i (27:47:59) roam y 96
+\i (27:47:59) roam y 96 
+\i (27:47:59) roam y 96
+\i (27:47:59) roam y 96 
+\i (27:47:59) roam y 96
+\i (27:47:59) roam y 96 
+\i (27:47:59) roam y 96
+\i (27:47:59) roam y 96 
+\i (27:47:59) roam y 96
+\i (27:47:59) roam y 96 
+\i (27:47:59) roam y 96
+\i (27:48:00) roam x 96 
+\i (27:48:00) roam x 96
+\i (27:48:00) roam x 96 
+\i (27:48:00) roam x 96
+\i (27:48:05) zoom in 1 
+\i (27:48:05) setwindow pcb
+\i (27:48:05) zoom in 318.0232 273.1073
+\i (27:48:05) trapsize 740
+\i (27:48:05) zoom in 1 
+\i (27:48:05) setwindow pcb
+\i (27:48:05) zoom in 318.0232 273.1073
+\i (27:48:05) trapsize 370
+\i (27:48:05) zoom in 1 
+\i (27:48:05) setwindow pcb
+\i (27:48:05) zoom in 318.0380 273.1222
+\i (27:48:05) trapsize 185
+\i (27:48:11) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (27:48:13) zoom out 1 
+\i (27:48:13) setwindow pcb
+\i (27:48:13) zoom out 319.3111 273.5404
+\i (27:48:13) trapsize 370
+\i (27:48:13) zoom out 1 
+\i (27:48:13) setwindow pcb
+\i (27:48:13) zoom out 319.3111 273.5404
+\i (27:48:13) trapsize 740
+\i (27:48:14) roam y 96 
+\i (27:48:14) roam y 96
+\i (27:48:14) roam y 96 
+\i (27:48:14) roam y 96
+\i (27:48:17) zoom out 1 
+\i (27:48:17) setwindow pcb
+\i (27:48:17) zoom out 319.4444 270.6942
+\i (27:48:18) trapsize 1480
+\i (27:48:18) zoom out 1 
+\i (27:48:18) setwindow pcb
+\i (27:48:18) zoom out 319.4444 270.6942
+\i (27:48:18) trapsize 2961
+\i (27:48:18) roam y 96 
+\i (27:48:18) roam y 96
+\i (27:48:19) roam y 96 
+\i (27:48:19) roam y 96
+\i (27:48:19) roam y 96 
+\i (27:48:19) roam y 96
+\i (27:48:19) roam y -96 
+\i (27:48:19) roam y -96
+\i (27:48:19) roam y -96 
+\i (27:48:19) roam y -96
+\i (27:48:20) roam y -96 
+\i (27:48:20) roam y -96
+\i (27:48:20) roam y -96 
+\i (27:48:20) roam y -96
+\i (27:48:20) roam y -96 
+\i (27:48:20) roam y -96
+\i (27:48:20) roam y -96 
+\i (27:48:20) roam y -96
+\i (27:48:20) roam y -96 
+\i (27:48:20) roam y -96
+\i (27:48:20) roam y -96 
+\i (27:48:20) roam y -96
+\i (27:48:21) roam y 96 
+\i (27:48:21) roam y 96
+\i (27:48:21) roam y 96 
+\i (27:48:21) roam y 96
+\i (27:48:37) roam x 96 
+\i (27:48:37) roam x 96
+\i (27:48:37) roam x 96 
+\i (27:48:37) roam x 96
+\i (27:48:38) zoom in 1 
+\i (27:48:38) setwindow pcb
+\i (27:48:38) zoom in 324.3297 295.9650
+\i (27:48:38) trapsize 1480
+\i (27:48:44) roam y 96 
+\i (27:48:44) roam y 96
+\i (27:48:45) roam y 96 
+\i (27:48:45) roam y 96
+\i (27:48:45) roam y 96 
+\i (27:48:45) roam y 96
+\i (27:48:45) roam y 96 
+\i (27:48:45) roam y 96
+\i (27:48:46) roam y 96 
+\i (27:48:46) roam y 96
+\i (27:48:48) roam y 96 
+\i (27:48:48) roam y 96
+\i (27:48:48) roam y 96 
+\i (27:48:48) roam y 96
+\i (27:48:48) roam y 96 
+\i (27:48:48) roam y 96
+\i (27:48:49) roam y 96 
+\i (27:48:49) roam y 96
+\i (27:48:49) roam y 96 
+\i (27:48:49) roam y 96
+\i (27:48:49) roam y 96 
+\i (27:48:49) roam y 96
+\i (27:48:50) roam y 96 
+\i (27:48:50) roam y 96
+\i (27:48:50) roam y 96 
+\i (27:48:50) roam y 96
+\i (27:48:50) roam y 96 
+\i (27:48:50) roam y 96
+\i (27:48:50) roam y 96 
+\i (27:48:50) roam y 96
+\i (27:48:50) roam y 96 
+\i (27:48:50) roam y 96
+\i (27:48:54) zoom in 1 
+\i (27:48:54) setwindow pcb
+\i (27:48:54) zoom in 319.5924 240.3309
+\i (27:48:54) trapsize 740
+\i (27:48:58) roam y -96 
+\i (27:48:58) roam y -96
+\i (27:48:58) roam y -96 
+\i (27:48:58) roam y -96
+\i (27:48:59) roam y 96 
+\i (27:48:59) roam y 96
+\i (27:48:59) roam y 96 
+\i (27:48:59) roam y 96
+\i (27:49:04) add text 
+\t (27:49:04) Pick text location.
+\i (27:49:05) pick grid 322.1980 239.0133
+\t (27:49:05) last pick:  322.0000 239.0000
+\t (27:49:05) Enter text string.
+\i (27:49:13) setwindow pcb
+\i (27:49:13) move 
+\i (27:49:13) setwindow pcb
+\i (27:49:13) pick 322.0000 239.0000
+\t (27:49:13) Select element(s) to move.
+\i (27:49:17) setwindow pcb
+\i (27:49:17) undo 
+\i (27:49:17) trapsize 740
+\i (27:49:17) shapeedit 
+\i (27:49:26) undo 
+\i (27:49:26) trapsize 740
+\i (27:49:26) shapeedit 
+\i (27:49:30) add text 
+\t (27:49:30) Pick text location.
+\i (27:49:41) setwindow form.mini
+\i (27:49:41) FORM mini class REF DES 
+\i (27:49:44) FORM mini subclass SILKSCREEN_TOP 
+\t (27:49:44) Pick an element to attach the text to.
+\i (27:49:58) setwindow pcb
+\i (27:49:58) zoom out 1 
+\i (27:49:58) setwindow pcb
+\i (27:49:58) zoom out 325.4549 241.3968
+\i (27:49:58) trapsize 1480
+\i (27:49:59) roam y -96 
+\i (27:49:59) roam y -96
+\i (27:49:59) roam y -96 
+\i (27:49:59) roam y -96
+\i (27:49:59) roam y -96 
+\i (27:49:59) roam y -96
+\i (27:50:00) roam y -96 
+\i (27:50:00) roam y -96
+\i (27:50:00) roam y -96 
+\i (27:50:00) roam y -96
+\i (27:50:00) roam y -96 
+\i (27:50:00) roam y -96
+\i (27:50:01) zoom in 1 
+\i (27:50:01) setwindow pcb
+\i (27:50:01) zoom in 329.9258 261.4121
+\i (27:50:01) trapsize 740
+\i (27:50:05) add line 
+\i (27:50:22) zoom in 1 
+\i (27:50:22) setwindow pcb
+\i (27:50:22) zoom in 329.2004 260.7311
+\i (27:50:22) trapsize 370
+\i (27:50:28) roam y 96 
+\i (27:50:28) roam y 96
+\i (27:50:32) zoom out 1 
+\i (27:50:32) setwindow pcb
+\i (27:50:32) zoom out 328.6009 259.5911
+\i (27:50:32) trapsize 740
+\i (27:50:32) zoom out 1 
+\i (27:50:32) setwindow pcb
+\i (27:50:32) zoom out 328.6008 259.5912
+\i (27:50:32) trapsize 1480
+\i (27:50:33) roam y -96 
+\i (27:50:33) roam y -96
+\i (27:50:33) roam y -96 
+\i (27:50:33) roam y -96
+\i (27:50:34) roam y -96 
+\i (27:50:34) roam y -96
+\i (27:50:34) roam y -96 
+\i (27:50:34) roam y -96
+\i (27:50:34) roam y -96 
+\i (27:50:34) roam y -96
+\i (27:50:35) save 
+\i (27:50:36) fillin yes 
+\i (27:50:36) shapeedit 
+\i (27:51:01) roam y -96 
+\i (27:51:01) roam y -96
+\i (27:51:01) roam y -96 
+\i (27:51:01) roam y -96
+\i (27:51:02) roam y -96 
+\i (27:51:02) roam y -96
+\i (27:51:02) roam y -96 
+\i (27:51:02) roam y -96
+\i (27:51:02) roam y -96 
+\i (27:51:02) roam y -96
+\i (27:51:02) roam y -96 
+\i (27:51:02) roam y -96
+\i (27:51:02) roam y -96 
+\i (27:51:02) roam y -96
+\i (27:51:03) roam y 96 
+\i (27:51:03) roam y 96
+\i (27:51:03) roam y 96 
+\i (27:51:03) roam y 96
+\i (27:51:06) roam y 96 
+\i (27:51:06) roam y 96
+\i (27:51:06) roam y 96 
+\i (27:51:06) roam y 96
+\i (27:51:06) roam y 96 
+\i (27:51:06) roam y 96
+\i (27:51:07) roam y 96 
+\i (27:51:07) roam y 96
+\i (27:51:07) roam y 96 
+\i (27:51:07) roam y 96
+\i (27:51:07) roam y 96 
+\i (27:51:07) roam y 96
+\i (27:51:07) roam y 96 
+\i (27:51:07) roam y 96
+\i (27:51:08) roam y 96 
+\i (27:51:08) roam y 96
+\i (27:51:10) roam y 96 
+\i (27:51:10) roam y 96
+\i (27:51:10) roam y 96 
+\i (27:51:10) roam y 96
+\i (27:51:10) roam y 96 
+\i (27:51:10) roam y 96
+\i (27:51:10) roam y 96 
+\i (27:51:10) roam y 96
+\i (27:51:11) roam y 96 
+\i (27:51:11) roam y 96
+\i (27:51:11) roam y 96 
+\i (27:51:11) roam y 96
+\i (27:51:12) roam y 96 
+\i (27:51:12) roam y 96
+\i (27:51:12) roam y 96 
+\i (27:51:12) roam y 96
+\i (27:51:12) roam y -96 
+\i (27:51:12) roam y -96
+\i (27:51:13) roam y -96 
+\i (27:51:13) roam y -96
+\i (27:51:25) zoom out 1 
+\i (27:51:25) setwindow pcb
+\i (27:51:25) zoom out 333.4566 250.1016
+\i (27:51:25) trapsize 2961
+\i (27:51:28) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (27:51:31) zoom in 1 
+\i (27:51:31) setwindow pcb
+\i (27:51:31) zoom in 344.1155 243.8839
+\i (27:51:31) trapsize 1480
+\i (27:51:32) zoom in 1 
+\i (27:51:32) setwindow pcb
+\i (27:51:32) zoom in 338.7861 244.7426
+\i (27:51:32) trapsize 740
+\i (27:51:33) roam x -96 
+\i (27:51:33) roam x -96
+\i (27:51:33) roam x -96 
+\i (27:51:33) roam x -96
+\i (27:51:33) roam x -96 
+\i (27:51:33) roam x -96
+\i (27:51:34) roam y -96 
+\i (27:51:34) roam y -96
+\i (27:51:34) roam y -96 
+\i (27:51:34) roam y -96
+\i (27:51:34) roam y -96 
+\i (27:51:34) roam y -96
+\i (27:51:34) roam y -96 
+\i (27:51:34) roam y -96
+\i (27:51:39) roam y 96 
+\i (27:51:39) roam y 96
+\i (27:51:39) roam y 96 
+\i (27:51:39) roam y 96
+\i (27:51:39) roam y 96 
+\i (27:51:39) roam y 96
+\i (27:51:39) roam y 96 
+\i (27:51:39) roam y 96
+\i (27:51:40) roam y 96 
+\i (27:51:40) roam y 96
+\i (27:51:40) roam y 96 
+\i (27:51:40) roam y 96
+\i (27:51:41) roam x -96 
+\i (27:51:41) roam x -96
+\i (27:51:41) roam x -96 
+\i (27:51:41) roam x -96
+\i (27:51:41) roam x -96 
+\i (27:51:41) roam x -96
+\i (27:51:42) roam x -96 
+\i (27:51:42) roam x -96
+\i (27:51:42) roam x -96 
+\i (27:51:42) roam x -96
+\i (27:51:42) roam x -96 
+\i (27:51:42) roam x -96
+\i (27:51:42) roam x -96 
+\i (27:51:42) roam x -96
+\i (27:51:43) roam y -96 
+\i (27:51:43) roam y -96
+\i (27:51:43) roam y -96 
+\i (27:51:43) roam y -96
+\i (27:51:43) roam y -96 
+\i (27:51:43) roam y -96
+\i (27:51:43) roam y -96 
+\i (27:51:43) roam y -96
+\i (27:51:43) roam y -96 
+\i (27:51:43) roam y -96
+\i (27:51:44) roam y -96 
+\i (27:51:44) roam y -96
+\i (27:51:46) roam y -96 
+\i (27:51:46) roam y -96
+\i (27:51:46) roam y -96 
+\i (27:51:46) roam y -96
+\i (27:51:46) roam y -96 
+\i (27:51:46) roam y -96
+\i (27:51:46) roam y -96 
+\i (27:51:46) roam y -96
+\i (27:51:47) roam x 96 
+\i (27:51:47) roam x 96
+\i (27:51:48) roam x 96 
+\i (27:51:48) roam x 96
+\i (27:51:48) roam x 96 
+\i (27:51:48) roam x 96
+\i (27:51:48) roam y -96 
+\i (27:51:48) roam y -96
+\i (27:51:48) roam y -96 
+\i (27:51:48) roam y -96
+\i (27:51:48) roam y -96 
+\i (27:51:48) roam y -96
+\i (27:51:49) roam y -96 
+\i (27:51:49) roam y -96
+\i (27:51:49) roam y -96 
+\i (27:51:49) roam y -96
+\i (27:51:50) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (27:51:53) zoom out 1 
+\i (27:51:53) setwindow pcb
+\i (27:51:53) zoom out 329.2891 264.1212
+\i (27:51:53) trapsize 1480
+\i (27:51:56) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (27:51:57) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (27:51:59) roam y -96 
+\i (27:51:59) roam y -96
+\i (27:51:59) roam y -96 
+\i (27:51:59) roam y -96
+\i (27:51:59) roam y -96 
+\i (27:51:59) roam y -96
+\i (27:51:59) roam y -96 
+\i (27:51:59) roam y -96
+\i (27:51:59) roam y -96 
+\i (27:51:59) roam y -96
+\i (27:52:00) roam y -96 
+\i (27:52:00) roam y -96
+\i (27:52:03) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (27:52:05) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (27:52:08) roam y -96 
+\i (27:52:08) roam y -96
+\i (27:52:08) roam y -96 
+\i (27:52:08) roam y -96
+\i (27:52:08) roam y -96 
+\i (27:52:08) roam y -96
+\i (27:52:09) roam y -96 
+\i (27:52:09) roam y -96
+\i (27:52:09) roam x 96 
+\i (27:52:09) roam x 96
+\i (27:52:09) roam x 96 
+\i (27:52:09) roam x 96
+\i (27:52:09) roam x 96 
+\i (27:52:09) roam x 96
+\i (27:52:10) roam y 96 
+\i (27:52:10) roam y 96
+\i (27:52:10) roam y 96 
+\i (27:52:10) roam y 96
+\i (27:52:12) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (27:52:17) slide 
+\t (27:52:17) Pick element to slide.
+\i (27:52:19) add connect 
+\t (27:52:19) Pick first element.
+\i (27:52:21) pick grid 321.0136 290.0729
+\t (27:52:21) last pick:  321.0000 290.0000
+\t (27:52:21) Target Horizontal Line Segment is defined on TOP.
+\t (27:52:21) last pick:  321.0000 290.0000
+\i (27:52:21) pick grid dbl 321.0136 290.0729
+\t (27:52:21) last pick:  321.0000 290.0000
+\t (27:52:21) VIA used for drill.
+\t (27:52:21) No DRC errors detected.
+\t (27:52:21) Pick first element.
+\i (27:52:26) pick grid 332.0871 288.0003
+\t (27:52:26) last pick:  332.0000 288.0000
+\t (27:52:26) Pick first element.
+\t (27:52:26) Target Horizontal Line Segment is defined on TOP.
+\t (27:52:26) last pick:  332.0000 288.0000
+\i (27:52:26) pick grid dbl 332.0871 288.0003
+\t (27:52:26) last pick:  332.0000 288.0000
+\t (27:52:26) VIA used for drill.
+\t (27:52:26) No DRC errors detected.
+\t (27:52:26) Pick first element.
+\i (27:52:29) save 
+\i (27:52:30) fillin yes 
+\i (27:52:30) shapeedit 
+\i (27:52:31) roam y -96 
+\i (27:52:31) roam y -96
+\i (27:52:37) roam y 96 
+\i (27:52:37) roam y 96
+\i (27:52:46) roam y -96 
+\i (27:52:46) roam y -96
+\i (27:52:46) roam y -96 
+\i (27:52:46) roam y -96
+\i (27:52:46) roam y -96 
+\i (27:52:46) roam y -96
+\i (27:52:47) roam y 96 
+\i (27:52:47) roam y 96
+\i (27:52:47) roam y 96 
+\i (27:52:47) roam y 96
+\i (27:52:49) roam x 96 
+\i (27:52:49) roam x 96
+\i (27:53:03) zoom in 1 
+\i (27:53:03) setwindow pcb
+\i (27:53:03) zoom in 319.6516 290.6651
+\i (27:53:03) trapsize 740
+\i (27:53:03) zoom in 1 
+\i (27:53:03) setwindow pcb
+\i (27:53:03) zoom in 319.8441 290.6355
+\i (27:53:03) trapsize 370
+\i (27:53:03) zoom in 1 
+\i (27:53:03) setwindow pcb
+\i (27:53:03) zoom in 319.8441 290.6355
+\i (27:53:03) trapsize 185
+\i (27:53:03) zoom in 1 
+\i (27:53:03) setwindow pcb
+\i (27:53:03) zoom in 319.8441 290.6355
+\i (27:53:03) trapsize 93
+\i (27:53:04) roam x -96 
+\i (27:53:04) roam x -96
+\i (27:53:04) roam x -96 
+\i (27:53:04) roam x -96
+\i (27:53:04) roam y -96 
+\i (27:53:04) roam y -96
+\i (27:53:05) roam x -96 
+\i (27:53:05) roam x -96
+\i (27:53:05) zoom out 1 
+\i (27:53:05) setwindow pcb
+\i (27:53:05) zoom out 319.2893 290.8360
+\i (27:53:05) trapsize 185
+\i (27:53:06) zoom out 1 
+\i (27:53:06) setwindow pcb
+\i (27:53:06) zoom out 319.2894 290.4844
+\i (27:53:06) trapsize 370
+\i (27:53:12) add connect 
+\t (27:53:12) Pick first element.
+\i (27:53:13) pick grid 319.2005 290.2995
+\t (27:53:13) last pick:  319.0000 290.0000
+\t (27:53:13) last pick:  319.2000 290.2865
+\t (27:53:13) Target Horizontal Line Segment is defined on TOP.
+\t (27:53:13) last pick:  319.2000 290.2865
+\i (27:53:13) mouse_pos 319.2005 290.2995
+\i (27:53:13) mouse_pos 319.5187 290.5511
+\i (27:53:13) mouse_pos 320.4884 291.5134
+\i (27:53:15) mouse_pos 319.4521 290.7658
+\i (27:53:15) mouse_pos 319.0746 290.4993
+\i (27:53:16) mouse_pos 319.5187 290.8250
+\i (27:53:17) mouse_pos 320.4810 291.5060
+\i (27:53:17) pick grid 320.5032 291.5134
+\t (27:53:17) last pick:  321.0000 292.0000
+\t (27:53:17) No DRC errors detected.
+\t (27:53:17) Pick first element.
+\i (27:53:20) zoom out 1 
+\i (27:53:20) setwindow pcb
+\i (27:53:20) zoom out 320.2738 290.6474
+\i (27:53:20) trapsize 740
+\i (27:53:21) zoom out 1 
+\i (27:53:21) setwindow pcb
+\i (27:53:21) zoom out 320.2737 290.6473
+\i (27:53:21) trapsize 1480
+\i (27:53:23) zoom in 1 
+\i (27:53:23) setwindow pcb
+\i (27:53:23) zoom in 319.2671 290.5586
+\i (27:53:23) trapsize 740
+\i (27:53:23) zoom in 1 
+\i (27:53:23) setwindow pcb
+\i (27:53:23) zoom in 319.2671 290.5586
+\i (27:53:23) trapsize 370
+\i (27:53:23) pick grid 319.2893 290.3070
+\t (27:53:23) last pick:  319.0000 290.0000
+\t (27:53:24) Pick first element.
+\t (27:53:24) last pick:  319.2115 290.2865
+\t (27:53:24) Target Horizontal Line Segment is defined on TOP.
+\t (27:53:24) last pick:  319.2115 290.2865
+\i (27:53:24) mouse_pos 319.2893 290.3070
+\i (27:53:24) mouse_pos 319.3559 290.5365
+\i (27:53:25) zoom out 1 
+\i (27:53:25) setwindow pcb
+\i (27:53:25) zoom out 320.5180 291.4913
+\i (27:53:25) trapsize 740
+\i (27:53:25) zoom out 1 
+\i (27:53:25) setwindow pcb
+\i (27:53:25) zoom out 320.5181 291.4914
+\i (27:53:25) trapsize 1480
+\i (27:53:26) zoom out 1 
+\i (27:53:26) setwindow pcb
+\i (27:53:26) zoom out 320.5181 291.4913
+\i (27:53:26) trapsize 2961
+\i (27:53:26) mouse_pos 320.5180 290.4846
+\i (27:53:26) mouse_pos 320.8733 287.2277
+\i (27:53:27) mouse_pos 321.1694 285.1551
+\i (27:53:27) mouse_pos 321.6432 283.4378
+\i (27:53:27) mouse_pos 321.9392 281.4837
+\i (27:53:27) mouse_pos 322.0577 279.4703
+\i (27:53:27) mouse_pos 322.0577 278.4636
+\i (27:53:27) mouse_pos 322.0577 277.4570
+\i (27:53:28) mouse_pos 321.4063 276.7464
+\i (27:53:28) mouse_pos 319.3929 276.9240
+\i (27:53:28) mouse_pos 318.3270 276.9240
+\i (27:53:29) mouse_pos 312.4646 277.8715
+\i (27:53:30) delete 
+\i (27:53:31) zoom in 1 
+\i (27:53:31) setwindow pcb
+\i (27:53:31) zoom in 320.2220 267.0940
+\i (27:53:31) trapsize 1480
+\i (27:53:33) roam y 96 
+\i (27:53:33) roam y 96
+\i (27:53:33) roam y 96 
+\i (27:53:33) roam y 96
+\i (27:53:33) roam y 96 
+\i (27:53:33) roam y 96
+\i (27:53:34) zoom in 1 
+\i (27:53:34) setwindow pcb
+\i (27:53:34) zoom in 322.4427 259.9021
+\i (27:53:34) trapsize 740
+\i (27:53:34) zoom in 1 
+\i (27:53:34) setwindow pcb
+\i (27:53:34) zoom in 322.4427 259.9021
+\i (27:53:34) trapsize 370
+\i (27:53:42) add connect 
+\t (27:53:43) Pick first element.
+\i (27:53:45) pick grid 321.3620 262.7964
+\t (27:53:45) last pick:  321.0000 263.0000
+\t (27:53:45) last pick:  321.3720 262.8220
+\t (27:53:45) Target Odd-angle Line Segment is defined on TOP.
+\t (27:53:45) last pick:  321.3720 262.8220
+\i (27:53:45) mouse_pos 321.3620 262.7964
+\i (27:53:45) pick grid dbl 321.3620 262.7964
+\t (27:53:45) last pick:  321.0000 263.0000
+\t (27:53:45) VIA used for drill.
+\t (27:53:45) No DRC errors detected.
+\t (27:53:45) Pick first element.
+\i (27:53:48) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (27:53:50) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (27:53:53) zoom in 1 
+\i (27:53:53) setwindow pcb
+\i (27:53:53) zoom in 321.3768 261.2419
+\i (27:53:53) trapsize 185
+\i (27:53:53) zoom in 1 
+\i (27:53:53) setwindow pcb
+\i (27:53:53) zoom in 321.3768 261.2419
+\i (27:53:53) trapsize 93
+\i (27:53:54) pick grid 321.3435 261.3529
+\t (27:53:54) last pick:  321.0000 261.0000
+\t (27:53:54) Pick first element.
+\t (27:53:54) last pick:  321.3720 261.3500
+\t (27:53:54) Target Via is defined from TOP to BOTTOM.
+\t (27:53:54) last pick:  321.3720 261.3500
+\i (27:53:54) mouse_pos 321.3435 261.3529
+\i (27:53:54) pick grid dbl 321.3435 261.3529
+\t (27:53:54) last pick:  321.0000 261.0000
+\t (27:53:54) VIA used for drill.
+\t (27:53:54) No DRC errors detected.
+\t (27:53:54) Pick first element.
+\i (27:53:55) zoom out 1 
+\i (27:53:55) setwindow pcb
+\i (27:53:55) zoom out 321.3435 261.3474
+\i (27:53:55) trapsize 185
+\i (27:53:55) zoom out 1 
+\i (27:53:55) setwindow pcb
+\i (27:53:55) zoom out 321.3436 261.3474
+\i (27:53:55) trapsize 370
+\i (27:53:55) zoom out 1 
+\i (27:53:55) setwindow pcb
+\i (27:53:55) zoom out 321.3435 261.3474
+\i (27:53:55) trapsize 740
+\i (27:53:56) zoom out 1 
+\i (27:53:56) setwindow pcb
+\i (27:53:56) zoom out 321.3434 261.3473
+\i (27:53:56) trapsize 1480
+\i (27:53:58) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (27:54:00) zoom out 1 
+\i (27:54:00) setwindow pcb
+\i (27:54:00) zoom out 334.9632 262.3244
+\i (27:54:00) trapsize 2961
+\i (27:54:02) zoom in 1 
+\i (27:54:02) setwindow pcb
+\i (27:54:02) zoom in 337.9833 256.5212
+\i (27:54:02) trapsize 1480
+\i (27:54:04) roam y -96 
+\i (27:54:04) roam y -96
+\i (27:54:04) roam y -96 
+\i (27:54:04) roam y -96
+\i (27:54:05) zoom in 1 
+\i (27:54:05) setwindow pcb
+\i (27:54:05) zoom in 330.1075 263.7511
+\i (27:54:05) trapsize 740
+\i (27:54:08) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (27:54:09) zoom out 1 
+\i (27:54:09) setwindow pcb
+\i (27:54:09) zoom out 333.9270 264.8911
+\i (27:54:09) trapsize 1480
+\i (27:54:13) rats all 
+\i (27:54:13) shapeedit 
+\i (27:54:15) zoom in 1 
+\i (27:54:15) setwindow pcb
+\i (27:54:15) zoom in 323.2680 258.6437
+\i (27:54:15) trapsize 740
+\i (27:54:17) roam y -96 
+\i (27:54:17) roam y -96
+\i (27:54:19) roam y 96 
+\i (27:54:19) roam y 96
+\i (27:54:20) roam y 96 
+\i (27:54:20) roam y 96
+\i (27:54:20) roam y 96 
+\i (27:54:20) roam y 96
+\i (27:54:33) add connect 
+\t (27:54:33) Pick first element.
+\i (27:54:34) pick grid 322.7499 258.7620
+\t (27:54:34) last pick:  323.0000 259.0000
+\t (27:54:34) last pick:  322.8000 258.8100
+\t (27:54:34) Target Horizontal Line Segment is defined on TOP.
+\t (27:54:34) last pick:  322.8000 258.8100
+\i (27:54:34) mouse_pos 322.7499 258.7620
+\i (27:54:35) pick grid dbl 322.7499 258.7620
+\t (27:54:35) last pick:  323.0000 259.0000
+\t (27:54:35) VIA used for drill.
+\t (27:54:35) No DRC errors detected.
+\t (27:54:35) Pick first element.
+\i (27:54:38) roam x 96 
+\i (27:54:38) roam x 96
+\i (27:54:38) roam x 96 
+\i (27:54:38) roam x 96
+\i (27:54:38) roam x 96 
+\i (27:54:38) roam x 96
+\i (27:54:40) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (27:54:43) pick grid 333.3159 256.4082
+\t (27:54:43) last pick:  333.0000 256.0000
+\t (27:54:43) Pick first element.
+\t (27:54:43) last pick:  333.3100 256.4200
+\t (27:54:43) Target Vertical Line Segment is defined on TOP.
+\t (27:54:43) last pick:  333.3100 256.4200
+\i (27:54:43) mouse_pos 333.3159 256.4082
+\i (27:54:43) pick grid dbl 333.3159 256.4082
+\t (27:54:43) last pick:  333.0000 256.0000
+\t (27:54:43) VIA used for drill.
+\t (27:54:43) No DRC errors detected.
+\t (27:54:43) Pick first element.
+\i (27:54:45) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (27:54:46) zoom in 1 
+\i (27:54:46) setwindow pcb
+\i (27:54:46) zoom in 334.0561 258.9249
+\i (27:54:46) trapsize 370
+\i (27:54:46) zoom in 1 
+\i (27:54:46) setwindow pcb
+\i (27:54:46) zoom in 334.0562 258.9249
+\i (27:54:46) trapsize 185
+\i (27:54:46) zoom in 1 
+\i (27:54:46) setwindow pcb
+\i (27:54:46) zoom in 334.0561 258.9249
+\i (27:54:46) trapsize 93
+\i (27:54:47) pick grid 333.3289 258.9046
+\t (27:54:47) last pick:  333.0000 259.0000
+\t (27:54:47) Pick first element.
+\t (27:54:47) last pick:  333.3100 258.9300
+\t (27:54:47) Target Horizontal Line Segment is defined on TOP.
+\t (27:54:47) last pick:  333.3100 258.9300
+\i (27:54:47) mouse_pos 333.3289 258.9046
+\i (27:54:47) pick grid dbl 333.3289 258.9046
+\t (27:54:47) last pick:  333.0000 259.0000
+\t (27:54:47) VIA used for drill.
+\t (27:54:47) No DRC errors detected.
+\t (27:54:47) Pick first element.
+\i (27:54:49) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (27:54:50) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (27:54:50) zoom out 1 
+\i (27:54:50) setwindow pcb
+\i (27:54:50) zoom out 333.0939 258.7936
+\i (27:54:50) trapsize 185
+\i (27:54:51) zoom out 1 
+\i (27:54:51) setwindow pcb
+\i (27:54:51) zoom out 333.0938 258.7936
+\i (27:54:51) trapsize 370
+\i (27:54:51) zoom out 1 
+\i (27:54:51) setwindow pcb
+\i (27:54:51) zoom out 333.0938 258.7935
+\i (27:54:51) trapsize 740
+\i (27:54:51) roam x -96 
+\i (27:54:51) roam x -96
+\i (27:54:52) roam x -96 
+\i (27:54:52) roam x -96
+\i (27:54:52) roam y 96 
+\i (27:54:52) roam y 96
+\i (27:54:52) roam y 96 
+\i (27:54:52) roam y 96
+\i (27:54:52) roam y 96 
+\i (27:54:52) roam y 96
+\i (27:54:53) roam x -96 
+\i (27:54:53) roam x -96
+\i (27:54:55) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (27:54:56) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (27:54:58) pick grid 326.8760 254.7057
+\t (27:54:58) last pick:  327.0000 255.0000
+\t (27:54:58) Pick first element.
+\t (27:54:58) last pick:  326.9500 254.6407
+\t (27:54:58) Target Vertical Line Segment is defined on TOP.
+\t (27:54:58) last pick:  326.9500 254.6407
+\i (27:54:58) mouse_pos 326.8760 254.7057
+\i (27:54:58) pick grid dbl 326.8760 254.7057
+\t (27:54:58) last pick:  327.0000 255.0000
+\t (27:54:58) VIA used for drill.
+\t (27:54:58) No DRC errors detected.
+\t (27:54:58) Pick first element.
+\i (27:54:59) roam y 96 
+\i (27:54:59) roam y 96
+\i (27:54:59) roam y 96 
+\i (27:54:59) roam y 96
+\i (27:54:59) roam y 96 
+\i (27:54:59) roam y 96
+\i (27:55:00) roam y 96 
+\i (27:55:00) roam y 96
+\i (27:55:00) roam y 96 
+\i (27:55:00) roam y 96
+\i (27:55:01) roam y 96 
+\i (27:55:01) roam y 96
+\i (27:55:02) pick grid 332.2943 243.5582
+\t (27:55:02) last pick:  332.0000 244.0000
+\t (27:55:02) Pick first element.
+\t (27:55:02) last pick:  332.2100 243.6200
+\t (27:55:02) Target Odd-angle Line Segment is defined on TOP.
+\t (27:55:02) last pick:  332.2100 243.6200
+\i (27:55:02) mouse_pos 332.2943 243.5582
+\i (27:55:02) pick grid dbl 332.2943 243.5582
+\t (27:55:02) last pick:  332.0000 244.0000
+\t (27:55:02) VIA used for drill.
+\t (27:55:02) No DRC errors detected.
+\t (27:55:02) Pick first element.
+\i (27:55:03) roam y 96 
+\i (27:55:03) roam y 96
+\i (27:55:03) roam y 96 
+\i (27:55:03) roam y 96
+\i (27:55:04) pick grid 331.2729 241.7817
+\t (27:55:04) last pick:  331.0000 242.0000
+\t (27:55:04) Pick first element.
+\t (27:55:04) last pick:  331.2200 241.7600
+\t (27:55:04) Target Horizontal Line Segment is defined on TOP.
+\t (27:55:04) last pick:  331.2200 241.7600
+\i (27:55:04) mouse_pos 331.2729 241.7817
+\i (27:55:04) pick grid dbl 331.2729 241.7817
+\t (27:55:04) last pick:  331.0000 242.0000
+\t (27:55:04) VIA used for drill.
+\t (27:55:04) No DRC errors detected.
+\t (27:55:04) Pick first element.
+\i (27:55:06) roam x -96 
+\i (27:55:06) roam x -96
+\i (27:55:07) roam x -96 
+\i (27:55:07) roam x -96
+\i (27:55:07) roam x -96 
+\i (27:55:07) roam x -96
+\i (27:55:09) roam x -96 
+\i (27:55:09) roam x -96
+\i (27:55:09) roam x -96 
+\i (27:55:09) roam x -96
+\i (27:55:10) zoom in 1 
+\i (27:55:10) setwindow pcb
+\i (27:55:10) zoom in 318.0823 243.9875
+\i (27:55:10) trapsize 370
+\i (27:55:11) pick grid 318.2674 244.2022
+\t (27:55:11) last pick:  318.0000 244.0000
+\t (27:55:11) Pick first element.
+\t (27:55:11) last pick:  318.3000 244.2100
+\t (27:55:11) Target Horizontal Line Segment is defined on TOP.
+\t (27:55:11) last pick:  318.3000 244.2100
+\i (27:55:11) mouse_pos 318.2674 244.2022
+\i (27:55:11) pick grid dbl 318.2674 244.2022
+\t (27:55:11) last pick:  318.0000 244.0000
+\t (27:55:11) VIA used for drill.
+\t (27:55:11) No DRC errors detected.
+\t (27:55:11) Pick first element.
+\i (27:55:12) roam y 96 
+\i (27:55:12) roam y 96
+\i (27:55:12) roam x -96 
+\i (27:55:12) roam x -96
+\i (27:55:13) roam y 96 
+\i (27:55:13) roam y 96
+\i (27:55:15) roam x 96 
+\i (27:55:15) roam x 96
+\i (27:55:15) roam y -96 
+\i (27:55:15) roam y -96
+\i (27:55:15) roam y -96 
+\i (27:55:15) roam y -96
+\i (27:55:16) roam y -96 
+\i (27:55:16) roam y -96
+\i (27:55:17) roam y 96 
+\i (27:55:17) roam y 96
+\i (27:55:17) roam y 96 
+\i (27:55:17) roam y 96
+\i (27:55:17) roam y 96 
+\i (27:55:17) roam y 96
+\i (27:55:17) roam y 96 
+\i (27:55:17) roam y 96
+\i (27:55:18) zoom out 1 
+\i (27:55:18) setwindow pcb
+\i (27:55:18) zoom out 321.6132 240.3013
+\i (27:55:18) trapsize 740
+\i (27:55:19) roam x 96 
+\i (27:55:19) roam x 96
+\i (27:55:19) roam x 96 
+\i (27:55:19) roam x 96
+\i (27:55:20) roam x 96 
+\i (27:55:20) roam x 96
+\i (27:55:20) roam x 96 
+\i (27:55:20) roam x 96
+\i (27:55:20) roam x 96 
+\i (27:55:20) roam x 96
+\i (27:55:20) roam x 96 
+\i (27:55:20) roam x 96
+\i (27:55:20) roam x 96 
+\i (27:55:20) roam x 96
+\i (27:55:20) roam y -96 
+\i (27:55:20) roam y -96
+\i (27:55:21) roam y -96 
+\i (27:55:21) roam y -96
+\i (27:55:21) roam y -96 
+\i (27:55:21) roam y -96
+\i (27:55:21) roam y -96 
+\i (27:55:21) roam y -96
+\i (27:55:21) roam y -96 
+\i (27:55:21) roam y -96
+\i (27:55:21) roam y -96 
+\i (27:55:21) roam y -96
+\i (27:55:22) roam y -96 
+\i (27:55:22) roam y -96
+\i (27:55:22) roam y -96 
+\i (27:55:22) roam y -96
+\i (27:55:22) roam y -96 
+\i (27:55:22) roam y -96
+\i (27:55:22) roam y -96 
+\i (27:55:22) roam y -96
+\i (27:55:23) roam y -96 
+\i (27:55:23) roam y -96
+\i (27:55:23) roam y -96 
+\i (27:55:23) roam y -96
+\i (27:55:23) roam y -96 
+\i (27:55:23) roam y -96
+\i (27:55:26) roam y -96 
+\i (27:55:26) roam y -96
+\i (27:55:26) roam y -96 
+\i (27:55:26) roam y -96
+\i (27:55:26) roam y -96 
+\i (27:55:26) roam y -96
+\i (27:55:26) roam y -96 
+\i (27:55:26) roam y -96
+\i (27:55:30) roam x -96 
+\i (27:55:30) roam x -96
+\i (27:55:31) roam x -96 
+\i (27:55:31) roam x -96
+\i (27:55:31) roam x -96 
+\i (27:55:31) roam x -96
+\i (27:55:31) roam y 96 
+\i (27:55:31) roam y 96
+\i (27:55:32) roam y 96 
+\i (27:55:32) roam y 96
+\i (27:55:32) roam y 96 
+\i (27:55:32) roam y 96
+\i (27:55:33) roam x -96 
+\i (27:55:33) roam x -96
+\i (27:55:34) roam y 96 
+\i (27:55:34) roam y 96
+\i (27:55:35) zoom in 1 
+\i (27:55:35) setwindow pcb
+\i (27:55:35) zoom in 321.0876 261.0419
+\i (27:55:35) trapsize 370
+\i (27:55:35) zoom in 1 
+\i (27:55:35) setwindow pcb
+\i (27:55:35) zoom in 321.0876 261.0419
+\i (27:55:35) trapsize 185
+\i (27:55:36) roam x -96 
+\i (27:55:36) roam x -96
+\i (27:55:37) zoom out 1 
+\i (27:55:37) setwindow pcb
+\i (27:55:37) zoom out 320.4441 260.9753
+\i (27:55:37) trapsize 370
+\i (27:55:39) zoom out 1 
+\i (27:55:39) setwindow pcb
+\i (27:55:39) zoom out 324.6705 261.2937
+\i (27:55:39) trapsize 740
+\i (27:55:39) zoom out 1 
+\i (27:55:39) setwindow pcb
+\i (27:55:39) zoom out 324.6706 261.2937
+\i (27:55:39) trapsize 1480
+\i (27:55:40) roam x 96 
+\i (27:55:40) roam x 96
+\i (27:55:40) roam x 96 
+\i (27:55:40) roam x 96
+\i (27:55:40) roam x 96 
+\i (27:55:40) roam x 96
+\i (27:55:40) zoom in 1 
+\i (27:55:40) setwindow pcb
+\i (27:55:40) zoom in 330.0145 263.3367
+\i (27:55:40) trapsize 740
+\i (27:55:41) zoom in 1 
+\i (27:55:41) setwindow pcb
+\i (27:55:41) zoom in 330.0145 263.3367
+\i (27:55:41) trapsize 370
+\i (27:55:42) roam y 96 
+\i (27:55:42) roam y 96
+\i (27:55:42) roam y 96 
+\i (27:55:42) roam y 96
+\i (27:55:42) roam y 96 
+\i (27:55:42) roam y 96
+\i (27:55:42) roam y 96 
+\i (27:55:42) roam y 96
+\i (27:55:43) roam y 96 
+\i (27:55:43) roam y 96
+\i (27:55:43) roam y 96 
+\i (27:55:43) roam y 96
+\i (27:55:43) roam x 96 
+\i (27:55:43) roam x 96
+\i (27:55:43) roam x 96 
+\i (27:55:43) roam x 96
+\i (27:55:44) roam x 96 
+\i (27:55:44) roam x 96
+\i (27:55:44) roam x 96 
+\i (27:55:44) roam x 96
+\i (27:55:45) roam y -96 
+\i (27:55:45) roam y -96
+\i (27:55:45) roam y -96 
+\i (27:55:45) roam y -96
+\i (27:55:45) roam y -96 
+\i (27:55:45) roam y -96
+\i (27:55:50) save 
+\i (27:55:51) fillin yes 
+\i (27:55:51) shapeedit 
+\i (27:55:51) roam y -96 
+\i (27:55:51) roam y -96
+\i (27:55:52) roam y -96 
+\i (27:55:52) roam y -96
+\i (27:55:52) roam y -96 
+\i (27:55:52) roam y -96
+\i (27:55:52) roam y -96 
+\i (27:55:52) roam y -96
+\i (27:55:52) roam y -96 
+\i (27:55:52) roam y -96
+\i (27:55:52) roam y -96 
+\i (27:55:52) roam y -96
+\i (27:55:52) roam y -96 
+\i (27:55:52) roam y -96
+\i (27:55:52) roam y -96 
+\i (27:55:52) roam y -96
+\i (27:55:53) roam y -96 
+\i (27:55:53) roam y -96
+\i (27:55:53) roam y -96 
+\i (27:55:53) roam y -96
+\i (27:55:53) roam y -96 
+\i (27:55:53) roam y -96
+\i (27:55:53) roam y -96 
+\i (27:55:53) roam y -96
+\i (27:55:55) roam y -96 
+\i (27:55:55) roam y -96
+\i (27:55:55) roam y -96 
+\i (27:55:55) roam y -96
+\i (27:55:56) roam y -96 
+\i (27:55:56) roam y -96
+\i (27:55:56) roam y -96 
+\i (27:55:56) roam y -96
+\i (27:55:56) roam y -96 
+\i (27:55:56) roam y -96
+\i (27:55:56) roam y -96 
+\i (27:55:56) roam y -96
+\i (27:55:56) zoom out 1 
+\i (27:55:57) setwindow pcb
+\i (27:55:57) zoom out 330.7696 272.4115
+\i (27:55:57) trapsize 740
+\i (27:56:00) roam x -96 
+\i (27:56:00) roam x -96
+\i (27:56:00) roam x -96 
+\i (27:56:00) roam x -96
+\i (27:56:00) roam x -96 
+\i (27:56:00) roam x -96
+\i (27:56:00) roam x -96 
+\i (27:56:00) roam x -96
+\i (27:56:01) roam x -96 
+\i (27:56:01) roam x -96
+\i (27:56:04) zoom in 1 
+\i (27:56:04) setwindow pcb
+\i (27:56:04) zoom in 323.6043 275.2835
+\i (27:56:04) trapsize 370
+\i (27:56:04) zoom in 1 
+\i (27:56:04) setwindow pcb
+\i (27:56:04) zoom in 323.6043 275.2835
+\i (27:56:04) trapsize 185
+\i (27:56:05) pick grid 324.0003 275.2465
+\t (27:56:05) last pick:  324.0000 275.0000
+\i (27:56:05) pick grid dbl 324.0003 275.2465
+\t (27:56:05) last pick:  324.0000 275.0000
+\i (27:56:07) zoom out 1 
+\i (27:56:07) setwindow pcb
+\i (27:56:07) zoom out 323.9781 275.1540
+\i (27:56:07) trapsize 370
+\i (27:56:08) zoom out 1 
+\i (27:56:08) setwindow pcb
+\i (27:56:08) zoom out 323.0751 275.1614
+\i (27:56:08) trapsize 740
+\i (27:56:08) zoom out 1 
+\i (27:56:08) setwindow pcb
+\i (27:56:08) zoom out 323.0750 275.1615
+\i (27:56:08) trapsize 1480
+\i (27:56:08) zoom out 1 
+\i (27:56:08) setwindow pcb
+\i (27:56:08) zoom out 323.0751 275.1614
+\i (27:56:08) trapsize 2961
+\i (27:56:08) pick grid 304.5994 274.5693
+\t (27:56:08) last pick:  305.0000 275.0000
+\i (27:56:11) add connect 
+\t (27:56:11) Pick first element.
+\i (27:56:12) zoom in 1 
+\i (27:56:12) setwindow pcb
+\i (27:56:12) zoom in 324.2594 275.8720
+\i (27:56:12) trapsize 1480
+\i (27:56:13) zoom in 1 
+\i (27:56:13) setwindow pcb
+\i (27:56:13) zoom in 324.2594 275.8720
+\i (27:56:13) trapsize 740
+\i (27:56:13) zoom in 1 
+\i (27:56:13) setwindow pcb
+\i (27:56:13) zoom in 324.2594 275.8720
+\i (27:56:13) trapsize 370
+\i (27:56:13) zoom in 1 
+\i (27:56:13) setwindow pcb
+\i (27:56:13) zoom in 324.2594 275.8721
+\i (27:56:13) trapsize 185
+\i (27:56:14) pick grid 324.0041 275.2059
+\t (27:56:14) last pick:  324.0000 275.0000
+\t (27:56:14) last pick:  323.9900 275.2300
+\t (27:56:14) Target Horizontal Line Segment is defined on TOP.
+\t (27:56:14) last pick:  323.9900 275.2300
+\i (27:56:14) mouse_pos 324.0041 275.2059
+\i (27:56:14) pick grid dbl 324.0041 275.2059
+\t (27:56:14) last pick:  324.0000 275.0000
+\t (27:56:14) VIA used for drill.
+\t (27:56:14) No DRC errors detected.
+\t (27:56:14) Pick first element.
+\i (27:56:15) zoom out 1 
+\i (27:56:15) setwindow pcb
+\i (27:56:15) zoom out 323.8745 275.5464
+\i (27:56:15) trapsize 370
+\i (27:56:15) zoom out 1 
+\i (27:56:15) setwindow pcb
+\i (27:56:15) zoom out 323.8745 275.5465
+\i (27:56:15) trapsize 740
+\i (27:56:15) zoom out 1 
+\i (27:56:15) setwindow pcb
+\i (27:56:15) zoom out 323.8745 275.5464
+\i (27:56:15) trapsize 1480
+\i (27:56:16) zoom in 1 
+\i (27:56:16) setwindow pcb
+\i (27:56:16) zoom in 324.1113 275.5465
+\i (27:56:16) trapsize 740
+\i (27:56:17) roam x -96 
+\i (27:56:17) roam x -96
+\i (27:56:18) zoom in 1 
+\i (27:56:18) setwindow pcb
+\i (27:56:18) zoom in 319.8293 276.5236
+\i (27:56:18) trapsize 370
+\i (27:56:18) zoom in 1 
+\i (27:56:18) setwindow pcb
+\i (27:56:18) zoom in 319.8293 276.5236
+\i (27:56:18) trapsize 185
+\i (27:56:18) roam x -96 
+\i (27:56:18) roam x -96
+\i (27:56:19) pick grid 319.8111 276.2645
+\t (27:56:19) last pick:  320.0000 276.0000
+\t (27:56:19) Pick first element.
+\t (27:56:19) last pick:  319.8300 276.2500
+\t (27:56:19) Target Horizontal Line Segment is defined on TOP.
+\t (27:56:19) last pick:  319.8300 276.2500
+\i (27:56:19) mouse_pos 319.8111 276.2645
+\i (27:56:19) pick grid dbl 319.8111 276.2645
+\t (27:56:19) last pick:  320.0000 276.0000
+\t (27:56:19) VIA used for drill.
+\t (27:56:19) No DRC errors detected.
+\t (27:56:19) Pick first element.
+\i (27:56:20) roam x -96 
+\i (27:56:20) roam x -96
+\i (27:56:20) roam x -96 
+\i (27:56:20) roam x -96
+\i (27:56:20) roam x -96 
+\i (27:56:20) roam x -96
+\i (27:56:20) roam x -96 
+\i (27:56:20) roam x -96
+\i (27:56:20) roam x -96 
+\i (27:56:20) roam x -96
+\i (27:56:21) pick grid 317.7682 276.2497
+\t (27:56:21) last pick:  318.0000 276.0000
+\t (27:56:21) Pick first element.
+\t (27:56:21) last pick:  317.7000 276.2497
+\t (27:56:21) Target Horizontal Line Segment is defined on TOP.
+\t (27:56:21) last pick:  317.7000 276.2497
+\i (27:56:21) mouse_pos 317.7682 276.2497
+\i (27:56:21) pick grid dbl 317.7682 276.2497
+\t (27:56:21) last pick:  318.0000 276.0000
+\t (27:56:21) VIA used for drill.
+\t (27:56:22) No DRC errors detected.
+\t (27:56:22) Pick first element.
+\i (27:56:22) zoom out 1 
+\i (27:56:22) setwindow pcb
+\i (27:56:22) zoom out 317.7682 276.2497
+\i (27:56:22) trapsize 370
+\i (27:56:22) zoom out 1 
+\i (27:56:22) setwindow pcb
+\i (27:56:22) zoom out 317.7680 276.2498
+\i (27:56:22) trapsize 740
+\i (27:56:24) roam y -96 
+\i (27:56:24) roam y -96
+\i (27:56:24) roam y -96 
+\i (27:56:24) roam y -96
+\i (27:56:24) roam y -96 
+\i (27:56:24) roam y -96
+\i (27:56:24) roam y -96 
+\i (27:56:24) roam y -96
+\i (27:56:25) roam y 96 
+\i (27:56:25) roam y 96
+\i (27:56:25) roam y 96 
+\i (27:56:25) roam y 96
+\i (27:56:25) roam y 96 
+\i (27:56:25) roam y 96
+\i (27:56:25) roam y 96 
+\i (27:56:25) roam y 96
+\i (27:56:25) roam y 96 
+\i (27:56:25) roam y 96
+\i (27:56:26) roam y 96 
+\i (27:56:26) roam y 96
+\i (27:56:27) roam y 96 
+\i (27:56:27) roam y 96
+\i (27:56:27) roam y 96 
+\i (27:56:27) roam y 96
+\i (27:56:27) roam y 96 
+\i (27:56:27) roam y 96
+\i (27:56:29) zoom in 1 
+\i (27:56:29) setwindow pcb
+\i (27:56:29) zoom in 317.2796 269.2730
+\i (27:56:29) trapsize 370
+\i (27:56:29) zoom in 1 
+\i (27:56:29) setwindow pcb
+\i (27:56:29) zoom in 317.2796 269.2731
+\i (27:56:29) trapsize 185
+\i (27:56:29) roam x -96 
+\i (27:56:29) roam x -96
+\i (27:56:30) pick grid 317.1871 269.5359
+\t (27:56:30) last pick:  317.0000 270.0000
+\t (27:56:31) Pick first element.
+\t (27:56:31) last pick:  317.2000 269.5400
+\t (27:56:31) Target Horizontal Line Segment is defined on TOP.
+\t (27:56:31) last pick:  317.2000 269.5400
+\i (27:56:31) mouse_pos 317.1871 269.5359
+\i (27:56:31) pick grid dbl 317.1871 269.5359
+\t (27:56:31) last pick:  317.0000 270.0000
+\t (27:56:31) VIA used for drill.
+\t (27:56:31) No DRC errors detected.
+\t (27:56:31) Pick first element.
+\i (27:56:32) pick grid 318.7970 269.5063
+\t (27:56:32) last pick:  319.0000 270.0000
+\t (27:56:32) Pick first element.
+\t (27:56:32) last pick:  318.7700 269.5400
+\t (27:56:32) Target Horizontal Line Segment is defined on TOP.
+\t (27:56:32) last pick:  318.7700 269.5400
+\i (27:56:32) mouse_pos 318.7970 269.5063
+\i (27:56:32) pick grid dbl 318.7970 269.5063
+\t (27:56:32) last pick:  319.0000 270.0000
+\t (27:56:32) VIA used for drill.
+\t (27:56:33) No DRC errors detected.
+\t (27:56:33) Pick first element.
+\i (27:56:34) roam x 96 
+\i (27:56:34) roam x 96
+\i (27:56:34) roam x 96 
+\i (27:56:34) roam x 96
+\i (27:56:34) roam x 96 
+\i (27:56:34) roam x 96
+\i (27:56:34) roam x 96 
+\i (27:56:34) roam x 96
+\i (27:56:35) roam x 96 
+\i (27:56:35) roam x 96
+\i (27:56:35) roam x 96 
+\i (27:56:35) roam x 96
+\i (27:56:35) roam x 96 
+\i (27:56:35) roam x 96
+\i (27:56:35) roam x 96 
+\i (27:56:35) roam x 96
+\i (27:56:35) roam x 96 
+\i (27:56:35) roam x 96
+\i (27:56:35) roam x 96 
+\i (27:56:35) roam x 96
+\i (27:56:36) roam x 96 
+\i (27:56:36) roam x 96
+\i (27:56:36) pick grid 323.1976 270.0207
+\t (27:56:36) last pick:  323.0000 270.0000
+\t (27:56:36) Pick first element.
+\t (27:56:36) last pick:  323.2000 269.9800
+\t (27:56:36) Target Horizontal Line Segment is defined on TOP.
+\t (27:56:36) last pick:  323.2000 269.9800
+\i (27:56:37) mouse_pos 323.1976 270.0207
+\i (27:56:37) pick grid dbl 323.1976 270.0207
+\t (27:56:37) last pick:  323.0000 270.0000
+\t (27:56:37) VIA used for drill.
+\t (27:56:37) No DRC errors detected.
+\t (27:56:37) Pick first element.
+\i (27:56:37) roam x 96 
+\i (27:56:37) roam x 96
+\i (27:56:37) roam x 96 
+\i (27:56:37) roam x 96
+\i (27:56:37) roam x 96 
+\i (27:56:37) roam x 96
+\i (27:56:37) roam x 96 
+\i (27:56:37) roam x 96
+\i (27:56:38) roam x 96 
+\i (27:56:38) roam x 96
+\i (27:56:38) roam x 96 
+\i (27:56:38) roam x 96
+\i (27:56:38) roam x 96 
+\i (27:56:38) roam x 96
+\i (27:56:38) roam y 96 
+\i (27:56:38) roam y 96
+\i (27:56:38) roam y 96 
+\i (27:56:38) roam y 96
+\i (27:56:39) roam y 96 
+\i (27:56:39) roam y 96
+\i (27:56:39) roam y 96 
+\i (27:56:39) roam y 96
+\i (27:56:39) roam y 96 
+\i (27:56:39) roam y 96
+\i (27:56:39) roam y 96 
+\i (27:56:39) roam y 96
+\i (27:56:39) roam x 96 
+\i (27:56:39) roam x 96
+\i (27:56:40) roam x 96 
+\i (27:56:40) roam x 96
+\i (27:56:40) roam x 96 
+\i (27:56:40) roam x 96
+\i (27:56:40) zoom out 1 
+\i (27:56:40) setwindow pcb
+\i (27:56:40) zoom out 326.2139 267.7676
+\i (27:56:40) trapsize 370
+\i (27:56:41) zoom out 1 
+\i (27:56:41) setwindow pcb
+\i (27:56:41) zoom out 326.2139 267.7676
+\i (27:56:41) trapsize 740
+\i (27:56:41) roam y -96 
+\i (27:56:41) roam y -96
+\i (27:56:41) roam y -96 
+\i (27:56:41) roam y -96
+\i (27:56:42) roam x 96 
+\i (27:56:42) roam x 96
+\i (27:56:42) roam x 96 
+\i (27:56:42) roam x 96
+\i (27:56:44) roam y 96 
+\i (27:56:44) roam y 96
+\i (27:56:44) roam y 96 
+\i (27:56:44) roam y 96
+\i (27:56:50) roam x -96 
+\i (27:56:50) roam x -96
+\i (27:56:50) roam x -96 
+\i (27:56:50) roam x -96
+\i (27:56:50) roam x -96 
+\i (27:56:50) roam x -96
+\i (27:56:50) roam x -96 
+\i (27:56:50) roam x -96
+\i (27:56:51) roam y 96 
+\i (27:56:51) roam y 96
+\i (27:56:51) roam y 96 
+\i (27:56:51) roam y 96
+\i (27:56:52) roam y 96 
+\i (27:56:52) roam y 96
+\i (27:56:54) roam y 96 
+\i (27:56:54) roam y 96
+\i (27:56:55) roam y 96 
+\i (27:56:55) roam y 96
+\i (27:56:55) roam y 96 
+\i (27:56:55) roam y 96
+\i (27:56:55) roam y 96 
+\i (27:56:55) roam y 96
+\i (27:56:55) roam y 96 
+\i (27:56:55) roam y 96
+\i (27:56:56) roam y 96 
+\i (27:56:56) roam y 96
+\i (27:56:56) roam y 96 
+\i (27:56:56) roam y 96
+\i (27:56:56) roam y 96 
+\i (27:56:56) roam y 96
+\i (27:56:56) roam y 96 
+\i (27:56:56) roam y 96
+\i (27:56:56) roam y 96 
+\i (27:56:56) roam y 96
+\i (27:56:57) roam y 96 
+\i (27:56:57) roam y 96
+\i (27:56:57) roam y 96 
+\i (27:56:57) roam y 96
+\i (27:56:58) save 
+\i (27:56:59) fillin yes 
+\i (27:56:59) shapeedit 
+\i (27:57:00) roam y 96 
+\i (27:57:00) roam y 96
+\i (27:57:01) roam y 96 
+\i (27:57:01) roam y 96
+\i (27:57:15) roam x 96 
+\i (27:57:15) roam x 96
+\i (27:57:15) roam x 96 
+\i (27:57:15) roam x 96
+\i (27:57:15) roam x 96 
+\i (27:57:15) roam x 96
+\i (27:57:15) roam x 96 
+\i (27:57:15) roam x 96
+\i (27:57:15) roam x 96 
+\i (27:57:15) roam x 96
+\i (27:57:16) roam x 96 
+\i (27:57:16) roam x 96
+\i (27:57:16) roam x 96 
+\i (27:57:16) roam x 96
+\i (27:57:16) roam y -96 
+\i (27:57:16) roam y -96
+\i (27:57:16) roam y -96 
+\i (27:57:16) roam y -96
+\i (27:57:17) roam y -96 
+\i (27:57:17) roam y -96
+\i (27:57:17) roam y -96 
+\i (27:57:17) roam y -96
+\i (27:57:18) roam x -96 
+\i (27:57:18) roam x -96
+\i (27:57:19) roam y -96 
+\i (27:57:19) roam y -96
+\i (27:57:19) roam y -96 
+\i (27:57:19) roam y -96
+\i (27:57:19) roam y -96 
+\i (27:57:19) roam y -96
+\i (27:57:19) roam y -96 
+\i (27:57:19) roam y -96
+\i (27:57:19) roam y -96 
+\i (27:57:19) roam y -96
+\i (27:57:20) roam y -96 
+\i (27:57:20) roam y -96
+\i (27:57:21) roam x -96 
+\i (27:57:21) roam x -96
+\i (27:57:22) roam x -96 
+\i (27:57:22) roam x -96
+\i (27:57:22) roam x -96 
+\i (27:57:22) roam x -96
+\i (27:57:22) roam x -96 
+\i (27:57:22) roam x -96
+\i (27:57:55) roam x 96 
+\i (27:57:55) roam x 96
+\i (27:57:55) roam x 96 
+\i (27:57:55) roam x 96
+\i (27:57:55) roam x 96 
+\i (27:57:55) roam x 96
+\i (27:57:55) roam x 96 
+\i (27:57:55) roam x 96
+\i (27:57:55) roam x 96 
+\i (27:57:55) roam x 96
+\i (27:57:56) zoom out 1 
+\i (27:57:56) setwindow pcb
+\i (27:57:56) zoom out 333.8785 258.5697
+\i (27:57:56) trapsize 1480
+\i (27:57:56) roam y -96 
+\i (27:57:56) roam y -96
+\i (27:57:56) roam y -96 
+\i (27:57:56) roam y -96
+\i (27:57:57) roam y -96 
+\i (27:57:57) roam y -96
+\i (27:57:57) roam y -96 
+\i (27:57:57) roam y -96
+\i (27:57:57) roam y -96 
+\i (27:57:57) roam y -96
+\i (27:57:57) roam y -96 
+\i (27:57:57) roam y -96
+\i (27:57:58) roam y -96 
+\i (27:57:58) roam y -96
+\i (27:57:58) roam y -96 
+\i (27:57:58) roam y -96
+\i (27:57:59) roam y -96 
+\i (27:57:59) roam y -96
+\i (27:57:59) roam y -96 
+\i (27:57:59) roam y -96
+\i (27:57:59) roam y -96 
+\i (27:57:59) roam y -96
+\i (27:58:00) roam y -96 
+\i (27:58:00) roam y -96
+\i (27:58:00) roam y -96 
+\i (27:58:00) roam y -96
+\i (27:58:01) roam x -96 
+\i (27:58:01) roam x -96
+\i (27:58:02) roam y 96 
+\i (27:58:02) roam y 96
+\i (27:58:03) roam y 96 
+\i (27:58:03) roam y 96
+\i (27:58:04) roam y 96 
+\i (27:58:04) roam y 96
+\i (27:58:05) roam y 96 
+\i (27:58:05) roam y 96
+\i (27:58:05) roam y 96 
+\i (27:58:05) roam y 96
+\i (27:58:06) roam y 96 
+\i (27:58:06) roam y 96
+\i (27:58:10) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (27:58:11) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (27:58:16) add connect 
+\t (27:58:16) Pick first element.
+\i (27:58:17) pick grid 330.9324 278.0519
+\t (27:58:17) last pick:  331.0000 278.0000
+\t (27:58:17) Target Horizontal Line Segment is defined on TOP.
+\t (27:58:17) last pick:  331.0000 278.0000
+\i (27:58:17) pick grid dbl 330.9324 278.0519
+\t (27:58:17) last pick:  331.0000 278.0000
+\t (27:58:17) VIA used for drill.
+\t (27:58:17) No DRC errors detected.
+\t (27:58:17) Pick first element.
+\i (27:58:19) roam y 96 
+\i (27:58:19) roam y 96
+\i (27:58:19) roam y 96 
+\i (27:58:19) roam y 96
+\i (27:58:19) roam y 96 
+\i (27:58:19) roam y 96
+\i (27:58:20) roam y 96 
+\i (27:58:20) roam y 96
+\i (27:58:20) save 
+\i (27:58:21) fillin yes 
+\i (27:58:21) shapeedit 
+\i (27:58:22) roam y 96 
+\i (27:58:22) roam y 96
+\i (27:58:22) roam y 96 
+\i (27:58:22) roam y 96
+\i (27:58:24) roam y 96 
+\i (27:58:24) roam y 96
+\i (27:58:24) roam y 96 
+\i (27:58:24) roam y 96
+\i (27:58:26) zoom in 1 
+\i (27:58:26) setwindow pcb
+\i (27:58:26) zoom in 323.6488 258.2143
+\i (27:58:26) trapsize 740
+\i (27:58:27) roam y -96 
+\i (27:58:27) roam y -96
+\i (27:58:27) roam y -96 
+\i (27:58:27) roam y -96
+\i (27:58:28) roam y 96 
+\i (27:58:28) roam y 96
+\i (27:58:28) roam y 96 
+\i (27:58:28) roam y 96
+\i (27:58:28) roam y 96 
+\i (27:58:28) roam y 96
+\i (27:58:29) roam y 96 
+\i (27:58:29) roam y 96
+\i (27:58:29) roam y 96 
+\i (27:58:29) roam y 96
+\i (27:58:29) roam y 96 
+\i (27:58:29) roam y 96
+\i (27:58:29) roam y 96 
+\i (27:58:29) roam y 96
+\i (27:58:30) roam y 96 
+\i (27:58:30) roam y 96
+\i (27:58:30) roam y 96 
+\i (27:58:30) roam y 96
+\i (27:58:30) roam y 96 
+\i (27:58:30) roam y 96
+\i (27:58:35) roam x -96 
+\i (27:58:35) roam x -96
+\i (27:58:36) roam x -96 
+\i (27:58:36) roam x -96
+\i (27:58:36) roam x -96 
+\i (27:58:36) roam x -96
+\i (27:58:36) roam x -96 
+\i (27:58:36) roam x -96
+\i (27:58:37) roam y -96 
+\i (27:58:37) roam y -96
+\i (27:58:37) roam y -96 
+\i (27:58:37) roam y -96
+\i (27:58:38) roam y -96 
+\i (27:58:38) roam y -96
+\i (27:58:39) roam y -96 
+\i (27:58:39) roam y -96
+\i (27:58:39) roam y -96 
+\i (27:58:39) roam y -96
+\i (27:58:39) roam y -96 
+\i (27:58:39) roam y -96
+\i (27:58:39) roam y -96 
+\i (27:58:39) roam y -96
+\i (27:58:39) roam y -96 
+\i (27:58:39) roam y -96
+\i (27:58:40) roam y -96 
+\i (27:58:40) roam y -96
+\i (27:58:40) roam y -96 
+\i (27:58:40) roam y -96
+\i (27:58:40) roam y -96 
+\i (27:58:40) roam y -96
+\i (27:58:40) roam y -96 
+\i (27:58:40) roam y -96
+\i (27:58:40) roam y -96 
+\i (27:58:40) roam y -96
+\i (27:58:40) roam y -96 
+\i (27:58:40) roam y -96
+\i (27:58:41) roam y -96 
+\i (27:58:41) roam y -96
+\i (27:58:42) roam x 96 
+\i (27:58:42) roam x 96
+\i (27:58:42) roam x 96 
+\i (27:58:42) roam x 96
+\i (27:58:42) roam y -96 
+\i (27:58:42) roam y -96
+\i (27:58:42) roam y -96 
+\i (27:58:42) roam y -96
+\i (27:58:42) roam y -96 
+\i (27:58:42) roam y -96
+\i (27:58:43) roam y -96 
+\i (27:58:43) roam y -96
+\i (27:58:43) roam y -96 
+\i (27:58:43) roam y -96
+\i (27:58:43) roam y -96 
+\i (27:58:43) roam y -96
+\i (27:58:43) roam y -96 
+\i (27:58:43) roam y -96
+\i (27:58:43) roam y -96 
+\i (27:58:43) roam y -96
+\i (27:58:44) roam y -96 
+\i (27:58:44) roam y -96
+\i (27:59:15) roam x 96 
+\i (27:59:15) roam x 96
+\i (27:59:15) roam x 96 
+\i (27:59:15) roam x 96
+\i (27:59:16) roam x 96 
+\i (27:59:16) roam x 96
+\i (27:59:16) roam x 96 
+\i (27:59:16) roam x 96
+\i (27:59:16) roam x 96 
+\i (27:59:16) roam x 96
+\i (27:59:16) roam x 96 
+\i (27:59:16) roam x 96
+\i (27:59:16) roam x 96 
+\i (27:59:16) roam x 96
+\i (27:59:18) roam y 96 
+\i (27:59:18) roam y 96
+\i (27:59:18) roam y 96 
+\i (27:59:18) roam y 96
+\i (27:59:18) roam y 96 
+\i (27:59:19) roam y 96
+\i (27:59:19) roam y 96 
+\i (27:59:19) roam y 96
+\i (27:59:20) roam y 96 
+\i (27:59:20) roam y 96
+\i (27:59:20) roam y 96 
+\i (27:59:20) roam y 96
+\i (27:59:20) roam y 96 
+\i (27:59:20) roam y 96
+\i (27:59:20) roam y 96 
+\i (27:59:20) roam y 96
+\i (27:59:20) roam y 96 
+\i (27:59:20) roam y 96
+\i (27:59:21) roam y 96 
+\i (27:59:21) roam y 96
+\i (27:59:22) roam y 96 
+\i (27:59:22) roam y 96
+\i (27:59:22) roam y 96 
+\i (27:59:22) roam y 96
+\i (27:59:22) roam y 96 
+\i (27:59:22) roam y 96
+\i (27:59:22) roam y 96 
+\i (27:59:22) roam y 96
+\i (27:59:22) roam y 96 
+\i (27:59:22) roam y 96
+\i (27:59:22) roam y 96 
+\i (27:59:22) roam y 96
+\i (27:59:23) roam y 96 
+\i (27:59:23) roam y 96
+\i (27:59:23) roam x -96 
+\i (27:59:23) roam x -96
+\i (27:59:23) roam x -96 
+\i (27:59:23) roam x -96
+\i (27:59:24) roam y 96 
+\i (27:59:24) roam y 96
+\i (27:59:24) roam y 96 
+\i (27:59:24) roam y 96
+\i (27:59:24) roam y 96 
+\i (27:59:24) roam y 96
+\i (27:59:24) roam y 96 
+\i (27:59:24) roam y 96
+\i (27:59:24) roam y 96 
+\i (27:59:24) roam y 96
+\i (27:59:24) roam y 96 
+\i (27:59:24) roam y 96
+\i (27:59:25) roam y 96 
+\i (27:59:25) roam y 96
+\i (27:59:25) roam y 96 
+\i (27:59:25) roam y 96
+\i (27:59:28) roam y 96 
+\i (27:59:28) roam y 96
+\i (27:59:29) roam x -96 
+\i (27:59:29) roam x -96
+\i (27:59:29) roam x -96 
+\i (27:59:29) roam x -96
+\i (27:59:29) roam x -96 
+\i (27:59:29) roam x -96
+\i (27:59:29) roam x -96 
+\i (27:59:29) roam x -96
+\i (27:59:29) roam x -96 
+\i (27:59:29) roam x -96
+\i (27:59:30) roam x -96 
+\i (27:59:30) roam x -96
+\i (27:59:30) roam x -96 
+\i (27:59:30) roam x -96
+\i (27:59:30) roam y -96 
+\i (27:59:30) roam y -96
+\i (27:59:30) roam y -96 
+\i (27:59:30) roam y -96
+\i (27:59:31) roam y -96 
+\i (27:59:31) roam y -96
+\i (27:59:31) roam y -96 
+\i (27:59:31) roam y -96
+\i (27:59:31) roam x 96 
+\i (27:59:31) roam x 96
+\i (27:59:32) roam x 96 
+\i (27:59:32) roam x 96
+\i (27:59:32) roam x 96 
+\i (27:59:32) roam x 96
+\i (27:59:32) roam y 96 
+\i (27:59:32) roam y 96
+\i (27:59:33) roam y 96 
+\i (27:59:33) roam y 96
+\i (27:59:36) roam x 96 
+\i (27:59:36) roam x 96
+\i (27:59:37) roam x 96 
+\i (27:59:37) roam x 96
+\i (27:59:37) roam x 96 
+\i (27:59:37) roam x 96
+\i (27:59:37) roam x 96 
+\i (27:59:37) roam x 96
+\i (27:59:37) roam x 96 
+\i (27:59:37) roam x 96
+\i (27:59:37) roam x 96 
+\i (27:59:37) roam x 96
+\i (27:59:37) roam x 96 
+\i (27:59:37) roam x 96
+\i (27:59:38) roam y -96 
+\i (27:59:38) roam y -96
+\i (27:59:38) roam y -96 
+\i (27:59:38) roam y -96
+\i (27:59:38) roam y -96 
+\i (27:59:38) roam y -96
+\i (27:59:38) roam y -96 
+\i (27:59:38) roam y -96
+\i (27:59:39) roam x 96 
+\i (27:59:39) roam x 96
+\i (27:59:39) roam y -96 
+\i (27:59:39) roam y -96
+\i (27:59:39) roam y -96 
+\i (27:59:39) roam y -96
+\i (27:59:39) roam y -96 
+\i (27:59:39) roam y -96
+\i (27:59:39) roam y -96 
+\i (27:59:39) roam y -96
+\i (27:59:40) roam y -96 
+\i (27:59:40) roam y -96
+\i (27:59:40) roam y -96 
+\i (27:59:40) roam y -96
+\i (27:59:40) roam y -96 
+\i (27:59:40) roam y -96
+\i (27:59:40) roam y -96 
+\i (27:59:40) roam y -96
+\i (27:59:41) roam x -96 
+\i (27:59:41) roam x -96
+\i (27:59:41) roam x -96 
+\i (27:59:41) roam x -96
+\i (27:59:41) roam y -96 
+\i (27:59:41) roam y -96
+\i (27:59:41) roam y -96 
+\i (27:59:41) roam y -96
+\i (27:59:42) roam y -96 
+\i (27:59:42) roam y -96
+\i (27:59:42) roam y -96 
+\i (27:59:42) roam y -96
+\i (27:59:42) roam y -96 
+\i (27:59:42) roam y -96
+\i (27:59:42) roam y -96 
+\i (27:59:42) roam y -96
+\i (27:59:43) roam y -96 
+\i (27:59:43) roam y -96
+\i (27:59:43) roam y -96 
+\i (27:59:43) roam y -96
+\i (27:59:45) roam y -96 
+\i (27:59:45) roam y -96
+\i (27:59:45) roam y -96 
+\i (27:59:45) roam y -96
+\i (27:59:46) roam y -96 
+\i (27:59:46) roam y -96
+\i (27:59:46) roam y -96 
+\i (27:59:46) roam y -96
+\i (27:59:46) roam y -96 
+\i (27:59:46) roam y -96
+\i (27:59:46) roam y -96 
+\i (27:59:46) roam y -96
+\i (27:59:47) roam y -96 
+\i (27:59:47) roam y -96
+\i (27:59:47) roam y -96 
+\i (27:59:47) roam y -96
+\i (27:59:47) roam y -96 
+\i (27:59:47) roam y -96
+\i (27:59:47) roam x -96 
+\i (27:59:47) roam x -96
+\i (27:59:48) roam x -96 
+\i (27:59:48) roam x -96
+\i (27:59:48) roam x -96 
+\i (27:59:48) roam x -96
+\i (27:59:48) roam x -96 
+\i (27:59:48) roam x -96
+\i (27:59:48) roam x -96 
+\i (27:59:48) roam x -96
+\i (27:59:49) roam x -96 
+\i (27:59:49) roam x -96
+\i (27:59:50) roam y 96 
+\i (27:59:50) roam y 96
+\i (27:59:51) roam y 96 
+\i (27:59:51) roam y 96
+\i (27:59:52) roam y 96 
+\i (27:59:52) roam y 96
+\i (27:59:53) roam y 96 
+\i (27:59:53) roam y 96
+\i (27:59:54) roam y 96 
+\i (27:59:54) roam y 96
+\i (27:59:58) roam y 96 
+\i (27:59:58) roam y 96
+\i (27:59:59) roam y 96 
+\i (27:59:59) roam y 96
+\i (27:59:59) roam y 96 
+\i (27:59:59) roam y 96
+\i (28:00:00) roam x 96 
+\i (28:00:00) roam x 96
+\i (28:00:00) roam x 96 
+\i (28:00:00) roam x 96
+\i (28:00:00) roam x 96 
+\i (28:00:00) roam x 96
+\i (28:00:02) roam x 96 
+\i (28:00:02) roam x 96
+\i (28:00:03) roam y -96 
+\i (28:00:03) roam y -96
+\i (28:00:03) roam y -96 
+\i (28:00:03) roam y -96
+\i (28:00:03) roam y -96 
+\i (28:00:03) roam y -96
+\i (28:00:03) roam y -96 
+\i (28:00:03) roam y -96
+\i (28:00:03) roam y -96 
+\i (28:00:03) roam y -96
+\i (28:00:04) roam y 96 
+\i (28:00:04) roam y 96
+\i (28:00:04) roam y 96 
+\i (28:00:04) roam y 96
+\i (28:00:04) roam y 96 
+\i (28:00:04) roam y 96
+\i (28:00:05) roam x -96 
+\i (28:00:05) roam x -96
+\i (28:00:05) roam x -96 
+\i (28:00:05) roam x -96
+\i (28:00:06) roam y 96 
+\i (28:00:06) roam y 96
+\i (28:00:07) roam y 96 
+\i (28:00:07) roam y 96
+\i (28:00:08) roam y 96 
+\i (28:00:08) roam y 96
+\i (28:00:08) roam y 96 
+\i (28:00:08) roam y 96
+\i (28:00:08) roam y 96 
+\i (28:00:08) roam y 96
+\i (28:00:08) roam y 96 
+\i (28:00:08) roam y 96
+\i (28:00:09) roam y 96 
+\i (28:00:09) roam y 96
+\i (28:00:09) roam y -96 
+\i (28:00:09) roam y -96
+\i (28:00:10) roam y -96 
+\i (28:00:10) roam y -96
+\i (28:00:10) roam y -96 
+\i (28:00:10) roam y -96
+\i (28:00:10) roam y -96 
+\i (28:00:10) roam y -96
+\i (28:00:10) roam y -96 
+\i (28:00:10) roam y -96
+\i (28:00:10) roam y -96 
+\i (28:00:10) roam y -96
+\i (28:00:10) roam y -96 
+\i (28:00:10) roam y -96
+\i (28:00:17) roam y 96 
+\i (28:00:17) roam y 96
+\i (28:00:19) roam y 96 
+\i (28:00:19) roam y 96
+\i (28:00:27) slide 
+\t (28:00:27) Pick element to slide.
+\i (28:00:27) pick grid 321.5762 276.2310
+\t (28:00:27) last pick:  322.0000 276.0000
+\t (28:00:27) last pick:  321.5762 276.2500
+\t (28:00:27) Waiting for the destination pick.
+\i (28:00:33) delete 
+\i (28:00:34) roam y 96 
+\i (28:00:34) roam y 96
+\i (28:00:34) roam y 96 
+\i (28:00:34) roam y 96
+\i (28:00:34) roam y 96 
+\i (28:00:34) roam y 96
+\i (28:00:36) roam y 96 
+\i (28:00:36) roam y 96
+\i (28:00:38) zoom in 1 
+\i (28:00:38) setwindow pcb
+\i (28:00:38) zoom in 323.6487 265.8385
+\i (28:00:38) trapsize 370
+\i (28:00:38) zoom in 1 
+\i (28:00:38) setwindow pcb
+\i (28:00:38) zoom in 323.6488 265.8385
+\i (28:00:38) trapsize 185
+\i (28:00:43) add connect 
+\t (28:00:43) Pick first element.
+\i (28:00:44) pick grid 324.0485 265.6941
+\t (28:00:44) last pick:  324.0000 266.0000
+\t (28:00:44) last pick:  324.0800 265.7000
+\t (28:00:44) Target Horizontal Line Segment is defined on TOP.
+\t (28:00:44) last pick:  324.0800 265.7000
+\i (28:00:44) mouse_pos 324.0485 265.6941
+\i (28:00:44) pick grid dbl 324.0485 265.6941
+\t (28:00:44) last pick:  324.0000 266.0000
+\t (28:00:44) VIA used for drill.
+\t (28:00:44) No DRC errors detected.
+\t (28:00:44) Pick first element.
+\i (28:00:46) zoom out 1 
+\i (28:00:46) setwindow pcb
+\i (28:00:46) zoom out 324.0004 265.3722
+\i (28:00:46) trapsize 370
+\i (28:00:48) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (28:00:49) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (28:00:50) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (28:00:51) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (28:00:52) zoom out 1 
+\i (28:00:52) setwindow pcb
+\i (28:00:52) zoom out 326.3024 267.8814
+\i (28:00:52) trapsize 740
+\i (28:00:55) save 
+\i (28:00:56) fillin yes 
+\i (28:00:56) shapeedit 
+\i (28:00:57) roam y 96 
+\i (28:00:57) roam y 96
+\i (28:00:57) roam y 96 
+\i (28:00:57) roam y 96
+\i (28:00:57) roam y 96 
+\i (28:00:57) roam y 96
+\i (28:00:57) zoom in 1 
+\i (28:00:57) setwindow pcb
+\i (28:00:57) zoom in 320.1439 261.3232
+\i (28:00:57) trapsize 370
+\i (28:01:00) roam y -96 
+\i (28:01:00) roam y -96
+\i (28:01:00) roam y -96 
+\i (28:01:00) roam y -96
+\i (28:01:00) roam y -96 
+\i (28:01:00) roam y -96
+\i (28:01:00) roam y -96 
+\i (28:01:00) roam y -96
+\i (28:01:00) roam y -96 
+\i (28:01:00) roam y -96
+\i (28:01:00) roam y -96 
+\i (28:01:00) roam y -96
+\i (28:01:01) roam y -96 
+\i (28:01:01) roam y -96
+\i (28:01:01) roam y -96 
+\i (28:01:01) roam y -96
+\i (28:01:03) zoom out 1 
+\i (28:01:03) setwindow pcb
+\i (28:01:03) zoom out 320.1439 267.0006
+\i (28:01:03) trapsize 740
+\i (28:01:04) zoom out 1 
+\i (28:01:04) setwindow pcb
+\i (28:01:04) zoom out 320.1440 267.0006
+\i (28:01:04) trapsize 1480
+\i (28:01:04) zoom out 1 
+\i (28:01:04) setwindow pcb
+\i (28:01:04) zoom out 320.1440 267.0006
+\i (28:01:04) trapsize 2961
+\i (28:01:05) zoom in 1 
+\i (28:01:05) setwindow pcb
+\i (28:01:05) zoom in 329.6779 263.7437
+\i (28:01:05) trapsize 1480
+\i (28:01:06) zoom in 1 
+\i (28:01:06) setwindow pcb
+\i (28:01:06) zoom in 329.7075 263.7438
+\i (28:01:06) trapsize 740
+\i (28:01:08) roam x -96 
+\i (28:01:08) roam x -96
+\i (28:01:08) roam x -96 
+\i (28:01:08) roam x -96
+\i (28:01:09) roam x -96 
+\i (28:01:09) roam x -96
+\i (28:01:09) roam x -96 
+\i (28:01:09) roam x -96
+\i (28:01:09) roam x -96 
+\i (28:01:09) roam x -96
+\i (28:01:10) roam x 96 
+\i (28:01:10) roam x 96
+\i (28:01:10) roam x 96 
+\i (28:01:10) roam x 96
+\i (28:01:10) roam x 96 
+\i (28:01:10) roam x 96
+\i (28:01:16) zoom in 1 
+\i (28:01:16) setwindow pcb
+\i (28:01:16) zoom in 325.1588 265.5943
+\i (28:01:16) trapsize 370
+\i (28:01:26) zoom out 1 
+\i (28:01:26) setwindow pcb
+\i (28:01:26) zoom out 324.2262 264.6987
+\i (28:01:26) trapsize 740
+\i (28:01:31) roam x -96 
+\i (28:01:31) roam x -96
+\i (28:01:32) roam x -96 
+\i (28:01:32) roam x -96
+\i (28:01:33) zoom in 1 
+\i (28:01:33) setwindow pcb
+\i (28:01:33) zoom in 324.1077 265.5129
+\i (28:01:33) trapsize 370
+\i (28:01:33) zoom in 1 
+\i (28:01:33) setwindow pcb
+\i (28:01:33) zoom in 324.1078 265.5129
+\i (28:01:33) trapsize 185
+\i (28:01:33) zoom in 1 
+\i (28:01:33) setwindow pcb
+\i (28:01:33) zoom in 324.1078 265.5129
+\i (28:01:33) trapsize 93
+\i (28:01:36) zoom out 1 
+\i (28:01:36) setwindow pcb
+\i (28:01:36) zoom out 324.1079 265.5130
+\i (28:01:36) trapsize 185
+\i (28:01:36) zoom out 1 
+\i (28:01:36) setwindow pcb
+\i (28:01:36) zoom out 324.1078 265.5129
+\i (28:01:36) trapsize 370
+\i (28:01:36) zoom out 1 
+\i (28:01:36) setwindow pcb
+\i (28:01:36) zoom out 324.1078 265.5130
+\i (28:01:36) trapsize 740
+\i (28:01:41) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (28:01:42) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (28:01:44) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (28:01:52) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (28:01:58) zoom in 1 
+\i (28:01:58) setwindow pcb
+\i (28:01:58) zoom in 324.4186 265.0985
+\i (28:01:58) trapsize 370
+\i (28:01:58) zoom in 1 
+\i (28:01:58) setwindow pcb
+\i (28:01:58) zoom in 324.4186 265.0986
+\i (28:01:58) trapsize 185
+\i (28:02:01) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (28:02:02) zoom out 1 
+\i (28:02:02) setwindow pcb
+\i (28:02:02) zoom out 326.0915 264.7248
+\i (28:02:02) trapsize 370
+\i (28:02:03) roam y -96 
+\i (28:02:03) roam y -96
+\i (28:02:03) roam y -96 
+\i (28:02:03) roam y -96
+\i (28:02:03) roam y -96 
+\i (28:02:03) roam y -96
+\i (28:02:04) roam y 96 
+\i (28:02:04) roam y 96
+\i (28:02:04) roam y 96 
+\i (28:02:04) roam y 96
+\i (28:02:04) roam y 96 
+\i (28:02:04) roam y 96
+\i (28:02:08) roam y 96 
+\i (28:02:08) roam y 96
+\i (28:02:08) zoom out 1 
+\i (28:02:08) setwindow pcb
+\i (28:02:08) zoom out 325.5511 263.9953
+\i (28:02:08) trapsize 740
+\i (28:02:09) zoom out 1 
+\i (28:02:09) setwindow pcb
+\i (28:02:09) zoom out 325.5511 263.9954
+\i (28:02:09) trapsize 1480
+\i (28:02:10) island_delete 
+\t (28:02:10) To delete, pick highlighted islands(s) or navigate using Options panel.
+\i (28:02:11) roam x 96 
+\i (28:02:11) roam x 96
+\i (28:02:11) roam x 96 
+\i (28:02:11) roam x 96
+\i (28:02:12) roam x 96 
+\i (28:02:12) roam x 96
+\i (28:02:12) zoom in 1 
+\i (28:02:12) setwindow pcb
+\i (28:02:12) zoom in 334.0709 267.1042
+\i (28:02:12) trapsize 740
+\i (28:02:12) zoom in 1 
+\i (28:02:12) setwindow pcb
+\i (28:02:12) zoom in 334.0709 267.1042
+\i (28:02:12) trapsize 370
+\i (28:02:14) pick grid 334.4262 267.6224
+\t (28:02:14) last pick:  334.0000 268.0000
+\i (28:02:15) roam y 96 
+\i (28:02:15) roam y 96
+\i (28:02:15) roam y 96 
+\i (28:02:15) roam y 96
+\i (28:02:16) pick grid 334.7445 264.9873
+\t (28:02:16) last pick:  335.0000 265.0000
+\i (28:02:17) zoom out 1 
+\i (28:02:17) setwindow pcb
+\i (28:02:17) zoom out 334.4040 265.3500
+\i (28:02:17) trapsize 740
+\i (28:02:17) zoom out 1 
+\i (28:02:17) setwindow pcb
+\i (28:02:17) zoom out 334.4040 265.3499
+\i (28:02:17) trapsize 1480
+\i (28:02:20) save 
+\i (28:02:21) fillin yes 
+\i (28:02:21) shapeedit 
+\i (28:02:22) roam y 96 
+\i (28:02:22) roam y 96
+\i (28:02:22) roam y 96 
+\i (28:02:22) roam y 96
+\i (28:02:22) roam y 96 
+\i (28:02:22) roam y 96
+\i (28:02:22) roam y 96 
+\i (28:02:22) roam y 96
+\i (28:02:23) roam y 96 
+\i (28:02:23) roam y 96
+\i (28:02:23) roam y 96 
+\i (28:02:23) roam y 96
+\i (28:02:23) roam y 96 
+\i (28:02:23) roam y 96
+\i (28:02:23) roam y 96 
+\i (28:02:23) roam y 96
+\i (28:02:23) roam y 96 
+\i (28:02:23) roam y 96
+\i (28:02:24) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (28:02:25) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (28:02:25) roam y -96 
+\i (28:02:25) roam y -96
+\i (28:02:26) roam y -96 
+\i (28:02:26) roam y -96
+\i (28:02:26) roam y -96 
+\i (28:02:26) roam y -96
+\i (28:02:26) roam y -96 
+\i (28:02:26) roam y -96
+\i (28:02:26) roam y -96 
+\i (28:02:26) roam y -96
+\i (28:02:26) roam y -96 
+\i (28:02:26) roam y -96
+\i (28:02:27) island_delete 
+\i (28:02:32) fillin yes 
+\t (28:02:32) Updating dynamic shape (1 of 1) Gnd, Boundary/Top @ (338.0800 238.7300) ...
+\t (28:02:32) No shape islands present on design!
+\i (28:02:32) shapeedit 
+\i (28:02:33) roam y -96 
+\i (28:02:33) roam y -96
+\i (28:02:33) roam y -96 
+\i (28:02:33) roam y -96
+\i (28:02:33) roam y -96 
+\i (28:02:33) roam y -96
+\i (28:02:34) roam y -96 
+\i (28:02:34) roam y -96
+\i (28:02:34) roam y -96 
+\i (28:02:34) roam y -96
+\i (28:02:34) roam y -96 
+\i (28:02:34) roam y -96
+\i (28:02:34) roam y -96 
+\i (28:02:34) roam y -96
+\i (28:02:34) roam y -96 
+\i (28:02:34) roam y -96
+\i (28:02:34) roam y -96 
+\i (28:02:34) roam y -96
+\i (28:02:34) roam y -96 
+\i (28:02:34) roam y -96
+\i (28:02:35) roam y -96 
+\i (28:02:35) roam y -96
+\i (28:02:35) roam y -96 
+\i (28:02:35) roam y -96
+\i (28:02:35) roam y 96 
+\i (28:02:35) roam y 96
+\i (28:02:36) roam y 96 
+\i (28:02:36) roam y 96
+\i (28:02:36) roam y 96 
+\i (28:02:36) roam y 96
+\i (28:02:36) roam y 96 
+\i (28:02:36) roam y 96
+\i (28:02:36) roam y 96 
+\i (28:02:36) roam y 96
+\i (28:02:36) roam y 96 
+\i (28:02:36) roam y 96
+\i (28:02:36) roam y 96 
+\i (28:02:36) roam y 96
+\i (28:02:36) roam y 96 
+\i (28:02:36) roam y 96
+\i (28:02:36) roam y 96 
+\i (28:02:36) roam y 96
+\i (28:02:37) roam y 96 
+\i (28:02:37) roam y 96
+\i (28:02:37) roam y 96 
+\i (28:02:37) roam y 96
+\i (28:02:37) roam y 96 
+\i (28:02:37) roam y 96
+\i (28:02:37) roam y 96 
+\i (28:02:37) roam y 96
+\i (28:02:37) roam y 96 
+\i (28:02:37) roam y 96
+\i (28:02:37) roam y 96 
+\i (28:02:37) roam y 96
+\i (28:02:37) roam y 96 
+\i (28:02:37) roam y 96
+\i (28:02:38) roam y 96 
+\i (28:02:38) roam y 96
+\i (28:02:38) roam y 96 
+\i (28:02:38) roam y 96
+\i (28:02:39) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (28:02:40) roam y -96 
+\i (28:02:40) roam y -96
+\i (28:02:40) roam y -96 
+\i (28:02:40) roam y -96
+\i (28:02:40) roam y -96 
+\i (28:02:40) roam y -96
+\i (28:02:40) roam y -96 
+\i (28:02:40) roam y -96
+\i (28:02:40) roam y -96 
+\i (28:02:40) roam y -96
+\i (28:02:41) roam y -96 
+\i (28:02:41) roam y -96
+\i (28:02:41) roam y -96 
+\i (28:02:41) roam y -96
+\i (28:02:41) roam y -96 
+\i (28:02:41) roam y -96
+\i (28:02:42) roam y -96 
+\i (28:02:42) roam y -96
+\i (28:02:42) roam y -96 
+\i (28:02:42) roam y -96
+\i (28:02:42) roam y -96 
+\i (28:02:42) roam y -96
+\i (28:02:43) roam y 96 
+\i (28:02:43) roam y 96
+\i (28:02:43) roam y 96 
+\i (28:02:43) roam y 96
+\i (28:02:43) roam y 96 
+\i (28:02:43) roam y 96
+\i (28:02:44) zoom in 1 
+\i (28:02:44) setwindow pcb
+\i (28:02:44) zoom in 324.1891 265.4684
+\i (28:02:44) trapsize 740
+\i (28:02:44) zoom in 1 
+\i (28:02:44) setwindow pcb
+\i (28:02:44) zoom in 324.1892 265.4684
+\i (28:02:44) trapsize 370
+\i (28:03:07) zoom out 1 
+\i (28:03:07) setwindow pcb
+\i (28:03:07) zoom out 323.9301 266.6676
+\i (28:03:07) trapsize 740
+\i (28:03:07) zoom out 1 
+\i (28:03:07) setwindow pcb
+\i (28:03:07) zoom out 323.7525 266.7713
+\i (28:03:07) trapsize 1480
+\i (28:03:13) move 
+\t (28:03:13) Select element(s) to move.
+\i (28:03:14) pick grid 323.9893 265.7941
+\t (28:03:14) last pick:  324.0000 266.0000
+\t (28:03:14) last pick:  324.0800 265.7000
+\t (28:03:14) Pick new location for the element(s).
+\i (28:03:15) pick grid 310.3991 263.8992
+\t (28:03:15) last pick:  310.0000 264.0000
+\i (28:03:18) zoom in 1 
+\i (28:03:18) setwindow pcb
+\i (28:03:18) zoom in 309.8069 263.8400
+\i (28:03:18) trapsize 740
+\i (28:03:18) zoom in 1 
+\i (28:03:18) setwindow pcb
+\i (28:03:18) zoom in 309.8069 263.8400
+\i (28:03:18) trapsize 370
+\i (28:03:18) zoom in 1 
+\i (28:03:18) setwindow pcb
+\i (28:03:18) zoom in 309.8217 263.8992
+\i (28:03:18) trapsize 185
+\i (28:03:19) zoom out 1 
+\i (28:03:19) setwindow pcb
+\i (28:03:19) zoom out 309.8217 263.8993
+\i (28:03:19) trapsize 370
+\i (28:03:19) zoom out 1 
+\i (28:03:19) setwindow pcb
+\i (28:03:19) zoom out 309.8216 263.8992
+\i (28:03:19) trapsize 740
+\i (28:03:19) zoom out 1 
+\i (28:03:19) setwindow pcb
+\i (28:03:19) zoom out 309.8216 263.8993
+\i (28:03:19) trapsize 1480
+\i (28:03:20) zoom in 1 
+\i (28:03:20) setwindow pcb
+\i (28:03:20) zoom in 323.0269 264.6098
+\i (28:03:20) trapsize 740
+\i (28:03:20) zoom out 1 
+\i (28:03:20) setwindow pcb
+\i (28:03:20) zoom out 323.0270 264.6099
+\i (28:03:20) trapsize 1480
+\i (28:03:20) zoom out 1 
+\i (28:03:20) setwindow pcb
+\i (28:03:20) zoom out 323.0269 264.6098
+\i (28:03:20) trapsize 2961
+\i (28:03:21) zoom in 1 
+\i (28:03:21) setwindow pcb
+\i (28:03:21) zoom in 328.0604 265.5574
+\i (28:03:21) trapsize 1480
+\i (28:03:21) zoom in 1 
+\i (28:03:21) setwindow pcb
+\i (28:03:21) zoom in 325.1588 265.4686
+\i (28:03:21) trapsize 740
+\i (28:03:21) zoom in 1 
+\i (28:03:21) setwindow pcb
+\i (28:03:21) zoom in 325.1588 265.4686
+\i (28:03:21) trapsize 370
+\i (28:03:22) zoom in 1 
+\i (28:03:22) setwindow pcb
+\i (28:03:22) zoom in 325.1588 265.4686
+\i (28:03:22) trapsize 185
+\i (28:03:22) roam x -96 
+\i (28:03:22) roam x -96
+\i (28:03:23) roam x -96 
+\i (28:03:23) roam x -96
+\i (28:03:34) zoom out 1 
+\i (28:03:34) setwindow pcb
+\i (28:03:34) zoom out 324.0525 266.0533
+\i (28:03:34) trapsize 370
+\i (28:03:35) zoom out 1 
+\i (28:03:35) setwindow pcb
+\i (28:03:35) zoom out 324.0525 266.0534
+\i (28:03:35) trapsize 740
+\i (28:03:38) island_delete 
+\t (28:03:38) No shape islands present on design!
+\i (28:03:38) shapeedit 
+\i (28:03:39) island_delete 
+\t (28:03:39) No shape islands present on design!
+\i (28:03:39) shapeedit 
+\i (28:03:40) island_delete 
+\t (28:03:40) No shape islands present on design!
+\i (28:03:40) shapeedit 
+\i (28:03:40) island_delete 
+\t (28:03:40) No shape islands present on design!
+\i (28:03:40) shapeedit 
+\i (28:03:41) roam y -96 
+\i (28:03:41) roam y -96
+\i (28:03:43) roam y -96 
+\i (28:03:43) roam y -96
+\i (28:03:44) roam y -96 
+\i (28:03:44) roam y -96
+\i (28:03:44) roam y -96 
+\i (28:03:44) roam y -96
+\i (28:03:47) zoom in 1 
+\i (28:03:47) setwindow pcb
+\i (28:03:47) zoom in 324.0229 265.6165
+\i (28:03:47) trapsize 370
+\i (28:03:47) zoom in 1 
+\i (28:03:47) setwindow pcb
+\i (28:03:47) zoom in 324.0229 265.6165
+\i (28:03:47) trapsize 185
+\i (28:03:51) roam x -96 
+\i (28:03:51) roam x -96
+\i (28:03:51) roam x -96 
+\i (28:03:51) roam x -96
+\i (28:03:51) roam x -96 
+\i (28:03:51) roam x -96
+\i (28:03:51) roam x -96 
+\i (28:03:51) roam x -96
+\i (28:03:54) zoom out 1 
+\i (28:03:54) setwindow pcb
+\i (28:03:54) zoom out 322.9718 265.9422
+\i (28:03:54) trapsize 370
+\i (28:03:54) zoom out 1 
+\i (28:03:54) setwindow pcb
+\i (28:03:54) zoom out 322.9718 265.9423
+\i (28:03:54) trapsize 740
+\i (28:03:55) roam x -96 
+\i (28:03:55) roam x -96
+\i (28:03:55) roam x -96 
+\i (28:03:55) roam x -96
+\i (28:03:55) roam x -96 
+\i (28:03:55) roam x -96
+\i (28:03:56) roam x -96 
+\i (28:03:56) roam x -96
+\i (28:03:56) roam x -96 
+\i (28:03:56) roam x -96
+\i (28:03:59) delete 
+\i (28:04:01) pick grid 309.9697 264.1657
+\t (28:04:01) last pick:  310.0000 264.0000
+\t (28:04:01) Via "Not On A Net, Via, (310.0000 264.0000)"
+\i (28:04:01) pick grid dbl 309.9697 264.1657
+\t (28:04:01) last pick:  310.0000 264.0000
+\i (28:04:02) zoom in 1 
+\i (28:04:02) setwindow pcb
+\i (28:04:02) zoom in 326.4468 265.6313
+\i (28:04:02) trapsize 370
+\i (28:04:05) add connect 
+\t (28:04:05) Pick first element.
+\i (28:04:06) pick grid 324.1521 265.6979
+\t (28:04:06) last pick:  324.0000 266.0000
+\t (28:04:06) last pick:  324.0800 265.7000
+\t (28:04:06) Target Horizontal Line Segment is defined on TOP.
+\t (28:04:06) last pick:  324.0800 265.7000
+\i (28:04:06) mouse_pos 324.1521 265.6979
+\i (28:04:06) pick grid dbl 324.1521 265.6979
+\t (28:04:06) last pick:  324.0000 266.0000
+\t (28:04:06) VIA used for drill.
+\t (28:04:06) No DRC errors detected.
+\t (28:04:06) Pick first element.
+\i (28:04:08) roam x 96 
+\i (28:04:08) roam x 96
+\i (28:04:08) roam x 96 
+\i (28:04:08) roam x 96
+\i (28:04:08) roam x 96 
+\i (28:04:08) roam x 96
+\i (28:04:10) save 
+\i (28:04:10) fillin yes 
+\i (28:04:10) shapeedit 
+\i (28:04:34) roam x 96 
+\i (28:04:34) roam x 96
+\i (28:04:34) roam x 96 
+\i (28:04:34) roam x 96
+\i (28:04:34) roam x 96 
+\i (28:04:34) roam x 96
+\i (28:04:35) roam y 96 
+\i (28:04:35) roam y 96
+\i (28:04:35) roam y 96 
+\i (28:04:35) roam y 96
+\i (28:04:35) roam y 96 
+\i (28:04:35) roam y 96
+\i (28:04:35) roam x 96 
+\i (28:04:35) roam x 96
+\i (28:04:35) roam x 96 
+\i (28:04:35) roam x 96
+\i (28:04:36) roam x 96 
+\i (28:04:36) roam x 96
+\i (28:04:36) roam y -96 
+\i (28:04:36) roam y -96
+\i (28:04:36) roam y -96 
+\i (28:04:36) roam y -96
+\i (28:04:37) roam y -96 
+\i (28:04:37) roam y -96
+\i (28:04:38) roam y -96 
+\i (28:04:38) roam y -96
+\i (28:04:38) roam y -96 
+\i (28:04:38) roam y -96
+\i (28:04:41) roam x 96 
+\i (28:04:41) roam x 96
+\i (28:04:41) roam x 96 
+\i (28:04:41) roam x 96
+\i (28:04:41) roam x 96 
+\i (28:04:41) roam x 96
+\i (28:04:42) roam x 96 
+\i (28:04:42) roam x 96
+\i (28:04:42) roam x 96 
+\i (28:04:42) roam x 96
+\i (28:04:42) roam y 96 
+\i (28:04:42) roam y 96
+\i (28:04:43) roam y 96 
+\i (28:04:43) roam y 96
+\i (28:04:43) roam y 96 
+\i (28:04:43) roam y 96
+\i (28:04:43) roam y 96 
+\i (28:04:43) roam y 96
+\i (28:04:43) roam y 96 
+\i (28:04:43) roam y 96
+\i (28:04:43) roam y 96 
+\i (28:04:43) roam y 96
+\i (28:04:44) roam y 96 
+\i (28:04:44) roam y 96
+\i (28:04:44) roam y 96 
+\i (28:04:44) roam y 96
+\i (28:04:44) roam y 96 
+\i (28:04:44) roam y 96
+\i (28:04:44) roam y 96 
+\i (28:04:44) roam y 96
+\i (28:04:44) roam y 96 
+\i (28:04:44) roam y 96
+\i (28:04:44) roam y 96 
+\i (28:04:44) roam y 96
+\i (28:04:44) roam x -96 
+\i (28:04:44) roam x -96
+\i (28:04:45) roam x -96 
+\i (28:04:45) roam x -96
+\i (28:04:45) roam x -96 
+\i (28:04:45) roam x -96
+\i (28:04:45) roam x -96 
+\i (28:04:45) roam x -96
+\i (28:04:45) roam x -96 
+\i (28:04:45) roam x -96
+\i (28:04:45) roam x -96 
+\i (28:04:45) roam x -96
+\i (28:04:45) roam x -96 
+\i (28:04:45) roam x -96
+\i (28:04:45) roam x -96 
+\i (28:04:45) roam x -96
+\i (28:04:45) roam x -96 
+\i (28:04:45) roam x -96
+\i (28:04:45) roam x -96 
+\i (28:04:45) roam x -96
+\i (28:04:45) roam y -96 
+\i (28:04:45) roam y -96
+\i (28:04:46) roam y -96 
+\i (28:04:46) roam y -96
+\i (28:04:46) roam y -96 
+\i (28:04:46) roam y -96
+\i (28:04:46) roam y -96 
+\i (28:04:46) roam y -96
+\i (28:04:46) roam y -96 
+\i (28:04:46) roam y -96
+\i (28:04:46) roam y -96 
+\i (28:04:46) roam y -96
+\i (28:04:46) roam y -96 
+\i (28:04:46) roam y -96
+\i (28:04:46) roam y -96 
+\i (28:04:46) roam y -96
+\i (28:04:46) roam y -96 
+\i (28:04:46) roam y -96
+\i (28:04:47) roam y -96 
+\i (28:04:47) roam y -96
+\i (28:04:47) roam y -96 
+\i (28:04:47) roam y -96
+\i (28:05:14) roam y -96 
+\i (28:05:14) roam y -96
+\i (28:05:14) roam y -96 
+\i (28:05:14) roam y -96
+\i (28:05:15) roam y -96 
+\i (28:05:15) roam y -96
+\i (28:05:16) roam y 96 
+\i (28:05:16) roam y 96
+\i (28:05:16) roam y 96 
+\i (28:05:16) roam y 96
+\i (28:05:19) roam y 96 
+\i (28:05:19) roam y 96
+\i (28:05:20) roam y 96 
+\i (28:05:20) roam y 96
+\i (28:05:20) roam y 96 
+\i (28:05:20) roam y 96
+\i (28:05:40) drc window 
+\t (28:05:40) Select items to DRC.
+\i (28:05:41) drc window 
+\t (28:05:41) Select items to DRC.
+\i (28:05:42) zoom out 1 
+\i (28:05:42) setwindow pcb
+\i (28:05:42) zoom out 326.4616 265.3721
+\i (28:05:42) trapsize 740
+\i (28:05:42) zoom out 1 
+\i (28:05:42) setwindow pcb
+\i (28:05:42) zoom out 326.4616 265.3722
+\i (28:05:42) trapsize 1480
+\i (28:05:42) zoom out 1 
+\i (28:05:42) setwindow pcb
+\i (28:05:42) zoom out 326.4615 265.3722
+\i (28:05:42) trapsize 2961
+\i (28:05:42) zoom out 1 
+\i (28:05:42) setwindow pcb
+\i (28:05:42) zoom out 326.4615 265.3722
+\i (28:05:42) trapsize 5922
+\i (28:05:42) zoom in 1 
+\i (28:05:42) setwindow pcb
+\i (28:05:42) zoom in 326.4616 265.3722
+\i (28:05:42) trapsize 2961
+\i (28:05:42) zoom in 1 
+\i (28:05:42) setwindow pcb
+\i (28:05:42) zoom in 326.4616 265.3722
+\i (28:05:42) trapsize 1480
+\i (28:05:42) zoom in 1 
+\i (28:05:42) setwindow pcb
+\i (28:05:42) zoom in 326.4616 265.3722
+\i (28:05:42) trapsize 740
+\i (28:05:43) zoom in 1 
+\i (28:05:43) setwindow pcb
+\i (28:05:43) zoom in 326.4617 265.3722
+\i (28:05:43) trapsize 370
+\i (28:05:44) zoom out 1 
+\i (28:05:44) setwindow pcb
+\i (28:05:44) zoom out 323.4712 265.2612
+\i (28:05:44) trapsize 740
+\i (28:05:44) zoom out 1 
+\i (28:05:44) setwindow pcb
+\i (28:05:44) zoom out 323.4713 265.2612
+\i (28:05:44) trapsize 1480
+\i (28:05:44) zoom in 1 
+\i (28:05:44) setwindow pcb
+\i (28:05:44) zoom in 327.4092 265.9423
+\i (28:05:44) trapsize 740
+\i (28:05:45) zoom in 1 
+\i (28:05:45) setwindow pcb
+\i (28:05:45) zoom in 329.3634 266.5641
+\i (28:05:45) trapsize 370
+\i (28:05:47) drc update 
+\t (28:05:47) Performing DRC...
+\t (28:05:47) Multithreaded DRC update (4 threads).
+\t (28:05:48) DRC done; 120 errors detected.
+\i (28:05:48) shapeedit 
+\i (28:12:39) save 
+\i (28:12:41) fillin yes 
+\i (28:12:41) shapeedit 
+\i (28:12:42) roam x -96 
+\i (28:12:42) roam x -96
+\i (28:12:42) roam x -96 
+\i (28:12:42) roam x -96
+\i (28:12:43) roam x -96 
+\i (28:12:43) roam x -96
+\i (28:12:43) roam x -96 
+\i (28:12:43) roam x -96
+\i (28:12:43) roam x -96 
+\i (28:12:43) roam x -96
+\i (28:12:43) roam x -96 
+\i (28:12:43) roam x -96
+\i (28:12:48) zoom out 1 
+\i (28:12:48) setwindow pcb
+\i (28:12:48) zoom out 323.6266 265.2318
+\i (28:12:48) trapsize 740
+\i (28:12:49) roam y -96 
+\i (28:12:49) roam y -96
+\i (28:12:49) roam y -96 
+\i (28:12:49) roam y -96
+\i (28:12:53) zoom out 1 
+\i (28:12:53) setwindow pcb
+\i (28:12:53) zoom out 322.4718 269.9541
+\i (28:12:53) trapsize 1480
+\i (28:13:49) assign color 
+\i (28:13:50) setwindow form.mini
+\i (28:13:50) FORM mini color1 1 
+\i (28:13:51) setwindow pcb
+\i (28:13:51) pick grid 314.9513 274.2473
+\t (28:13:51) last pick:  315.0000 274.0000
+\t (28:13:51) Net "Gnd" assigned color.
+\i (28:13:52) roam y 96 
+\i (28:13:52) roam y 96
+\i (28:13:53) roam y 96 
+\i (28:13:53) roam y 96
+\i (28:13:54) roam y 96 
+\i (28:13:54) roam y 96
+\i (28:13:54) roam y 96 
+\i (28:13:54) roam y 96
+\i (28:13:57) roam y 96 
+\i (28:13:57) roam y 96
+\i (28:13:58) roam y 96 
+\i (28:13:58) roam y 96
+\i (28:14:00) roam y 96 
+\i (28:14:00) roam y 96
+\i (28:14:00) roam y 96 
+\i (28:14:00) roam y 96
+\i (28:14:01) roam y 96 
+\i (28:14:01) roam y 96
+\i (28:14:08) dehilight 
+\i (28:14:12) pick grid 333.3381 245.2163
+\t (28:14:12) last pick:  333.0000 245.0000
+\t (28:14:12) Net "Gnd" dehighlighted.
+\i (28:14:13) zoom in 1 
+\i (28:14:13) setwindow pcb
+\i (28:14:13) zoom in 334.1079 243.5286
+\i (28:14:13) trapsize 740
+\i (28:14:15) zoom in 1 
+\i (28:14:15) setwindow pcb
+\i (28:14:15) zoom in 335.4107 243.7655
+\i (28:14:15) trapsize 370
+\i (28:14:18) assign color 
+\i (28:14:20) zoom out 1 
+\i (28:14:20) setwindow pcb
+\i (28:14:20) zoom out 334.9222 244.3429
+\i (28:14:20) trapsize 740
+\i (28:14:23) pick grid 334.5817 243.9876
+\t (28:14:23) last pick:  335.0000 244.0000
+\t (28:14:23) Net "Gnd" assigned color.
+\i (28:14:25) roam x -96 
+\i (28:14:25) roam x -96
+\i (28:14:26) roam x -96 
+\i (28:14:26) roam x -96
+\i (28:14:26) roam x -96 
+\i (28:14:26) roam x -96
+\i (28:14:26) roam x -96 
+\i (28:14:26) roam x -96
+\i (28:14:26) roam x -96 
+\i (28:14:26) roam x -96
+\i (28:14:26) roam x -96 
+\i (28:14:26) roam x -96
+\i (28:14:27) roam y -96 
+\i (28:14:27) roam y -96
+\i (28:14:27) roam y -96 
+\i (28:14:27) roam y -96
+\i (28:14:27) roam y -96 
+\i (28:14:27) roam y -96
+\i (28:14:28) zoom out 1 
+\i (28:14:28) setwindow pcb
+\i (28:14:28) zoom out 330.2662 247.7034
+\i (28:14:28) trapsize 1480
+\i (28:14:28) roam y -96 
+\i (28:14:28) roam y -96
+\i (28:14:28) roam y -96 
+\i (28:14:28) roam y -96
+\i (28:14:28) roam y -96 
+\i (28:14:28) roam y -96
+\i (28:14:28) roam y -96 
+\i (28:14:28) roam y -96
+\i (28:14:29) roam y -96 
+\i (28:14:29) roam y -96
+\i (28:14:29) roam y -96 
+\i (28:14:29) roam y -96
+\i (28:14:29) roam y -96 
+\i (28:14:29) roam y -96
+\i (28:14:29) roam x 96 
+\i (28:14:29) roam x 96
+\i (28:14:29) roam x 96 
+\i (28:14:29) roam x 96
+\i (28:14:30) roam x 96 
+\i (28:14:30) roam x 96
+\i (28:14:30) roam y -96 
+\i (28:14:30) roam y -96
+\i (28:14:30) roam y -96 
+\i (28:14:30) roam y -96
+\i (28:14:30) roam y -96 
+\i (28:14:30) roam y -96
+\i (28:14:30) roam y -96 
+\i (28:14:30) roam y -96
+\i (28:14:31) roam y -96 
+\i (28:14:31) roam y -96
+\i (28:14:31) roam y -96 
+\i (28:14:31) roam y -96
+\i (28:14:33) roam x -96 
+\i (28:14:33) roam x -96
+\i (28:14:33) roam y -96 
+\i (28:14:33) roam y -96
+\i (28:14:34) roam y 96 
+\i (28:14:34) roam y 96
+\i (28:14:34) roam y 96 
+\i (28:14:34) roam y 96
+\i (28:14:35) roam y 96 
+\i (28:14:35) roam y 96
+\i (28:14:38) roam y 96 
+\i (28:14:38) roam y 96
+\i (28:14:38) roam y 96 
+\i (28:14:38) roam y 96
+\i (28:14:38) roam y 96 
+\i (28:14:38) roam y 96
+\i (28:14:39) roam x 96 
+\i (28:14:39) roam x 96
+\i (28:14:44) dehilight 
+\i (28:14:45) pick grid 334.4854 275.5056
+\t (28:14:45) last pick:  334.0000 276.0000
+\t (28:14:45) Net "Gnd" dehighlighted.
+\i (28:14:49) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (28:14:50) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (28:14:50) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (28:14:51) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (28:14:53) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (28:14:53) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (28:14:55) roam y 96 
+\i (28:14:55) roam y 96
+\i (28:14:55) roam y 96 
+\i (28:14:55) roam y 96
+\i (28:14:55) roam y 96 
+\i (28:14:55) roam y 96
+\i (28:14:55) roam y 96 
+\i (28:14:55) roam y 96
+\i (28:14:55) roam y 96 
+\i (28:14:55) roam y 96
+\i (28:14:56) roam y 96 
+\i (28:14:56) roam y 96
+\i (28:14:56) roam y 96 
+\i (28:14:56) roam y 96
+\i (28:14:57) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (28:14:58) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (28:14:59) roam y 96 
+\i (28:14:59) roam y 96
+\i (28:15:00) roam y 96 
+\i (28:15:00) roam y 96
+\i (28:15:00) roam y 96 
+\i (28:15:00) roam y 96
+\i (28:15:02) zoom in 1 
+\i (28:15:02) setwindow pcb
+\i (28:15:02) zoom in 330.3994 241.8410
+\i (28:15:02) trapsize 740
+\i (28:15:02) zoom in 1 
+\i (28:15:02) setwindow pcb
+\i (28:15:02) zoom in 330.3995 241.8410
+\i (28:15:02) trapsize 370
+\i (28:15:04) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (28:15:05) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (28:15:13) save 
+\i (28:15:14) fillin yes 
+\i (28:15:14) shapeedit 
+\i (28:15:23) roam x 96 
+\i (28:15:23) roam x 96
+\i (28:15:23) roam x 96 
+\i (28:15:23) roam x 96
+\i (28:15:23) roam x 96 
+\i (28:15:23) roam x 96
+\i (28:15:23) zoom out 1 
+\i (28:15:23) setwindow pcb
+\i (28:15:23) zoom out 331.9021 242.4628
+\i (28:15:23) trapsize 740
+\i (28:15:24) roam y 96 
+\i (28:15:24) roam y 96
+\i (28:15:24) roam x -96 
+\i (28:15:24) roam x -96
+\i (28:15:24) roam x -96 
+\i (28:15:24) roam x -96
+\i (28:15:25) roam x -96 
+\i (28:15:25) roam x -96
+\i (28:15:25) roam x -96 
+\i (28:15:25) roam x -96
+\i (28:15:25) roam x -96 
+\i (28:15:25) roam x -96
+\i (28:15:30) assign color 
+\i (28:15:31) pick grid 325.8694 241.2488
+\t (28:15:31) last pick:  326.0000 241.0000
+\t (28:15:31) Net "Gnd" assigned color.
+\i (28:15:32) roam x 96 
+\i (28:15:32) roam x 96
+\i (28:15:32) roam x 96 
+\i (28:15:32) roam x 96
+\i (28:15:39) dehilight 
+\i (28:15:40) pick grid 325.3513 241.9150
+\t (28:15:40) last pick:  325.0000 242.0000
+\t (28:15:40) Net "Gnd" dehighlighted.
+\i (28:15:41) zoom in 1 
+\i (28:15:41) setwindow pcb
+\i (28:15:41) zoom in 325.7806 241.6485
+\i (28:15:41) trapsize 370
+\i (28:15:41) zoom in 1 
+\i (28:15:41) setwindow pcb
+\i (28:15:41) zoom in 325.7806 241.6485
+\i (28:15:41) trapsize 185
+\i (28:15:42) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (28:15:45) zoom out 1 
+\i (28:15:45) setwindow pcb
+\i (28:15:45) zoom out 325.4771 241.9742
+\i (28:15:45) trapsize 370
+\i (28:15:47) slide 
+\t (28:15:47) Pick element to slide.
+\i (28:15:48) pick grid 325.7510 242.1814
+\t (28:15:48) last pick:  326.0000 242.0000
+\t (28:15:48) last pick:  325.7562 242.1762
+\t (28:15:48) Waiting for the destination pick.
+\i (28:15:50) pick grid 325.7436 242.1222
+\t (28:15:50) last pick:  326.0000 242.0000
+\t (28:15:50) No DRC errors detected.
+\t (28:15:50) Pick another element to slide.
+\i (28:15:50) pick grid 325.2477 241.6189
+\t (28:15:50) last pick:  325.0000 242.0000
+\t (28:15:50) last pick:  325.2234 241.6434
+\t (28:15:50) Waiting for the destination pick.
+\i (28:15:51) pick grid 325.6326 242.0038
+\t (28:15:51) last pick:  326.0000 242.0000
+\t (28:15:51) No DRC errors detected.
+\t (28:15:51) Pick another element to slide.
+\i (28:15:52) zoom out 1 
+\i (28:15:52) setwindow pcb
+\i (28:15:52) zoom out 326.1803 241.9076
+\i (28:15:52) trapsize 740
+\i (28:15:54) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (28:15:56) assign color 
+\i (28:16:00) pick grid 329.9702 241.9223
+\t (28:16:00) last pick:  330.0000 242.0000
+\t (28:16:00) Net "Gnd" assigned color.
+\i (28:16:01) roam x 96 
+\i (28:16:01) roam x 96
+\i (28:16:01) roam x 96 
+\i (28:16:01) roam x 96
+\i (28:16:01) roam x 96 
+\i (28:16:01) roam x 96
+\i (28:16:02) zoom out 1 
+\i (28:16:02) setwindow pcb
+\i (28:16:02) zoom out 334.2485 241.9223
+\i (28:16:02) trapsize 1480
+\i (28:16:02) roam y -96 
+\i (28:16:02) roam y -96
+\i (28:16:03) roam y -96 
+\i (28:16:03) roam y -96
+\i (28:16:03) roam y -96 
+\i (28:16:03) roam y -96
+\i (28:16:03) roam y -96 
+\i (28:16:03) roam y -96
+\i (28:16:03) roam y -96 
+\i (28:16:03) roam y -96
+\i (28:16:03) roam y -96 
+\i (28:16:03) roam y -96
+\i (28:16:05) roam y -96 
+\i (28:16:05) roam y -96
+\i (28:16:05) roam y -96 
+\i (28:16:05) roam y -96
+\i (28:16:05) roam y -96 
+\i (28:16:05) roam y -96
+\i (28:16:06) roam y -96 
+\i (28:16:06) roam y -96
+\i (28:16:07) roam y -96 
+\i (28:16:07) roam y -96
+\i (28:16:07) roam y -96 
+\i (28:16:07) roam y -96
+\i (28:16:11) roam y 96 
+\i (28:16:11) roam y 96
+\i (28:16:11) roam y 96 
+\i (28:16:11) roam y 96
+\i (28:16:11) roam y 96 
+\i (28:16:11) roam y 96
+\i (28:16:11) roam y 96 
+\i (28:16:11) roam y 96
+\i (28:16:12) roam y 96 
+\i (28:16:12) roam y 96
+\i (28:16:12) roam y 96 
+\i (28:16:12) roam y 96
+\i (28:16:12) roam y 96 
+\i (28:16:12) roam y 96
+\i (28:16:12) roam y 96 
+\i (28:16:12) roam y 96
+\i (28:16:12) roam y 96 
+\i (28:16:12) roam y 96
+\i (28:16:13) roam y 96 
+\i (28:16:13) roam y 96
+\i (28:16:15) roam y -96 
+\i (28:16:15) roam y -96
+\i (28:16:15) roam y -96 
+\i (28:16:15) roam y -96
+\i (28:16:15) roam y -96 
+\i (28:16:15) roam y -96
+\i (28:16:15) roam y -96 
+\i (28:16:15) roam y -96
+\i (28:16:15) roam y -96 
+\i (28:16:15) roam y -96
+\i (28:16:17) zoom in 1 
+\i (28:16:17) setwindow pcb
+\i (28:16:17) zoom in 342.7165 258.4512
+\i (28:16:17) trapsize 740
+\i (28:16:17) roam y -96 
+\i (28:16:17) roam y -96
+\i (28:16:18) roam y -96 
+\i (28:16:18) roam y -96
+\i (28:16:19) roam y 96 
+\i (28:16:19) roam y 96
+\i (28:16:20) roam y 96 
+\i (28:16:20) roam y 96
+\i (28:16:20) roam y -96 
+\i (28:16:20) roam y -96
+\i (28:16:20) roam y -96 
+\i (28:16:20) roam y -96
+\i (28:16:21) roam y -96 
+\i (28:16:21) roam y -96
+\i (28:16:21) roam y -96 
+\i (28:16:21) roam y -96
+\i (28:16:21) roam y -96 
+\i (28:16:21) roam y -96
+\i (28:16:21) roam y -96 
+\i (28:16:21) roam y -96
+\i (28:16:21) roam y -96 
+\i (28:16:21) roam y -96
+\i (28:16:22) roam y -96 
+\i (28:16:22) roam y -96
+\i (28:16:22) roam y -96 
+\i (28:16:22) roam y -96
+\i (28:16:22) roam y -96 
+\i (28:16:22) roam y -96
+\i (28:16:22) roam y -96 
+\i (28:16:22) roam y -96
+\i (28:16:22) roam y -96 
+\i (28:16:22) roam y -96
+\i (28:16:23) roam x -96 
+\i (28:16:23) roam x -96
+\i (28:16:23) roam x -96 
+\i (28:16:23) roam x -96
+\i (28:16:23) roam y -96 
+\i (28:16:23) roam y -96
+\i (28:16:24) roam y -96 
+\i (28:16:24) roam y -96
+\i (28:16:24) roam y -96 
+\i (28:16:24) roam y -96
+\i (28:16:24) roam y -96 
+\i (28:16:24) roam y -96
+\i (28:16:24) roam y -96 
+\i (28:16:24) roam y -96
+\i (28:16:24) roam y -96 
+\i (28:16:24) roam y -96
+\i (28:16:25) roam x -96 
+\i (28:16:25) roam x -96
+\i (28:16:26) roam y -96 
+\i (28:16:26) roam y -96
+\i (28:16:26) roam y -96 
+\i (28:16:26) roam y -96
+\i (28:16:26) roam y -96 
+\i (28:16:26) roam y -96
+\i (28:16:27) roam x -96 
+\i (28:16:27) roam x -96
+\i (28:16:27) roam x -96 
+\i (28:16:27) roam x -96
+\i (28:16:27) roam x -96 
+\i (28:16:27) roam x -96
+\i (28:16:27) roam x -96 
+\i (28:16:27) roam x -96
+\i (28:16:27) roam x -96 
+\i (28:16:27) roam x -96
+\i (28:16:27) roam x -96 
+\i (28:16:27) roam x -96
+\i (28:16:27) roam x -96 
+\i (28:16:27) roam x -96
+\i (28:16:27) roam x -96 
+\i (28:16:27) roam x -96
+\i (28:16:27) roam x -96 
+\i (28:16:27) roam x -96
+\i (28:16:27) roam x -96 
+\i (28:16:27) roam x -96
+\i (28:16:27) roam x -96 
+\i (28:16:27) roam x -96
+\i (28:16:28) roam y 96 
+\i (28:16:28) roam y 96
+\i (28:16:28) roam y 96 
+\i (28:16:28) roam y 96
+\i (28:16:28) roam y 96 
+\i (28:16:28) roam y 96
+\i (28:16:28) roam y 96 
+\i (28:16:28) roam y 96
+\i (28:16:29) roam y 96 
+\i (28:16:29) roam y 96
+\i (28:16:29) roam y 96 
+\i (28:16:29) roam y 96
+\i (28:16:29) roam y 96 
+\i (28:16:29) roam y 96
+\i (28:16:29) roam y 96 
+\i (28:16:29) roam y 96
+\i (28:16:29) roam y 96 
+\i (28:16:29) roam y 96
+\i (28:16:29) roam y 96 
+\i (28:16:29) roam y 96
+\i (28:16:29) roam y 96 
+\i (28:16:29) roam y 96
+\i (28:16:29) roam y 96 
+\i (28:16:29) roam y 96
+\i (28:16:29) roam x 96 
+\i (28:16:29) roam x 96
+\i (28:16:29) roam x 96 
+\i (28:16:29) roam x 96
+\i (28:16:29) roam x 96 
+\i (28:16:29) roam x 96
+\i (28:16:30) roam y 96 
+\i (28:16:30) roam y 96
+\i (28:16:31) roam y 96 
+\i (28:16:31) roam y 96
+\i (28:16:32) roam x 96 
+\i (28:16:32) roam x 96
+\i (28:16:32) roam x 96 
+\i (28:16:32) roam x 96
+\i (28:16:33) roam y 96 
+\i (28:16:33) roam y 96
+\i (28:16:33) roam y 96 
+\i (28:16:33) roam y 96
+\i (28:16:33) roam y 96 
+\i (28:16:33) roam y 96
+\i (28:16:34) roam y 96 
+\i (28:16:34) roam y 96
+\i (28:16:36) dehilight 
+\i (28:16:37) pick grid 320.8804 262.7740
+\t (28:16:37) last pick:  321.0000 263.0000
+\t (28:16:37) Net "Gnd" dehighlighted.
+\i (28:16:41) roam y 96 
+\i (28:16:41) roam y 96
+\i (28:16:41) roam y 96 
+\i (28:16:41) roam y 96
+\i (28:16:49) roam y -96 
+\i (28:16:49) roam y -96
+\i (28:16:54) roam y -96 
+\i (28:16:54) roam y -96
+\i (28:16:55) roam y -96 
+\i (28:16:55) roam y -96
+\i (28:16:56) roam y -96 
+\i (28:16:56) roam y -96
+\i (28:16:57) roam y -96 
+\i (28:16:57) roam y -96
+\i (28:16:57) roam y -96 
+\i (28:16:57) roam y -96
+\i (28:16:57) roam y -96 
+\i (28:16:57) roam y -96
+\i (28:16:57) roam y -96 
+\i (28:16:57) roam y -96
+\i (28:16:57) roam y -96 
+\i (28:16:57) roam y -96
+\i (28:16:58) roam y -96 
+\i (28:16:58) roam y -96
+\i (28:16:58) roam y 96 
+\i (28:16:58) roam y 96
+\i (28:16:58) roam y 96 
+\i (28:16:58) roam y 96
+\i (28:16:58) roam y 96 
+\i (28:16:58) roam y 96
+\i (28:16:59) roam y 96 
+\i (28:16:59) roam y 96
+\i (28:16:59) roam y 96 
+\i (28:16:59) roam y 96
+\i (28:16:59) roam y 96 
+\i (28:16:59) roam y 96
+\i (28:16:59) roam y 96 
+\i (28:16:59) roam y 96
+\i (28:16:59) roam y 96 
+\i (28:16:59) roam y 96
+\i (28:16:59) roam y 96 
+\i (28:16:59) roam y 96
+\i (28:17:32) roam y 96 
+\i (28:17:32) roam y 96
+\i (28:17:32) roam y 96 
+\i (28:17:32) roam y 96
+\i (28:17:32) roam y 96 
+\i (28:17:32) roam y 96
+\i (28:17:32) roam y 96 
+\i (28:17:32) roam y 96
+\i (28:17:40) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (28:17:40) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (28:17:41) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (28:17:42) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (28:17:43) roam y 96 
+\i (28:17:43) roam y 96
+\i (28:17:44) roam y 96 
+\i (28:17:44) roam y 96
+\i (28:17:46) roam y 96 
+\i (28:17:46) roam y 96
+\i (28:17:47) roam y 96 
+\i (28:17:47) roam y 96
+\i (28:17:47) roam y 96 
+\i (28:17:47) roam y 96
+\i (28:17:47) roam y 96 
+\i (28:17:47) roam y 96
+\i (28:17:47) roam y 96 
+\i (28:17:47) roam y 96
+\i (28:17:55) roam y 96 
+\i (28:17:55) roam y 96
+\i (28:18:02) roam y -96 
+\i (28:18:02) roam y -96
+\i (28:18:02) roam y -96 
+\i (28:18:02) roam y -96
+\i (28:18:02) roam y -96 
+\i (28:18:02) roam y -96
+\i (28:18:03) roam x 96 
+\i (28:18:03) roam x 96
+\i (28:18:03) roam x 96 
+\i (28:18:03) roam x 96
+\i (28:18:03) roam x 96 
+\i (28:18:03) roam x 96
+\i (28:18:03) roam x 96 
+\i (28:18:03) roam x 96
+\i (28:18:03) roam x 96 
+\i (28:18:03) roam x 96
+\i (28:18:04) roam y 96 
+\i (28:18:04) roam y 96
+\i (28:18:04) roam y 96 
+\i (28:18:04) roam y 96
+\i (28:18:04) roam y 96 
+\i (28:18:04) roam y 96
+\i (28:18:04) roam y 96 
+\i (28:18:04) roam y 96
+\i (28:18:05) roam y 96 
+\i (28:18:05) roam y 96
+\i (28:18:05) roam y -96 
+\i (28:18:05) roam y -96
+\i (28:18:05) roam y -96 
+\i (28:18:05) roam y -96
+\i (28:18:06) roam y -96 
+\i (28:18:06) roam y -96
+\i (28:18:07) roam y 96 
+\i (28:18:07) roam y 96
+\i (28:18:08) roam x -96 
+\i (28:18:08) roam x -96
+\i (28:18:08) roam x -96 
+\i (28:18:08) roam x -96
+\i (28:18:08) roam x -96 
+\i (28:18:08) roam x -96
+\i (28:18:08) roam x -96 
+\i (28:18:08) roam x -96
+\i (28:18:08) roam x -96 
+\i (28:18:08) roam x -96
+\i (28:18:09) roam x -96 
+\i (28:18:09) roam x -96
+\i (28:18:09) roam x -96 
+\i (28:18:09) roam x -96
+\i (28:18:09) roam y -96 
+\i (28:18:09) roam y -96
+\i (28:18:09) roam y -96 
+\i (28:18:09) roam y -96
+\i (28:18:09) roam y -96 
+\i (28:18:09) roam y -96
+\i (28:18:10) roam y -96 
+\i (28:18:10) roam y -96
+\i (28:18:10) roam y -96 
+\i (28:18:10) roam y -96
+\i (28:18:10) roam y -96 
+\i (28:18:10) roam y -96
+\i (28:18:10) roam y -96 
+\i (28:18:10) roam y -96
+\i (28:18:10) roam y -96 
+\i (28:18:10) roam y -96
+\i (28:18:10) roam y -96 
+\i (28:18:10) roam y -96
+\i (28:18:11) roam y -96 
+\i (28:18:11) roam y -96
+\i (28:18:11) roam y -96 
+\i (28:18:11) roam y -96
+\i (28:18:11) roam y -96 
+\i (28:18:11) roam y -96
+\i (28:18:11) roam y -96 
+\i (28:18:11) roam y -96
+\i (28:18:11) roam y -96 
+\i (28:18:11) roam y -96
+\i (28:18:12) roam y -96 
+\i (28:18:12) roam y -96
+\i (28:18:12) roam y -96 
+\i (28:18:12) roam y -96
+\i (28:18:12) roam y -96 
+\i (28:18:12) roam y -96
+\i (28:18:12) roam y -96 
+\i (28:18:12) roam y -96
+\i (28:18:12) roam y -96 
+\i (28:18:12) roam y -96
+\i (28:18:12) roam y -96 
+\i (28:18:12) roam y -96
+\i (28:18:13) roam y -96 
+\i (28:18:13) roam y -96
+\i (28:18:13) roam y -96 
+\i (28:18:13) roam y -96
+\i (28:18:13) roam y -96 
+\i (28:18:13) roam y -96
+\i (28:18:13) roam y -96 
+\i (28:18:13) roam y -96
+\i (28:18:13) roam y -96 
+\i (28:18:13) roam y -96
+\i (28:18:13) roam y -96 
+\i (28:18:13) roam y -96
+\i (28:18:14) roam x 96 
+\i (28:18:14) roam x 96
+\i (28:18:14) roam x 96 
+\i (28:18:14) roam x 96
+\i (28:18:15) roam y 96 
+\i (28:18:15) roam y 96
+\i (28:18:15) roam y 96 
+\i (28:18:15) roam y 96
+\i (28:18:15) roam y 96 
+\i (28:18:15) roam y 96
+\i (28:18:15) roam y 96 
+\i (28:18:15) roam y 96
+\i (28:18:16) roam y 96 
+\i (28:18:16) roam y 96
+\i (28:18:16) roam x 96 
+\i (28:18:16) roam x 96
+\i (28:18:16) roam x 96 
+\i (28:18:16) roam x 96
+\i (28:18:16) roam x 96 
+\i (28:18:16) roam x 96
+\i (28:18:16) roam x 96 
+\i (28:18:16) roam x 96
+\i (28:18:17) roam x 96 
+\i (28:18:17) roam x 96
+\i (28:18:17) roam x 96 
+\i (28:18:17) roam x 96
+\i (28:18:19) roam y 96 
+\i (28:18:19) roam y 96
+\i (28:18:19) roam y 96 
+\i (28:18:19) roam y 96
+\i (28:18:19) roam y 96 
+\i (28:18:19) roam y 96
+\i (28:18:19) roam y 96 
+\i (28:18:19) roam y 96
+\i (28:18:21) roam y 96 
+\i (28:18:21) roam y 96
+\i (28:18:21) roam y 96 
+\i (28:18:21) roam y 96
+\i (28:18:21) roam y 96 
+\i (28:18:21) roam y 96
+\i (28:18:21) roam y 96 
+\i (28:18:21) roam y 96
+\i (28:18:21) roam y 96 
+\i (28:18:21) roam y 96
+\i (28:18:22) roam y 96 
+\i (28:18:22) roam y 96
+\i (28:18:25) assign color 
+\i (28:18:28) pick grid 333.7748 258.8805
+\t (28:18:28) last pick:  334.0000 259.0000
+\t (28:18:28) Net "Gnd" assigned color.
+\i (28:18:30) zoom out 1 
+\i (28:18:30) setwindow pcb
+\i (28:18:30) zoom out 337.5351 260.3757
+\i (28:18:30) trapsize 1480
+\i (28:18:31) roam y -96 
+\i (28:18:31) roam y -96
+\i (28:18:31) roam y -96 
+\i (28:18:31) roam y -96
+\i (28:18:32) roam y -96 
+\i (28:18:32) roam y -96
+\i (28:18:32) roam y -96 
+\i (28:18:32) roam y -96
+\i (28:18:32) roam y -96 
+\i (28:18:32) roam y -96
+\i (28:18:32) roam y -96 
+\i (28:18:32) roam y -96
+\i (28:18:33) roam y 96 
+\i (28:18:33) roam y 96
+\i (28:18:33) roam y 96 
+\i (28:18:33) roam y 96
+\i (28:18:33) roam y 96 
+\i (28:18:33) roam y 96
+\i (28:18:38) zoom in 1 
+\i (28:18:38) setwindow pcb
+\i (28:18:38) zoom in 326.9648 268.4292
+\i (28:18:38) trapsize 740
+\i (28:18:41) dehilight 
+\i (28:18:44) pick grid 326.6392 268.4292
+\t (28:18:44) last pick:  327.0000 268.0000
+\t (28:18:44) Net "Gnd" dehighlighted.
+\i (28:18:47) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (28:18:48) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (28:18:52) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (28:19:01) roam x 96 
+\i (28:19:01) roam x 96
+\i (28:19:01) roam x 96 
+\i (28:19:01) roam x 96
+\i (28:19:02) roam x 96 
+\i (28:19:02) roam x 96
+\i (28:19:02) roam x 96 
+\i (28:19:02) roam x 96
+\i (28:19:02) roam y -96 
+\i (28:19:02) roam y -96
+\i (28:19:03) roam y -96 
+\i (28:19:03) roam y -96
+\i (28:19:03) roam y -96 
+\i (28:19:03) roam y -96
+\i (28:19:03) roam y -96 
+\i (28:19:03) roam y -96
+\i (28:19:03) roam y -96 
+\i (28:19:03) roam y -96
+\i (28:19:03) roam y -96 
+\i (28:19:03) roam y -96
+\i (28:19:03) roam y -96 
+\i (28:19:03) roam y -96
+\i (28:19:04) roam y -96 
+\i (28:19:04) roam y -96
+\i (28:19:04) roam y -96 
+\i (28:19:04) roam y -96
+\i (28:19:04) roam y -96 
+\i (28:19:04) roam y -96
+\i (28:19:04) roam y -96 
+\i (28:19:04) roam y -96
+\i (28:19:04) roam y -96 
+\i (28:19:04) roam y -96
+\i (28:19:05) roam y -96 
+\i (28:19:05) roam y -96
+\i (28:19:05) roam y -96 
+\i (28:19:05) roam y -96
+\i (28:19:05) roam y -96 
+\i (28:19:05) roam y -96
+\i (28:19:05) roam y -96 
+\i (28:19:05) roam y -96
+\i (28:19:05) roam y -96 
+\i (28:19:05) roam y -96
+\i (28:19:05) roam y -96 
+\i (28:19:05) roam y -96
+\i (28:19:06) roam y -96 
+\i (28:19:06) roam y -96
+\i (28:19:06) roam y -96 
+\i (28:19:06) roam y -96
+\i (28:19:06) roam y 96 
+\i (28:19:06) roam y 96
+\i (28:19:07) roam y 96 
+\i (28:19:07) roam y 96
+\i (28:19:07) roam y 96 
+\i (28:19:07) roam y 96
+\i (28:19:07) roam y 96 
+\i (28:19:07) roam y 96
+\i (28:19:07) roam y 96 
+\i (28:19:07) roam y 96
+\i (28:19:07) roam y 96 
+\i (28:19:07) roam y 96
+\i (28:19:07) roam y 96 
+\i (28:19:07) roam y 96
+\i (28:19:07) roam y 96 
+\i (28:19:07) roam y 96
+\i (28:19:07) roam y 96 
+\i (28:19:07) roam y 96
+\i (28:19:07) roam y 96 
+\i (28:19:07) roam y 96
+\i (28:19:07) roam y 96 
+\i (28:19:07) roam y 96
+\i (28:19:07) roam y 96 
+\i (28:19:07) roam y 96
+\i (28:19:07) roam y 96 
+\i (28:19:07) roam y 96
+\i (28:19:07) roam y 96 
+\i (28:19:07) roam y 96
+\i (28:19:07) roam y 96 
+\i (28:19:07) roam y 96
+\i (28:19:07) roam y 96 
+\i (28:19:07) roam y 96
+\i (28:19:08) roam y 96 
+\i (28:19:08) roam y 96
+\i (28:19:08) roam y 96 
+\i (28:19:08) roam y 96
+\i (28:19:08) roam y 96 
+\i (28:19:08) roam y 96
+\i (28:19:08) roam y 96 
+\i (28:19:08) roam y 96
+\i (28:19:08) roam y 96 
+\i (28:19:08) roam y 96
+\i (28:19:08) roam y 96 
+\i (28:19:08) roam y 96
+\i (28:19:09) roam y 96 
+\i (28:19:09) roam y 96
+\i (28:19:09) roam y 96 
+\i (28:19:09) roam y 96
+\i (28:19:09) roam x -96 
+\i (28:19:09) roam x -96
+\i (28:19:10) roam x -96 
+\i (28:19:10) roam x -96
+\i (28:19:10) roam x -96 
+\i
