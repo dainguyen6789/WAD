@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : WalkingAidDevice.brd                          )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Fri Feb 09 12:57:16 2018                      )
+(    Date/Time        : Mon Feb 12 12:35:14 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  110
+ ..... Total number of DRC errors  5
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************

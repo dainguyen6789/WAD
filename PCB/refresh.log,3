@@ -1,9 +1,9 @@
-Fri Feb 09 12:57:15 2018				Page     1
+Mon Feb 12 12:35:14 2018				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Fri Feb 09 12:57:15 2018
+	Mon Feb 12 12:35:14 2018
 
 ------ Module Refresh Messages ------
 
@@ -19,12 +19,12 @@ SUMMARY:    Updated 0 out of 0 modules
 (                                                                     )
 (    Drawing          : WalkingAidDevice.brd                          )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Fri Feb 09 12:57:15 2018                      )
+(    Date/Time        : Mon Feb 12 12:35:14 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Fri Feb 09 12:57:15 2018				Page     1
+Mon Feb 12 12:35:14 2018				Page     1
 
 
 ------ Symbol Refresh Directives ------
@@ -38,7 +38,7 @@ Update package symbols                 = 'YES'
 Update shape/flash symbols             = 'NO'
 Update symbol padstacks                = 'NO'
 Preserve padstacks replaced on pins    = 'NO'
-Reset symbol text and size locations   = 'NO'
+Reset symbol text and size locations   = 'YES'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
@@ -74,6 +74,8 @@ PADPATH =  .
 
 ------ Symbol Refresh Messages ------
 
+'JUMPER4'  symbol refreshed successfully.
+'JUMPER6'  symbol refreshed successfully.
 'HM10_BLE'  symbol refreshed successfully.
 'QFN-24'  symbol refreshed successfully.
 'TQFP32'  symbol refreshed successfully.
@@ -82,7 +84,6 @@ PADPATH =  .
 '350759-4'  symbol refreshed successfully.
 'SW_DIP_6X2'  symbol refreshed successfully.
 'SW_4PINS'  symbol refreshed successfully.
-'JUMPER12X1'  symbol refreshed successfully.
 'JUMPER3'  symbol refreshed successfully.
 'RESONATOR_V1'  symbol refreshed successfully.
 '0402'  symbol refreshed successfully.
@@ -92,6 +93,6 @@ PADPATH =  .
 
 ----- Symbol Update Summary ----
 
-Updated symbols: 14 out 14
+Updated symbols: 15 out 15
     Design updated.
 
