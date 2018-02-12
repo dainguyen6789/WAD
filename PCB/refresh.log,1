@@ -1,9 +1,9 @@
-Thu Feb 08 13:54:06 2018				Page     1
+Thu Feb 08 14:42:45 2018				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Thu Feb 08 13:54:06 2018
+	Thu Feb 08 14:42:45 2018
 
 ------ Module Refresh Messages ------
 
@@ -19,12 +19,12 @@ SUMMARY:    Updated 0 out of 0 modules
 (                                                                     )
 (    Drawing          : WalkingAidDevice.brd                          )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Thu Feb 08 13:54:06 2018                      )
+(    Date/Time        : Thu Feb 08 14:42:45 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Thu Feb 08 13:54:06 2018				Page     1
+Thu Feb 08 14:42:45 2018				Page     1
 
 
 ------ Symbol Refresh Directives ------
@@ -74,23 +74,23 @@ PADPATH =  .
 
 ------ Symbol Refresh Messages ------
 
-'0603'  symbol refreshed successfully.
-'0805'  symbol refreshed successfully.
-'0402'  symbol refreshed successfully.
-'RESONATOR_V1'  symbol refreshed successfully.
-'JUMPER5'  symbol refreshed successfully.
-'JUMPER6'  symbol refreshed successfully.
-'JUMPER4'  symbol refreshed successfully.
-'JUMPER3'  symbol refreshed successfully.
-'JUMPER12X1'  symbol refreshed successfully.
-'SW_4PINS'  symbol refreshed successfully.
-'SW_DIP_6X2'  symbol refreshed successfully.
-'350759-4'  symbol refreshed successfully.
-'TEST_POINT'  symbol refreshed successfully.
-'SOT23-5_V1'  symbol refreshed successfully.
-'TQFP32'  symbol refreshed successfully.
-'QFN-24'  symbol refreshed successfully.
 'HM10_BLE'  symbol refreshed successfully.
+'QFN-24'  symbol refreshed successfully.
+'TQFP32'  symbol refreshed successfully.
+'SOT23-5_V1'  symbol refreshed successfully.
+'TEST_POINT'  symbol refreshed successfully.
+'350759-4'  symbol refreshed successfully.
+'SW_DIP_6X2'  symbol refreshed successfully.
+'SW_4PINS'  symbol refreshed successfully.
+'JUMPER12X1'  symbol refreshed successfully.
+'JUMPER3'  symbol refreshed successfully.
+'JUMPER4'  symbol refreshed successfully.
+'JUMPER6'  symbol refreshed successfully.
+'JUMPER5'  symbol refreshed successfully.
+'RESONATOR_V1'  symbol refreshed successfully.
+'0402'  symbol refreshed successfully.
+'0805'  symbol refreshed successfully.
+'0603'  symbol refreshed successfully.
 
 
 ----- Symbol Update Summary ----

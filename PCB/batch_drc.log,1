@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : WalkingAidDevice.brd                          )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Thu Feb 08 13:54:07 2018                      )
+(    Date/Time        : Thu Feb 08 14:42:45 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  22
+ ..... Total number of DRC errors  18
 
 
 WARNING: 2 dynamic shape(s) out of date; checking skipped on these elements.
