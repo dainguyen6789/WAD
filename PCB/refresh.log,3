@@ -1,9 +1,9 @@
-Mon Feb 12 12:35:14 2018				Page     1
+Tue Feb 13 09:58:33 2018				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Mon Feb 12 12:35:14 2018
+	Tue Feb 13 09:58:33 2018
 
 ------ Module Refresh Messages ------
 
@@ -19,12 +19,12 @@ SUMMARY:    Updated 0 out of 0 modules
 (                                                                     )
 (    Drawing          : WalkingAidDevice.brd                          )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Mon Feb 12 12:35:14 2018                      )
+(    Date/Time        : Tue Feb 13 09:58:34 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Mon Feb 12 12:35:14 2018				Page     1
+Tue Feb 13 09:58:34 2018				Page     1
 
 
 ------ Symbol Refresh Directives ------
@@ -38,7 +38,7 @@ Update package symbols                 = 'YES'
 Update shape/flash symbols             = 'NO'
 Update symbol padstacks                = 'NO'
 Preserve padstacks replaced on pins    = 'NO'
-Reset symbol text and size locations   = 'YES'
+Reset symbol text and size locations   = 'NO'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
