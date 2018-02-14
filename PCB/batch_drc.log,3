@@ -3,8 +3,8 @@
 (    DRC Update                                                       )
 (                                                                     )
 (    Drawing          : WalkingAidDevice.brd                          )
-(    Software Version : 17.2P019                                      )
-(    Date/Time        : Tue Feb 13 09:58:34 2018                      )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Wed Feb 14 09:53:00 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,10 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  7
-
-
-WARNING: 2 dynamic shape(s) out of date; checking skipped on these elements.
+ ..... Total number of DRC errors  2
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************
